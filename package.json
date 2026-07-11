@@ -1,0 +1,16 @@
+{
+  "name": "german-lessons-static-convex",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit && node --check script.js",
+    "deploy:convex": "convex deploy --typecheck try"
+  },
+  "dependencies": {
+    "convex": "^1.42.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
