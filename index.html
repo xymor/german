@@ -43,6 +43,7 @@
             <a class="button primary" href="#lessons">Open lessons</a>
             <a class="button" href="#review">Start review</a>
           </div>
+          <p id="dataStatus" class="data-status">Connecting to Convex…</p>
         </div>
         <div class="stats-grid" aria-label="Course stats">
           <div class="stat"><strong>2</strong><span>saved lessons</span></div>
@@ -84,6 +85,19 @@
         </div>
         <div id="lessonMeta" class="lesson-meta"></div>
         <div id="sentenceCards" class="sentence-grid"></div>
+        <form id="addLessonForm" class="lesson-form">
+          <div>
+            <span class="eyebrow">Add a lesson</span>
+            <h3>Save new raw sentences to Convex</h3>
+            <p class="muted">Use this for new daily entries. Corrections can be filled in later; the initial save stores them as unreviewed cards.</p>
+          </div>
+          <div class="form-grid">
+            <label>Date <input name="date" placeholder="20260709" required pattern="\\d{8}"></label>
+            <label>Title <input name="title" placeholder="Daily practice" value="Daily practice"></label>
+          </div>
+          <label>Sentences <textarea name="sentences" rows="7" placeholder="1. Ich schreibe einen Satz.&#10;2. Ich lerne Deutsch." required></textarea></label>
+          <button type="submit" class="button primary">Save to Convex</button>
+        </form>
       </section>
 
       <section id="review" class="panel section">
@@ -102,7 +116,7 @@
             <p id="reviewAnswer"></p>
           </details>
           <div class="review-actions">
-            <button>Again</button><button>Hard</button><button>Good</button><button>Easy</button>
+            <button data-rate="again">Again</button><button data-rate="hard">Hard</button><button data-rate="good">Good</button><button data-rate="easy">Easy</button>
           </div>
         </div>
       </section>
