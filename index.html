@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>German Lessons — Sentence Coach</title>
+  <meta name="description" content="A B1 German sentence-correction course with daily lessons, review cards, vocabulary, and grammar notes." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Course navigation">
+      <div class="brand">
+        <div class="brand-mark">ß</div>
+        <div>
+          <strong>German Coach</strong>
+          <span>B1 sentence practice</span>
+        </div>
+      </div>
+      <nav>
+        <a href="#dashboard" class="active">Dashboard</a>
+        <a href="#lessons">Daily Lessons</a>
+        <a href="#review">Review Queue</a>
+        <a href="#vocabulary">Vocabulary</a>
+        <a href="#grammar">Grammar Notes</a>
+      </nav>
+      <div class="sidebar-card">
+        <span class="eyebrow">Focus</span>
+        <p>Write sentences → get corrections → review weak points over time.</p>
+      </div>
+    </aside>
+
+    <main>
+      <section id="dashboard" class="hero panel">
+        <div>
+          <span class="eyebrow">Personal German course</span>
+          <h1>Turn daily German sentences into a structured review course.</h1>
+          <p class="lede">A calm static learning dashboard for Raphael’s German practice: dated lessons, correction cards, vocabulary, grammar patterns, and spaced-review prompts.</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#lessons">Open lessons</a>
+            <a class="button" href="#review">Start review</a>
+          </div>
+        </div>
+        <div class="stats-grid" aria-label="Course stats">
+          <div class="stat"><strong>2</strong><span>saved lessons</span></div>
+          <div class="stat"><strong>54</strong><span>practice sentences</span></div>
+          <div class="stat"><strong>B1</strong><span>target level</span></div>
+          <div class="stat"><strong>8</strong><span>weak areas</span></div>
+        </div>
+      </section>
+
+      <section class="grid two" aria-label="Learning overview">
+        <article class="panel">
+          <span class="eyebrow">Weak areas</span>
+          <h2>What to review next</h2>
+          <div class="tag-cloud">
+            <span>articles & cases</span><span>prepositions</span><span>natural phrasing</span><span>word choice</span><span>verb prefixes</span><span>spelling</span><span>relative clauses</span><span>passive voice</span>
+          </div>
+        </article>
+        <article class="panel accent">
+          <span class="eyebrow">Method</span>
+          <h2>Daily loop</h2>
+          <ol class="method-list">
+            <li>Write 20–30 German sentences.</li>
+            <li>Correct each sentence with short English explanations.</li>
+            <li>Extract vocabulary and grammar patterns.</li>
+            <li>Review mistakes later using active recall.</li>
+          </ol>
+        </article>
+      </section>
+
+      <section id="lessons" class="panel section">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">Daily lessons</span>
+            <h2>Lesson history</h2>
+          </div>
+          <label class="select-label">Lesson
+            <select id="lessonSelect" aria-label="Choose lesson"></select>
+          </label>
+        </div>
+        <div id="lessonMeta" class="lesson-meta"></div>
+        <div id="sentenceCards" class="sentence-grid"></div>
+      </section>
+
+      <section id="review" class="panel section">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">Spaced review</span>
+            <h2>Fix the sentence</h2>
+          </div>
+          <button id="newReview" class="button">New card</button>
+        </div>
+        <div class="review-card">
+          <p class="muted">Prompt</p>
+          <h3 id="reviewPrompt"></h3>
+          <details>
+            <summary>Show answer</summary>
+            <p id="reviewAnswer"></p>
+          </details>
+          <div class="review-actions">
+            <button>Again</button><button>Hard</button><button>Good</button><button>Easy</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="vocabulary" class="panel section">
+        <span class="eyebrow">Vocabulary</span>
+        <h2>Useful words and phrases</h2>
+        <div id="vocabGrid" class="vocab-grid"></div>
+      </section>
+
+      <section id="grammar" class="panel section">
+        <span class="eyebrow">Grammar notes</span>
+        <h2>B1-friendly explanations</h2>
+        <div class="grammar-list">
+          <article><h3>bis zum Ende</h3><p>Use <strong>bis zu + dative</strong> for “up to/until a point”: <em>bis zum Ende</em>, not <em>bis das Ende</em>.</p></article>
+          <article><h3>sich daraus entwickeln</h3><p>For “develop from this,” use a reflexive construction: <em>Daraus entwickelt sich ein Teufelskreis.</em></p></article>
+          <article><h3>mit Hilfe / mithilfe</h3><p>Both <em>mithilfe</em> and <em>mit Hilfe</em> are used. In modern spelling, <em>mithilfe dieser Software</em> is compact and natural.</p></article>
+          <article><h3>weder … noch</h3><p>The pattern is fixed: <em>weder Mühe noch Geld</em>. Remember capitalization at the beginning of the sentence: <em>Man</em>.</p></article>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
