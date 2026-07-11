@@ -115,9 +115,13 @@
             <summary>Show answer</summary>
             <p id="reviewAnswer"></p>
           </details>
-          <div class="review-actions">
-            <button data-rate="again">Again</button><button data-rate="hard">Hard</button><button data-rate="good">Good</button><button data-rate="easy">Easy</button>
+          <div class="review-actions" aria-label="Rate this card">
+            <button data-rate="again" title="Put this card back into the immediate review queue">Again</button>
+            <button data-rate="hard" title="High priority for review">Hard</button>
+            <button data-rate="good" title="Lowest priority for review">Good</button>
+            <button data-rate="easy" title="Low priority for review">Easy</button>
           </div>
+          <p class="muted">Queue order is calculated in Convex from time since last review × priority.</p>
         </div>
       </section>
 

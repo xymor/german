@@ -32,6 +32,7 @@ const vocab = [
 let lessons = [];
 let reviewCards = [];
 let currentReview = null;
+let reviewIndex = 0;
 
 const lessonSelect = document.querySelector('#lessonSelect');
 const sentenceCards = document.querySelector('#sentenceCards');
@@ -70,6 +71,7 @@ async function loadData() {
   }
   renderLessonOptions();
   renderLesson(0);
+  reviewIndex = 0;
   renderReview();
 }
 
@@ -117,16 +119,21 @@ function renderVocab() {
   `).join('');
 }
 
-function renderReview() {
+function renderReview(offset = 0) {
   if (!reviewCards.length) {
     reviewPrompt.textContent = 'No review cards yet.';
     reviewAnswer.textContent = '';
     currentReview = null;
+    reviewIndex = 0;
     return;
   }
-  currentReview = reviewCards[Math.floor(Math.random() * reviewCards.length)];
+  reviewIndex = (reviewIndex + offset + reviewCards.length) % reviewCards.length;
+  currentReview = reviewCards[reviewIndex];
+  const priority = Number(currentReview.priority ?? 2);
+  const score = Number(currentReview.reviewScore ?? 0);
   reviewPrompt.textContent = currentReview.prompt;
   reviewAnswer.textContent = currentReview.answer;
+  dataStatus.textContent = `${dataStatus.textContent.replace(/ · Showing.*/, '')} · Showing priority ${priority.toFixed(1)} / score ${score.toFixed(2)}`;
 }
 
 async function rateCurrentCard(difficulty) {
@@ -184,7 +191,7 @@ function escapeHtml(value) {
 }
 
 lessonSelect.addEventListener('change', e => renderLesson(Number(e.target.value)));
-document.querySelector('#newReview').addEventListener('click', renderReview);
+document.querySelector('#newReview').addEventListener('click', () => renderReview(1));
 document.querySelectorAll('[data-rate]').forEach(button => button.addEventListener('click', () => rateCurrentCard(button.dataset.rate)));
 addLessonForm.addEventListener('submit', handleAddLesson);
 renderVocab();
