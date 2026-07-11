@@ -102,3 +102,17 @@ summary { cursor:pointer; font-weight: 800; }
   .hero, .grid.two .panel, .section { padding: 20px; border-radius: 22px; }
   .section-heading { align-items:flex-start; flex-direction:column; }
 }
+
+.data-status { margin-top: 18px; color: var(--muted); font-weight: 700; }
+.status.unreviewed { color: #082f49; background: var(--blue); }
+.lesson-form { margin-top: 28px; display: grid; gap: 16px; border: 1px solid var(--line); border-radius: 22px; padding: 20px; background: rgba(255,255,255,.045); }
+.form-grid { display: grid; grid-template-columns: 180px 1fr; gap: 14px; }
+.lesson-form label { display: grid; gap: 7px; color: var(--muted); font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; }
+.lesson-form input, .lesson-form textarea { width: 100%; border: 1px solid var(--line); border-radius: 14px; padding: 12px 13px; color: var(--text); background: rgba(0,0,0,.18); font: inherit; font-size: 15px; text-transform: none; letter-spacing: 0; }
+.lesson-form textarea { resize: vertical; line-height: 1.5; }
+@media (prefers-color-scheme: light) {
+  .lesson-form input, .lesson-form textarea { background: #fff; color: var(--text); }
+}
+@media (max-width: 560px) {
+  .form-grid { grid-template-columns: 1fr; }
+}
