@@ -76,7 +76,11 @@ async function loadData() {
   }
   renderDashboardStats();
   renderLessonOptions();
-  renderLesson(0);
+  const initialLessonIndex = getRequestedLessonIndex();
+  await selectLesson(initialLessonIndex);
+  if (hasRequestedChapter()) {
+    document.querySelector('#lessons')?.scrollIntoView({ block: 'start' });
+  }
   reviewIndex = 0;
   renderReview();
 }
@@ -137,6 +141,52 @@ function renderLessonOptions() {
     option.textContent = lesson.order ? `${lesson.order}. ${lesson.title}` : (lesson.date || lesson.title);
     lessonSelect.appendChild(option);
   });
+}
+
+function parseHashState() {
+  const rawHash = window.location.hash.replace(/^#/, '') || 'dashboard';
+  const [section = 'dashboard', query = ''] = rawHash.split('?');
+  return { section, params: new URLSearchParams(query) };
+}
+
+function hasRequestedChapter() {
+  return parseHashState().params.has('ch');
+}
+
+function getRequestedLessonIndex() {
+  const { params } = parseHashState();
+  const requested = params.get('ch');
+  if (!requested) return 0;
+  const normalized = requested.trim().toLowerCase();
+  const number = Number(normalized);
+  const byOrder = Number.isFinite(number) ? lessons.findIndex(lesson => Number(lesson.order) === number) : -1;
+  if (byOrder >= 0) return byOrder;
+  const bySlug = lessons.findIndex(lesson => String(lesson.slug || '').toLowerCase() === normalized);
+  return bySlug >= 0 ? bySlug : 0;
+}
+
+function updateChapterHash(lesson) {
+  const { section, params } = parseHashState();
+  const chapter = lesson?.order || lesson?.slug;
+  if (!chapter) return;
+  params.set('ch', chapter);
+  const nextHash = `#${section || 'lessons'}?${params.toString()}`;
+  if (window.location.hash !== nextHash) {
+    history.replaceState(null, '', nextHash);
+  }
+}
+
+async function selectLesson(index, { updateHash = false } = {}) {
+  if (!lessons.length) return;
+  const safeIndex = Math.max(0, Math.min(Number(index) || 0, lessons.length - 1));
+  lessonSelect.value = String(safeIndex);
+  await renderLesson(safeIndex);
+  if (updateHash) updateChapterHash(lessons[safeIndex]);
+}
+
+async function applyHashSelection() {
+  if (!lessons.length || !hasRequestedChapter()) return;
+  await selectLesson(getRequestedLessonIndex());
 }
 
 async function renderLesson(index = 0) {
@@ -376,7 +426,8 @@ function escapeHtml(value) {
   return String(value ?? '').replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[char]));
 }
 
-lessonSelect.addEventListener('change', e => renderLesson(Number(e.target.value)));
+lessonSelect.addEventListener('change', e => selectLesson(Number(e.target.value), { updateHash: true }));
+window.addEventListener('hashchange', applyHashSelection);
 document.querySelector('#newReview').addEventListener('click', () => renderReview(1));
 document.querySelectorAll('[data-rate]').forEach(button => button.addEventListener('click', () => rateCurrentCard(button.dataset.rate)));
 addLessonForm.addEventListener('submit', handleAddLesson);
