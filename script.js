@@ -46,6 +46,7 @@ const statLessons = document.querySelector('#statLessons');
 const statCards = document.querySelector('#statCards');
 const statFocusTags = document.querySelector('#statFocusTags');
 const focusTagCloud = document.querySelector('#focusTagCloud');
+const dashboardSummary = document.querySelector('#dashboardSummary');
 
 async function convexFetch(path, options = {}) {
   const response = await fetch(`${CONVEX_SITE_URL}${path}`, {
@@ -82,19 +83,35 @@ async function loadData() {
 
 function renderDashboardStats() {
   const focusTags = getFocusTags();
+  const nextCard = reviewCards[0];
+  const latestLesson = [...lessons].sort((a, b) => Number(b.order || 0) - Number(a.order || 0))[0];
   statLessons.textContent = String(lessons.length);
   statCards.textContent = String(reviewCards.length);
   statFocusTags.textContent = String(focusTags.length);
   focusTagCloud.innerHTML = focusTags.slice(0, 12).map(({ tag, count }) => `
     <span>${escapeHtml(tag)} <small>${count}</small></span>
   `).join('') || '<span>No focus tags yet</span>';
+  dashboardSummary.innerHTML = `
+    <article>
+      <span>Next review</span>
+      <strong>${escapeHtml(nextCard?.prompt || 'No card queued')}</strong>
+    </article>
+    <article>
+      <span>Top focus</span>
+      <strong>${escapeHtml(focusTags[0]?.tag || 'No tags yet')}</strong>
+    </article>
+    <article>
+      <span>Latest lesson</span>
+      <strong>${escapeHtml(latestLesson ? `${latestLesson.order || ''}. ${latestLesson.title}`.trim() : 'No lessons yet')}</strong>
+    </article>
+  `;
 }
 
 function getFocusTags() {
   const counts = new Map();
   const addTag = (tag, weight = 1) => {
     const normalized = String(tag || '').trim().toLowerCase();
-    if (!normalized) return;
+    if (!normalized || normalized === 'notion' || /^\d{8}$/.test(normalized)) return;
     counts.set(normalized, (counts.get(normalized) || 0) + weight);
   };
   lessons.forEach(lesson => (lesson.tags || []).forEach(tag => addTag(tag, 1)));
