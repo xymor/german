@@ -19,6 +19,13 @@ const intervalByDifficulty = {
   good: 14,
 } as const;
 
+const lessonPriorityMultiplier = {
+  again: 1.75,
+  hard: 1.35,
+  easy: 0.9,
+  good: 0.75,
+} as const;
+
 function priorityFor(difficultyValue?: keyof typeof priorityByDifficulty) {
   return difficultyValue ? priorityByDifficulty[difficultyValue] : 2;
 }
@@ -29,6 +36,13 @@ function scoreCard(card: { priority?: number; lastReviewedAt?: number; difficult
   const ageDays = Math.max(0.01, (now - lastReviewedAt) / DAY_MS);
   const immediateQueueBoost = card.difficulty === "again" ? 10_000 : 0;
   return ageDays * priority + immediateQueueBoost;
+}
+
+function lessonScore(lesson: { priority?: number; lastReviewedAt?: number; createdAt?: number }, now: number) {
+  const priority = lesson.priority ?? 1;
+  const lastReviewedAt = lesson.lastReviewedAt ?? lesson.createdAt ?? 0;
+  const ageDays = Math.max(0.01, (now - lastReviewedAt) / DAY_MS);
+  return ageDays * priority;
 }
 
 export const list = query({
@@ -55,6 +69,7 @@ export const upsertMany = mutation({
       prompt: v.string(),
       answer: v.string(),
       cardType,
+      lessonSlug: v.optional(v.string()),
       dueDate: v.optional(v.string()),
       difficulty: v.optional(difficulty),
       intervalDays: v.optional(v.number()),
@@ -71,10 +86,15 @@ export const upsertMany = mutation({
     for (const card of cards) {
       const priority = card.priority ?? priorityFor(card.difficulty);
       const lastReviewedAt = card.lastReviewedAt;
+      const linkedLesson = card.lessonSlug
+        ? await ctx.db.query("lessons").withIndex("by_slug", (q) => q.eq("slug", card.lessonSlug)).unique()
+        : null;
       await ctx.db.insert("reviewCards", {
         prompt: card.prompt,
         answer: card.answer,
         cardType: card.cardType,
+        lessonId: linkedLesson?._id,
+        lessonSlug: card.lessonSlug,
         dueDate: card.dueDate,
         difficulty: card.difficulty,
         intervalDays: card.intervalDays,
@@ -90,10 +110,30 @@ export const upsertMany = mutation({
   },
 });
 
+export const relinkToLessons = mutation({
+  args: {},
+  handler: async (ctx) => {
+    const cards = await ctx.db.query("reviewCards").collect();
+    const lessons = await ctx.db.query("lessons").collect();
+    let linked = 0;
+    for (const card of cards) {
+      if (!card.lessonSlug) continue;
+      const lesson = lessons.find((candidate) => candidate.slug === card.lessonSlug);
+      if (!lesson) continue;
+      await ctx.db.patch(card._id, { lessonId: lesson._id, updatedAt: Date.now() });
+      linked += 1;
+    }
+    return { linked };
+  },
+});
+
 export const rate = mutation({
   args: { id: v.id("reviewCards"), difficulty },
   handler: async (ctx, { id, difficulty }) => {
     const now = Date.now();
+    const card = await ctx.db.get(id);
+    if (!card) throw new Error("Card not found");
+
     const priority = priorityByDifficulty[difficulty];
     const intervalDays = intervalByDifficulty[difficulty];
     const due = new Date(now + intervalDays * DAY_MS).toISOString().slice(0, 10);
@@ -107,6 +147,26 @@ export const rate = mutation({
       dueDate: due,
       updatedAt: now,
     });
-    return { id, difficulty, priority, lastReviewedAt: now, reviewScore, dueDate: due };
+
+    let lessonUpdate = null;
+    const lesson = card.lessonId
+      ? await ctx.db.get(card.lessonId)
+      : card.lessonSlug
+        ? await ctx.db.query("lessons").withIndex("by_slug", (q) => q.eq("slug", card.lessonSlug)).unique()
+        : null;
+
+    if (lesson) {
+      const oldPriority = lesson.priority ?? 1;
+      const adjustedPriority = Math.max(0.5, Math.min(20, oldPriority * lessonPriorityMultiplier[difficulty]));
+      const patch = {
+        priority: adjustedPriority,
+        reviewScore: lessonScore({ ...lesson, priority: adjustedPriority }, now),
+        updatedAt: now,
+      };
+      await ctx.db.patch(lesson._id, patch);
+      lessonUpdate = { id: lesson._id, slug: lesson.slug, oldPriority, priority: adjustedPriority };
+    }
+
+    return { id, difficulty, priority, lastReviewedAt: now, reviewScore, dueDate: due, lessonUpdate };
   },
 });

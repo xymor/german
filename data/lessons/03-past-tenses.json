@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "slug": "03-past-tenses",
+  "order": 3,
+  "title": "Chapter 3: Past Tenses",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/03-past-tenses.md",
+  "sourceMarkdownFile": "03-past-tenses.md",
+  "jsonPath": "data/lessons/03-past-tenses.json",
+  "markdown": "# Chapter 3: Past Tenses\n\n## Perfekt (Present Perfect)\n\n### Introduction\nThe Perfekt is the most commonly used past tense in spoken German. It's used to describe completed actions in the past that have a connection to the present or are relevant to the current situation.\n\n### Formation\nThe Perfekt is formed with:\n- **Auxiliary verb**: `haben` or `sein` (conjugated in present tense)\n- **Past participle** (Partizip II) of the main verb\n\n### Using \"haben\" vs \"sein\"\n\n#### Verbs that use \"haben\"\nMost verbs use `haben`:\n- **Transitive verbs** (verbs with direct objects)\n- **Reflexive verbs**\n- **Modal verbs**\n- **Most intransitive verbs** (verbs without movement)\n\n**Examples:**\n- Ich **habe** gestern einen Kuchen **gebacken**. (I baked a cake yesterday.)\n- Sie **hat** das Buch **gelesen**. (She read the book.)\n- Wir **haben** uns gut **amüsiert**. (We had a good time.)\n- Du **hast** das nicht **gewollt**. (You didn't want that.)\n\n#### Verbs that use \"sein\"\nOnly a limited group of verbs use `sein`:\n- **Verbs of movement** (gehen, fahren, fliegen, kommen, etc.)\n- **Verbs of change of state** (werden, sterben, aufwachen, etc.)\n- **Some other specific verbs** (sein, bleiben, passieren, geschehen)\n\n**Examples:**\n- Ich **bin** gestern nach Berlin **gefahren**. (I drove to Berlin yesterday.)\n- Sie **ist** schnell nach Hause **gelaufen**. (She ran home quickly.)\n- Er **ist** krank **geworden**. (He became ill.)\n- Was **ist** passiert? (What happened?)\n\n### Formation of Past Participles (Partizip II)\n\n#### Regular Verbs (Weak Verbs)\n- **Prefix**: `ge-`\n- **Root**: verb stem\n- **Suffix**: `-t` (or `-et` if stem ends in -d, -t, -m, -n)\n\n**Examples:**\n- machen → **ge-mach-t** (made)\n- spielen → **ge-spiel-t** (played)\n- arbeiten → **ge-arbeit-et** (worked)\n- öffnen → **ge-öffnet** (opened)\n\n#### Irregular Verbs (Strong Verbs)\n- **Prefix**: `ge-`\n- **Root**: changed vowel (sometimes consonant change)\n- **Suffix**: `-en`\n\n**Examples:**\n- gehen → **ge-gang-en** (gone)\n- sehen → **ge-seh-en** (seen)\n- sprechen → **ge-sproch-en** (spoken)\n- trinken → **ge-trunken** (drunk)\n\n#### Verbs with Inseparable Prefixes\n- **No `ge-` prefix**\n- **Regular endings**: `-t` or `-en`\n\n**Examples:**\n- verstehen → **verstanden** (understood)\n- besuchen → **besucht** (visited)\n- erzählen → **erzählt** (told)\n\n#### Verbs with Separable Prefixes\n- **`ge-` goes between prefix and verb**\n- **Regular endings**\n\n**Examples:**\n- aufmachen → **auf-ge-mach-t** (opened)\n- einkaufen → **ein-ge-kauf-t** (shopped)\n- mitkommen → **mit-ge-komm-en** (came along)\n\n### Word Order in Perfekt\n- **Main clause**: auxiliary verb in second position, past participle at the end\n- **Questions**: auxiliary verb in first position\n- **Subordinate clause**: auxiliary verb at the end, past participle before it\n\n**Examples:**\n- Ich habe gestern Fußball gespielt. (I played football yesterday.)\n- Hast du das Buch gelesen? (Did you read the book?)\n- Er sagt, dass er gestern in der Stadt war. (He says that he was in the city yesterday.)\n\n### Common Time Expressions\n- gestern (yesterday)\n- vorgestern (the day before yesterday)\n- letzte Woche (last week)\n- vor einem Jahr (a year ago)\n- schon (already)\n- noch nicht (not yet)\n- bisher (until now)\n\n---\n\n## Präteritum (Simple Past)\n\n### Introduction\nThe Präteritum is primarily used in written German, especially in narratives, stories, and formal texts. In spoken German, it's mainly used with certain verbs (sein, haben, modal verbs).\n\n### Formation\n\n#### Regular Verbs (Weak Verbs)\n- **Personal endings**: `-te`, `-test`, `-te`, `-ten`, `-tet`, `-ten`\n- **Added to the verb stem**\n\n**Conjugation pattern:**\n- ich machte (I made)\n- du machtest (you made)\n- er/sie/es machte (he/she/it made)\n- wir machten (we made)\n- ihr machtet (you made)\n- sie/Sie machten (they/you formal made)\n\n**Examples:**\n- Ich spielte gestern Fußball. (I played football yesterday.)\n- Sie arbeitete den ganzen Tag. (She worked all day.)\n- Wir kauften Lebensmittel ein. (We bought groceries.)\n\n#### Irregular Verbs (Strong Verbs)\n- **Vowel change** in the stem (and sometimes consonant change)\n- **Personal endings**: `-`, `-st`, `-`, `-en`, `-t`, `-en` (no `-te`)\n\n**Common irregular verbs:**\n- gehen → ich ging, du gingst, er ging, wir gingen, ihr gingt, sie gingen\n- sehen → ich sah, du sahst, er sah, wir sahen, ihr saht, sie sahen\n- sprechen → ich sprach, du sprachst, er sprach, wir sprachen, ihr spracht, sie sprachen\n- nehmen → ich nahm, du nahmst, er nahm, wir nahmen, ihr nahmt, sie nahmen\n\n**Examples:**\n- Er ging gestern ins Kino. (He went to the cinema yesterday.)\n- Wir sahen einen guten Film. (We saw a good film.)\n- Sie nahm den Zug. (She took the train.)\n\n### Important Verbs in Präteritum\n\n#### \"sein\" (to be)\n- ich war\n- du warst\n- er/sie/es war\n- wir waren\n- ihr wart\n- sie/Sie waren\n\n**Example:** Gestern war ich müde. (Yesterday I was tired.)\n\n#### \"haben\" (to have)\n- ich hatte\n- du hattest\n- er/sie/es hatte\n- wir hatten\n- ihr hattet\n- sie/Sie hatten\n\n**Example:** Sie hatte keine Zeit. (She had no time.)\n\n#### Modal Verbs in Präteritum\n- können → ich konnte, du konntest, er konnte, wir konnten, ihr konntet, sie konnten\n- müssen → ich musste, du musstest, er musste, wir mussten, ihr musstet, sie mussten\n- sollen → ich sollte, du solltest, er sollte, wir sollten, ihr solltet, sie sollten\n- dürfen → ich durfte, du durftest, er durfte, wir durften, ihr durftet, sie durften\n- wollen → ich wollte, du wolltest, er wollte, wir wollten, ihr wolltet, sie wollten\n- mögen → ich mochte, du mochtest, er mochte, wir mochten, ihr mochtet, sie mochten\n\n**Examples:**\n- Ich konnte nicht kommen. (I couldn't come.)\n- Sie musste früher gehen. (She had to leave earlier.)\n- Wir wollten ins Kino gehen. (We wanted to go to the cinema.)\n\n### When to Use Präteritum\n1. **Written narratives** (stories, novels, reports)\n2. **Historical events**\n3. **Formal writing**\n4. **With sein, haben, and modal verbs** (even in spoken German)\n\n**Example:** Vor zwei Jahren **wohnte** ich in München. Dann **zog** ich nach Berlin **um**. Ich **war** sehr glücklich dort. (Two years ago I lived in Munich. Then I moved to Berlin. I was very happy there.)\n\n---\n\n## Plusquamperfekt (Past Perfect)\n\n### Introduction\nThe Plusquamperfekt is used to describe an action that happened **before** another past action. It's the \"past of the past.\"\n\n### Formation\nThe Plusquamperfekt is formed with:\n- **Auxiliary verb**: `haben` or `sein` (conjugated in **Präteritum**)\n- **Past participle** (Partizip II) of the main verb\n\n### Conjugation\n\n#### With \"haben\"\n- ich hatte gemacht (I had made)\n- du hattest gemacht (you had made)\n- er/sie/es hatte gemacht (he/she/it had made)\n- wir hatten gemacht (we had made)\n- ihr hattet gemacht (you had made)\n- sie/Sie hatten gemacht (they/you formal had made)\n\n#### With \"sein\"\n- ich war gegangen (I had gone)\n- du warst gegangen (you had gone)\n- er/sie/es war gegangen (he/she/it had gone)\n- wir waren gegangen (we had gone)\n- ihr wart gegangen (you had gone)\n- sie/Sie waren gegangen (they/you formal had gone)\n\n### Usage\nThe Plusquamperfekt establishes a time relationship between two past events:\n- **Plusquamperfekt** = the earlier action\n- **Präteritum/Perfekt** = the later action\n\n**Examples:**\n- Als ich ankam, **hatte** er **schon gegessen**. (When I arrived, he had already eaten.)\n- Sie **war** bereits **weggegangen**, bevor wir **kamen**. (She had already left before we came.)\n- Nachdem ich die Prüfung **bestanden hatte**, **feierte** ich mit meinen Freunden. (After I had passed the exam, I celebrated with my friends.)\n- Ich **hatte** das Buch schon **gelesen**, bevor der Film **kam**. (I had already read the book before the film came out.)\n\n### Time Indicators\n- **bevor** (before)\n- **nachdem** (after)\n- **als** (when)\n- **wenn** (when - repeated actions)\n- **schon** (already)\n- **noch nicht** (not yet)\n\n**More Examples:**\n- **Nachdem** ich **aufgestanden war**, **ging** ich ins Bad. (After I had gotten up, I went to the bathroom.)\n- **Bevor** er **ankam**, **hatten** wir alles **vorbereitet**. (Before he arrived, we had prepared everything.)\n- Sie **hatte** noch nie Deutsch **gesprochen**, bevor sie nach Deutschland **kam**. (She had never spoken German before she came to Germany.)\n\n---\n\n## Comparison of Past Tenses\n\n### Perfekt vs Präteritum\n\n| Aspect | Perfekt | Präteritum |\n|--------|---------|------------|\n| **Usage** | Spoken German, everyday conversation | Written German, narratives |\n| **Formality** | Less formal | More formal |\n| **Auxiliary** | haben/sein (present) | No auxiliary (except sein/haben/modals) |\n| **Example** | Ich habe gestern gekocht. | Ich kochte gestern. |\n\n**Note:** Both sentences mean \"I cooked yesterday,\" but Perfekt is used in speech, Präteritum in writing.\n\n### Time Relationship Example\n\n1. **Plusquamperfekt** (earliest): Ich hatte gegessen.\n2. **Präteritum/Perfekt** (later): Dann kam ich nach Hause.\n3. **Present** (now): Jetzt bin ich hier.\n\n**Full sentence:** Nachdem ich **gegessen hatte**, **kam** ich nach Hause. Jetzt **bin** ich hier. (After I had eaten, I came home. Now I am here.)\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Choose the correct auxiliary\nComplete with \"haben\" or \"sein\":\n\n1. Ich ___ gestern in die Stadt ___ (fahren)\n2. Sie ___ einen Roman ___ (lesen)\n3. Wir ___ zum Strand ___ (gehen)\n4. Er ___ sehr viel ___ (essen)\n5. Du ___ krank ___ (werden)\n\n### Exercise 2: Form the Perfekt\nConvert to Perfekt:\n\n1. Ich spiele Tennis. → Ich ___ Tennis ___\n2. Sie kauft ein Auto. → Sie ___ ein Auto ___\n3. Wir gehen ins Kino. → Wir ___ ins Kino ___\n4. Du machst Hausaufgaben. → Du ___ Hausaufgaben ___\n\n### Exercise 3: Use Präteritum\nConvert to Präteritum:\n\n1. Ich habe gespielt. → Ich ___\n2. Sie hat gelesen. → Sie ___\n3. Wir sind gefahren. → Wir ___\n\n### Exercise 4: Complete with Plusquamperfekt\nFill in the blanks:\n\n1. Nachdem ich ___ (aufstehen), frühstückte ich.\n2. Bevor sie kam, ___ wir alles ___ (vorbereiten).\n3. Als er ankam, ___ sie schon ___ (gehen).\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Wrong auxiliary**: Remember that movement verbs use \"sein\"\n   - ❌ Ich habe nach Hause gegangen.\n   - ✅ Ich bin nach Hause gegangen.\n\n2. **Missing \"ge-\" prefix**: Don't forget the prefix for regular verbs\n   - ❌ Ich habe das Buch lest.\n   - ✅ Ich habe das Buch gelesen.\n\n3. **Inseparable prefix verbs**: Don't add \"ge-\"\n   - ❌ Ich habe das geverstanden.\n   - ✅ Ich habe das verstanden.\n\n4. **Using Präteritum in spoken German**: Avoid using Präteritum for most verbs in conversation\n   - ❌ (Spoken) Ich spielte gestern Fußball.\n   - ✅ (Spoken) Ich habe gestern Fußball gespielt.\n\n5. **Word order**: Keep the past participle at the end\n   - ❌ Ich habe gelesen das Buch.\n   - ✅ Ich habe das Buch gelesen.\n\n---\n\n## Summary\n\n- **Perfekt**: Most common past tense in spoken German; formed with haben/sein + past participle\n- **Präteritum**: Used in written German and narratives; simple past form\n- **Plusquamperfekt**: Past of the past; shows actions that happened before other past actions\n- **Most verbs use \"haben\"**; only movement and state-change verbs use \"sein\"\n- **Past participles** require \"ge-\" prefix except for inseparable prefix verbs\n- **Word order** is crucial: auxiliary verb in second position, past participle at the end\n\n---\n\n## Vocabulary List\n\n- **die Vergangenheit** - the past\n- **gestern** - yesterday\n- **vorgestern** - the day before yesterday\n- **letzte Woche** - last week\n- **vor einem Jahr** - a year ago\n- **schon** - already\n- **noch nicht** - not yet\n- **bevor** - before\n- **nachdem** - after\n- **als** - when (past)\n- **die Handlung** - action\n- **vollendet** - completed\n- **das Partizip** - participle\n",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Perfekt (Present Perfect)",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Introduction",
+      "content": "The Perfekt is the most commonly used past tense in spoken German. It's used to describe completed actions in the past that have a connection to the present or are relevant to the current situation."
+    },
+    {
+      "order": 3,
+      "level": 3,
+      "title": "Formation",
+      "content": "The Perfekt is formed with:\n- **Auxiliary verb**: `haben` or `sein` (conjugated in present tense)\n- **Past participle** (Partizip II) of the main verb"
+    },
+    {
+      "order": 4,
+      "level": 3,
+      "title": "Using \"haben\" vs \"sein\"",
+      "content": ""
+    },
+    {
+      "order": 5,
+      "level": 4,
+      "title": "Verbs that use \"haben\"",
+      "content": "Most verbs use `haben`:\n- **Transitive verbs** (verbs with direct objects)\n- **Reflexive verbs**\n- **Modal verbs**\n- **Most intransitive verbs** (verbs without movement)\n\n**Examples:**\n- Ich **habe** gestern einen Kuchen **gebacken**. (I baked a cake yesterday.)\n- Sie **hat** das Buch **gelesen**. (She read the book.)\n- Wir **haben** uns gut **amüsiert**. (We had a good time.)\n- Du **hast** das nicht **gewollt**. (You didn't want that.)"
+    },
+    {
+      "order": 6,
+      "level": 4,
+      "title": "Verbs that use \"sein\"",
+      "content": "Only a limited group of verbs use `sein`:\n- **Verbs of movement** (gehen, fahren, fliegen, kommen, etc.)\n- **Verbs of change of state** (werden, sterben, aufwachen, etc.)\n- **Some other specific verbs** (sein, bleiben, passieren, geschehen)\n\n**Examples:**\n- Ich **bin** gestern nach Berlin **gefahren**. (I drove to Berlin yesterday.)\n- Sie **ist** schnell nach Hause **gelaufen**. (She ran home quickly.)\n- Er **ist** krank **geworden**. (He became ill.)\n- Was **ist** passiert? (What happened?)"
+    },
+    {
+      "order": 7,
+      "level": 3,
+      "title": "Formation of Past Participles (Partizip II)",
+      "content": ""
+    },
+    {
+      "order": 8,
+      "level": 4,
+      "title": "Regular Verbs (Weak Verbs)",
+      "content": "- **Prefix**: `ge-`\n- **Root**: verb stem\n- **Suffix**: `-t` (or `-et` if stem ends in -d, -t, -m, -n)\n\n**Examples:**\n- machen → **ge-mach-t** (made)\n- spielen → **ge-spiel-t** (played)\n- arbeiten → **ge-arbeit-et** (worked)\n- öffnen → **ge-öffnet** (opened)"
+    },
+    {
+      "order": 9,
+      "level": 4,
+      "title": "Irregular Verbs (Strong Verbs)",
+      "content": "- **Prefix**: `ge-`\n- **Root**: changed vowel (sometimes consonant change)\n- **Suffix**: `-en`\n\n**Examples:**\n- gehen → **ge-gang-en** (gone)\n- sehen → **ge-seh-en** (seen)\n- sprechen → **ge-sproch-en** (spoken)\n- trinken → **ge-trunken** (drunk)"
+    },
+    {
+      "order": 10,
+      "level": 4,
+      "title": "Verbs with Inseparable Prefixes",
+      "content": "- **No `ge-` prefix**\n- **Regular endings**: `-t` or `-en`\n\n**Examples:**\n- verstehen → **verstanden** (understood)\n- besuchen → **besucht** (visited)\n- erzählen → **erzählt** (told)"
+    },
+    {
+      "order": 11,
+      "level": 4,
+      "title": "Verbs with Separable Prefixes",
+      "content": "- **`ge-` goes between prefix and verb**\n- **Regular endings**\n\n**Examples:**\n- aufmachen → **auf-ge-mach-t** (opened)\n- einkaufen → **ein-ge-kauf-t** (shopped)\n- mitkommen → **mit-ge-komm-en** (came along)"
+    },
+    {
+      "order": 12,
+      "level": 3,
+      "title": "Word Order in Perfekt",
+      "content": "- **Main clause**: auxiliary verb in second position, past participle at the end\n- **Questions**: auxiliary verb in first position\n- **Subordinate clause**: auxiliary verb at the end, past participle before it\n\n**Examples:**\n- Ich habe gestern Fußball gespielt. (I played football yesterday.)\n- Hast du das Buch gelesen? (Did you read the book?)\n- Er sagt, dass er gestern in der Stadt war. (He says that he was in the city yesterday.)"
+    },
+    {
+      "order": 13,
+      "level": 3,
+      "title": "Common Time Expressions",
+      "content": "- gestern (yesterday)\n- vorgestern (the day before yesterday)\n- letzte Woche (last week)\n- vor einem Jahr (a year ago)\n- schon (already)\n- noch nicht (not yet)\n- bisher (until now)\n\n---"
+    },
+    {
+      "order": 14,
+      "level": 2,
+      "title": "Präteritum (Simple Past)",
+      "content": ""
+    },
+    {
+      "order": 15,
+      "level": 3,
+      "title": "Introduction",
+      "content": "The Präteritum is primarily used in written German, especially in narratives, stories, and formal texts. In spoken German, it's mainly used with certain verbs (sein, haben, modal verbs)."
+    },
+    {
+      "order": 16,
+      "level": 3,
+      "title": "Formation",
+      "content": ""
+    },
+    {
+      "order": 17,
+      "level": 4,
+      "title": "Regular Verbs (Weak Verbs)",
+      "content": "- **Personal endings**: `-te`, `-test`, `-te`, `-ten`, `-tet`, `-ten`\n- **Added to the verb stem**\n\n**Conjugation pattern:**\n- ich machte (I made)\n- du machtest (you made)\n- er/sie/es machte (he/she/it made)\n- wir machten (we made)\n- ihr machtet (you made)\n- sie/Sie machten (they/you formal made)\n\n**Examples:**\n- Ich spielte gestern Fußball. (I played football yesterday.)\n- Sie arbeitete den ganzen Tag. (She worked all day.)\n- Wir kauften Lebensmittel ein. (We bought groceries.)"
+    },
+    {
+      "order": 18,
+      "level": 4,
+      "title": "Irregular Verbs (Strong Verbs)",
+      "content": "- **Vowel change** in the stem (and sometimes consonant change)\n- **Personal endings**: `-`, `-st`, `-`, `-en`, `-t`, `-en` (no `-te`)\n\n**Common irregular verbs:**\n- gehen → ich ging, du gingst, er ging, wir gingen, ihr gingt, sie gingen\n- sehen → ich sah, du sahst, er sah, wir sahen, ihr saht, sie sahen\n- sprechen → ich sprach, du sprachst, er sprach, wir sprachen, ihr spracht, sie sprachen\n- nehmen → ich nahm, du nahmst, er nahm, wir nahmen, ihr nahmt, sie nahmen\n\n**Examples:**\n- Er ging gestern ins Kino. (He went to the cinema yesterday.)\n- Wir sahen einen guten Film. (We saw a good film.)\n- Sie nahm den Zug. (She took the train.)"
+    },
+    {
+      "order": 19,
+      "level": 3,
+      "title": "Important Verbs in Präteritum",
+      "content": ""
+    },
+    {
+      "order": 20,
+      "level": 4,
+      "title": "\"sein\" (to be)",
+      "content": "- ich war\n- du warst\n- er/sie/es war\n- wir waren\n- ihr wart\n- sie/Sie waren\n\n**Example:** Gestern war ich müde. (Yesterday I was tired.)"
+    },
+    {
+      "order": 21,
+      "level": 4,
+      "title": "\"haben\" (to have)",
+      "content": "- ich hatte\n- du hattest\n- er/sie/es hatte\n- wir hatten\n- ihr hattet\n- sie/Sie hatten\n\n**Example:** Sie hatte keine Zeit. (She had no time.)"
+    },
+    {
+      "order": 22,
+      "level": 4,
+      "title": "Modal Verbs in Präteritum",
+      "content": "- können → ich konnte, du konntest, er konnte, wir konnten, ihr konntet, sie konnten\n- müssen → ich musste, du musstest, er musste, wir mussten, ihr musstet, sie mussten\n- sollen → ich sollte, du solltest, er sollte, wir sollten, ihr solltet, sie sollten\n- dürfen → ich durfte, du durftest, er durfte, wir durften, ihr durftet, sie durften\n- wollen → ich wollte, du wolltest, er wollte, wir wollten, ihr wolltet, sie wollten\n- mögen → ich mochte, du mochtest, er mochte, wir mochten, ihr mochtet, sie mochten\n\n**Examples:**\n- Ich konnte nicht kommen. (I couldn't come.)\n- Sie musste früher gehen. (She had to leave earlier.)\n- Wir wollten ins Kino gehen. (We wanted to go to the cinema.)"
+    },
+    {
+      "order": 23,
+      "level": 3,
+      "title": "When to Use Präteritum",
+      "content": "1. **Written narratives** (stories, novels, reports)\n2. **Historical events**\n3. **Formal writing**\n4. **With sein, haben, and modal verbs** (even in spoken German)\n\n**Example:** Vor zwei Jahren **wohnte** ich in München. Dann **zog** ich nach Berlin **um**. Ich **war** sehr glücklich dort. (Two years ago I lived in Munich. Then I moved to Berlin. I was very happy there.)\n\n---"
+    },
+    {
+      "order": 24,
+      "level": 2,
+      "title": "Plusquamperfekt (Past Perfect)",
+      "content": ""
+    },
+    {
+      "order": 25,
+      "level": 3,
+      "title": "Introduction",
+      "content": "The Plusquamperfekt is used to describe an action that happened **before** another past action. It's the \"past of the past.\""
+    },
+    {
+      "order": 26,
+      "level": 3,
+      "title": "Formation",
+      "content": "The Plusquamperfekt is formed with:\n- **Auxiliary verb**: `haben` or `sein` (conjugated in **Präteritum**)\n- **Past participle** (Partizip II) of the main verb"
+    },
+    {
+      "order": 27,
+      "level": 3,
+      "title": "Conjugation",
+      "content": ""
+    },
+    {
+      "order": 28,
+      "level": 4,
+      "title": "With \"haben\"",
+      "content": "- ich hatte gemacht (I had made)\n- du hattest gemacht (you had made)\n- er/sie/es hatte gemacht (he/she/it had made)\n- wir hatten gemacht (we had made)\n- ihr hattet gemacht (you had made)\n- sie/Sie hatten gemacht (they/you formal had made)"
+    },
+    {
+      "order": 29,
+      "level": 4,
+      "title": "With \"sein\"",
+      "content": "- ich war gegangen (I had gone)\n- du warst gegangen (you had gone)\n- er/sie/es war gegangen (he/she/it had gone)\n- wir waren gegangen (we had gone)\n- ihr wart gegangen (you had gone)\n- sie/Sie waren gegangen (they/you formal had gone)"
+    },
+    {
+      "order": 30,
+      "level": 3,
+      "title": "Usage",
+      "content": "The Plusquamperfekt establishes a time relationship between two past events:\n- **Plusquamperfekt** = the earlier action\n- **Präteritum/Perfekt** = the later action\n\n**Examples:**\n- Als ich ankam, **hatte** er **schon gegessen**. (When I arrived, he had already eaten.)\n- Sie **war** bereits **weggegangen**, bevor wir **kamen**. (She had already left before we came.)\n- Nachdem ich die Prüfung **bestanden hatte**, **feierte** ich mit meinen Freunden. (After I had passed the exam, I celebrated with my friends.)\n- Ich **hatte** das Buch schon **gelesen**, bevor der Film **kam**. (I had already read the book before the film came out.)"
+    },
+    {
+      "order": 31,
+      "level": 3,
+      "title": "Time Indicators",
+      "content": "- **bevor** (before)\n- **nachdem** (after)\n- **als** (when)\n- **wenn** (when - repeated actions)\n- **schon** (already)\n- **noch nicht** (not yet)\n\n**More Examples:**\n- **Nachdem** ich **aufgestanden war**, **ging** ich ins Bad. (After I had gotten up, I went to the bathroom.)\n- **Bevor** er **ankam**, **hatten** wir alles **vorbereitet**. (Before he arrived, we had prepared everything.)\n- Sie **hatte** noch nie Deutsch **gesprochen**, bevor sie nach Deutschland **kam**. (She had never spoken German before she came to Germany.)\n\n---"
+    },
+    {
+      "order": 32,
+      "level": 2,
+      "title": "Comparison of Past Tenses",
+      "content": ""
+    },
+    {
+      "order": 33,
+      "level": 3,
+      "title": "Perfekt vs Präteritum",
+      "content": "| Aspect | Perfekt | Präteritum |\n|--------|---------|------------|\n| **Usage** | Spoken German, everyday conversation | Written German, narratives |\n| **Formality** | Less formal | More formal |\n| **Auxiliary** | haben/sein (present) | No auxiliary (except sein/haben/modals) |\n| **Example** | Ich habe gestern gekocht. | Ich kochte gestern. |\n\n**Note:** Both sentences mean \"I cooked yesterday,\" but Perfekt is used in speech, Präteritum in writing."
+    },
+    {
+      "order": 34,
+      "level": 3,
+      "title": "Time Relationship Example",
+      "content": "1. **Plusquamperfekt** (earliest): Ich hatte gegessen.\n2. **Präteritum/Perfekt** (later): Dann kam ich nach Hause.\n3. **Present** (now): Jetzt bin ich hier.\n\n**Full sentence:** Nachdem ich **gegessen hatte**, **kam** ich nach Hause. Jetzt **bin** ich hier. (After I had eaten, I came home. Now I am here.)\n\n---"
+    },
+    {
+      "order": 35,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 36,
+      "level": 3,
+      "title": "Exercise 1: Choose the correct auxiliary",
+      "content": "Complete with \"haben\" or \"sein\":\n\n1. Ich ___ gestern in die Stadt ___ (fahren)\n2. Sie ___ einen Roman ___ (lesen)\n3. Wir ___ zum Strand ___ (gehen)\n4. Er ___ sehr viel ___ (essen)\n5. Du ___ krank ___ (werden)"
+    },
+    {
+      "order": 37,
+      "level": 3,
+      "title": "Exercise 2: Form the Perfekt",
+      "content": "Convert to Perfekt:\n\n1. Ich spiele Tennis. → Ich ___ Tennis ___\n2. Sie kauft ein Auto. → Sie ___ ein Auto ___\n3. Wir gehen ins Kino. → Wir ___ ins Kino ___\n4. Du machst Hausaufgaben. → Du ___ Hausaufgaben ___"
+    },
+    {
+      "order": 38,
+      "level": 3,
+      "title": "Exercise 3: Use Präteritum",
+      "content": "Convert to Präteritum:\n\n1. Ich habe gespielt. → Ich ___\n2. Sie hat gelesen. → Sie ___\n3. Wir sind gefahren. → Wir ___"
+    },
+    {
+      "order": 39,
+      "level": 3,
+      "title": "Exercise 4: Complete with Plusquamperfekt",
+      "content": "Fill in the blanks:\n\n1. Nachdem ich ___ (aufstehen), frühstückte ich.\n2. Bevor sie kam, ___ wir alles ___ (vorbereiten).\n3. Als er ankam, ___ sie schon ___ (gehen).\n\n---"
+    },
+    {
+      "order": 40,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Wrong auxiliary**: Remember that movement verbs use \"sein\"\n   - ❌ Ich habe nach Hause gegangen.\n   - ✅ Ich bin nach Hause gegangen.\n\n2. **Missing \"ge-\" prefix**: Don't forget the prefix for regular verbs\n   - ❌ Ich habe das Buch lest.\n   - ✅ Ich habe das Buch gelesen.\n\n3. **Inseparable prefix verbs**: Don't add \"ge-\"\n   - ❌ Ich habe das geverstanden.\n   - ✅ Ich habe das verstanden.\n\n4. **Using Präteritum in spoken German**: Avoid using Präteritum for most verbs in conversation\n   - ❌ (Spoken) Ich spielte gestern Fußball.\n   - ✅ (Spoken) Ich habe gestern Fußball gespielt.\n\n5. **Word order**: Keep the past participle at the end\n   - ❌ Ich habe gelesen das Buch.\n   - ✅ Ich habe das Buch gelesen.\n\n---"
+    },
+    {
+      "order": 41,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Perfekt**: Most common past tense in spoken German; formed with haben/sein + past participle\n- **Präteritum**: Used in written German and narratives; simple past form\n- **Plusquamperfekt**: Past of the past; shows actions that happened before other past actions\n- **Most verbs use \"haben\"**; only movement and state-change verbs use \"sein\"\n- **Past participles** require \"ge-\" prefix except for inseparable prefix verbs\n- **Word order** is crucial: auxiliary verb in second position, past participle at the end\n\n---"
+    },
+    {
+      "order": 42,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **die Vergangenheit** - the past\n- **gestern** - yesterday\n- **vorgestern** - the day before yesterday\n- **letzte Woche** - last week\n- **vor einem Jahr** - a year ago\n- **schon** - already\n- **noch nicht** - not yet\n- **bevor** - before\n- **nachdem** - after\n- **als** - when (past)\n- **die Handlung** - action\n- **vollendet** - completed\n- **das Partizip** - participle"
+    }
+  ],
+  "tags": [
+    "modal verbs",
+    "past tense",
+    "vocabulary",
+    "writing"
+  ],
+  "contentHash": "c0258cc9ee56046437a293366147ae15e92f11695c2467e11b22e1dc623ac3af"
+}

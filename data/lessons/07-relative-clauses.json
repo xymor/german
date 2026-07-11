@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "slug": "07-relative-clauses",
+  "order": 7,
+  "title": "Chapter 7: Relative Clauses",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/07-relative-clauses.md",
+  "sourceMarkdownFile": "07-relative-clauses.md",
+  "jsonPath": "data/lessons/07-relative-clauses.json",
+  "markdown": "# Chapter 7: Relative Clauses\n\n## Relative Pronouns (der, die, das, welcher)\n\n### Introduction\nRelative clauses provide additional information about a noun (the antecedent). They are introduced by relative pronouns and follow the noun they describe.\n\n### Basic Relative Pronouns\n\nThe most common relative pronouns are **der, die, das** (the same forms as definite articles). They agree with the antecedent in gender and number.\n\n| Gender/Number | Nominative | Accusative | Dative | Genitive |\n|---------------|------------|------------|--------|----------|\n| **Masculine** | der | den | dem | dessen |\n| **Feminine** | die | die | der | deren |\n| **Neuter** | das | das | dem | dessen |\n| **Plural** | die | die | denen | deren |\n\n### Formation and Word Order\n\n#### Structure\n- **Main clause** + **relative pronoun** + **relative clause**\n- The relative pronoun replaces the noun in the relative clause\n- Comma separates main clause from relative clause\n\n#### Word Order in Relative Clauses\n- Relative pronoun is the first element\n- Verb goes to the end of the relative clause (like subordinate clauses)\n- No subject-verb inversion\n\n**Example:**\n- Das ist der Mann, **der** in Berlin wohnt.\n  (That is the man **who** lives in Berlin.)\n\n### Basic Examples\n\n#### Nominative Relative Pronouns\n- Der Mann, **der** dort steht, ist mein Bruder. (The man who is standing there is my brother.)\n- Die Frau, **die** singt, ist meine Mutter. (The woman who is singing is my mother.)\n- Das Kind, **das** weint, ist hungrig. (The child who is crying is hungry.)\n- Die Leute, **die** warten, sind müde. (The people who are waiting are tired.)\n\n#### Accusative Relative Pronouns\n- Das ist der Mann, **den** ich gestern getroffen habe. (That is the man whom I met yesterday.)\n- Die Frau, **die** ich liebe, wohnt in München. (The woman whom I love lives in Munich.)\n- Das Buch, **das** du liest, ist interessant. (The book that you are reading is interesting.)\n- Die Kinder, **die** wir einladen, kommen morgen. (The children whom we invite are coming tomorrow.)\n\n#### Dative Relative Pronouns\n- Der Mann, **dem** ich helfe, ist mein Nachbar. (The man to whom I help is my neighbor.)\n- Die Frau, **der** ich das Buch gebe, ist Lehrerin. (The woman to whom I give the book is a teacher.)\n- Das Kind, **dem** wir Geschenke bringen, ist fünf Jahre alt. (The child to whom we bring presents is five years old.)\n- Die Leute, **denen** wir danken, haben uns geholfen. (The people to whom we thank have helped us.)\n\n#### Genitive Relative Pronouns\n- Der Mann, **dessen** Auto kaputt ist, braucht Hilfe. (The man whose car is broken needs help.)\n- Die Frau, **deren** Kinder in der Schule sind, arbeitet zu Hause. (The woman whose children are in school works from home.)\n- Das Haus, **dessen** Dach rot ist, gehört meinem Onkel. (The house whose roof is red belongs to my uncle.)\n- Die Leute, **deren** Haus abgebrannt ist, brauchen Hilfe. (The people whose house burned down need help.)\n\n### welcher, welche, welches\n\n**welcher** is an alternative to **der/die/das**, especially when there might be confusion with definite articles. It declines like **welcher** (interrogative pronoun).\n\n| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nom.** | welcher | welche | welches | welche |\n| **Acc.** | welchen | welche | welches | welche |\n| **Dat.** | welchem | welcher | welchem | welchen |\n| **Gen.** | welches | welcher | welches | welcher |\n\n**Examples:**\n- Das Haus, **welches** am Ende der Straße steht, ist neu. (The house which stands at the end of the street is new.)\n- Die Frau, **welche** ich gestern traf, ist Ärztin. (The woman whom I met yesterday is a doctor.)\n\n### was (that, which, who)\n\n**was** is used:\n1. After indefinite pronouns (alles, etwas, nichts, vieles, etc.)\n2. After superlatives\n3. In certain fixed expressions\n\n**Examples:**\n- Alles, **was** ich weiß, erzähle ich dir. (Everything that I know, I'll tell you.)\n- Das Beste, **was** ich je gesehen habe. (The best thing that I've ever seen.)\n- Er arbeitet, **was** mich überrascht. (He works, which surprises me.)\n\n---\n\n## Relative Clauses with Prepositions\n\n### Introduction\nWhen a preposition is part of the relative clause, it comes before the relative pronoun. The relative pronoun must be in the correct case required by the preposition.\n\n### Formation\n- **Preposition** + **relative pronoun** (in required case)\n- The preposition determines the case of the relative pronoun\n\n### Examples by Case\n\n#### Accusative Prepositions + Relative Pronouns\n- Das ist der Mann, **für den** ich arbeite. (That is the man for whom I work.)\n- Die Stadt, **in die** wir ziehen, ist schön. (The city into which we move is beautiful.)\n- Das Buch, **durch das** ich viel gelernt habe, ist spannend. (The book through which I learned a lot is exciting.)\n\n#### Dative Prepositions + Relative Pronouns\n- Der Ort, **an dem** wir uns treffen, ist zentral. (The place at which we meet is central.)\n- Die Frau, **mit der** ich spreche, ist meine Chefin. (The woman with whom I speak is my boss.)\n- Das Haus, **in dem** ich wohne, ist alt. (The house in which I live is old.)\n\n#### Two-way Prepositions + Relative Pronouns\n- Der Tisch, **auf dem** das Buch liegt, ist groß. (The table on which the book lies is big.) [Dative - location]\n- Der Tisch, **auf den** ich das Buch lege, ist groß. (The table onto which I put the book is big.) [Accusative - movement]\n\n#### Genitive Prepositions + Relative Pronouns\n- Die Zeit, **während deren** ich warte, vergeht langsam. (The time during which I wait passes slowly.)\n- Der Grund, **wegen dessen** er kommt, ist wichtig. (The reason because of which he comes is important.)\n\n### Preposition Contractions with Relative Pronouns\n\nSome prepositions contract with relative pronouns:\n\n| Preposition + Article | Contraction | Example |\n|----------------------|-------------|---------|\n| zu + dem | **zum** | Der Mann, **zum** ich gehe, ist mein Bruder. |\n| zu + der | **zur** | Die Frau, **zur** ich gehe, ist meine Schwester. |\n| von + dem | **vom** | Das Buch, **vom** ich erzähle, ist interessant. |\n\n### Relative Clauses with wo-, da-, wo(r)- Compounds\n\nFor locations and situations, German often uses special relative adverbs instead of prepositions:\n\n#### wo- (where) for locations\n- Das ist die Stadt, **wo** ich geboren wurde. (That is the city where I was born.)\n- Das Haus, **wo** ich wohne, ist groß. (The house where I live is big.)\n\n#### da- (there) for situations/things\n- Die Zeit, **da** ich jung war, war schön. (The time when I was young was beautiful.)\n- Die Probleme, **da** er sprach, sind gelöst. (The problems that he spoke about are solved.)\n\n#### wo(r)- for time and reason\n- Der Tag, **woran** ich denke, war schön. (The day that I think about was beautiful.)\n- Die Zeit, **wovon** ich träume, kommt bald. (The time that I dream about will come soon.)\n\n### Relative Clauses in Different Positions\n\n#### After the Subject\n- Der Mann, **der** dort steht, ist mein Bruder. (The man who is standing there is my brother.)\n\n#### After Direct Objects\n- Ich kenne den Mann, **den** du gestern getroffen hast. (I know the man whom you met yesterday.)\n\n#### After Indirect Objects\n- Ich gebe dem Mann, **dem** ich vertraue, das Geld. (I give the money to the man whom I trust.)\n\n#### After Prepositional Objects\n- Das ist das Haus, **in dem** ich wohne. (That is the house in which I live.)\n\n#### Non-restrictive Relative Clauses\nNon-restrictive clauses add extra information and are set off by commas:\n- Mein Bruder, **der** in Berlin wohnt, kommt morgen. (My brother, who lives in Berlin, is coming tomorrow.)\n- (Implies I have only one brother)\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Basic Relative Pronouns\nComplete the relative clauses with the correct relative pronoun:\n\n1. Der Mann, ___ dort arbeitet, ist mein Vater. (who works there)\n2. Die Frau, ___ ich helfe, ist krank. (whom I help)\n3. Das Kind, ___ spielt, ist mein Sohn. (who plays)\n4. Die Leute, ___ warten, sind müde. (who wait)\n5. Das Buch, ___ du liest, ist interessant. (that you read)\n\n### Exercise 2: All Cases\nChoose the correct relative pronoun and case:\n\n1. Der Mann, ___ Auto kaputt ist, braucht Hilfe. (whose car)\n2. Die Frau, ___ ich das Buch gebe, ist Lehrerin. (to whom I give)\n3. Das Kind, ___ wir Geschenke bringen, ist fünf. (to whom we bring)\n4. Die Leute, ___ Haus abgebrannt ist, brauchen Hilfe. (whose house)\n5. Der Student, ___ ich vertraue, ist fleißig. (whom I trust)\n\n### Exercise 3: Relative Clauses with Prepositions\nComplete with preposition + relative pronoun:\n\n1. Das ist der Mann, ___ ich arbeite. (for whom I work)\n2. Die Stadt, ___ wir ziehen, ist schön. (into which we move)\n3. Der Ort, ___ wir uns treffen, ist zentral. (at which we meet)\n4. Die Frau, ___ ich spreche, ist meine Chefin. (with whom I speak)\n5. Das Haus, ___ ich wohne, ist alt. (in which I live)\n\n### Exercise 4: welcher vs der/die/das\nRewrite using welcher/welche/welches where appropriate:\n\n1. Das Buch, das auf dem Tisch liegt, ist meins.\n2. Die Frau, die dort steht, ist meine Schwester.\n3. Der Mann, der gestern anrief, war mein Bruder.\n4. Die Kinder, die spielen, sind laut.\n\n### Exercise 5: Complex Sentences\nCombine the sentences using relative clauses:\n\n1. Ich habe einen Freund. Er wohnt in Berlin. Sein Name ist Max.\n2. Sie liest ein Buch. Das Buch ist sehr interessant. Sie hat es von ihrer Mutter bekommen.\n3. Wir besuchen eine Stadt. In dieser Stadt gibt es viele Museen. Die Stadt heißt München.\n4. Er hat eine Schwester. Mit seiner Schwester arbeitet er zusammen. Sie ist Ärztin.\n5. Ich kenne einen Mann. Sein Haus ist sehr groß. Er ist Millionär.\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Wrong case for relative pronoun**\n   - ❌ Der Mann, die ich liebe (case doesn't match function)\n   - ✅ Der Mann, den ich liebe (accusative for direct object)\n\n2. **Missing comma**\n   - ❌ Der Mann der dort steht ist mein Bruder.\n   - ✅ Der Mann, der dort steht, ist mein Bruder.\n\n3. **Wrong word order in relative clause**\n   - ❌ Der Mann, der steht dort, ist mein Bruder. (verb in wrong position)\n   - ✅ Der Mann, der dort steht, ist mein Bruder.\n\n4. **Using \"was\" incorrectly**\n   - ❌ Der Mann, was ich sehe (only for indefinites)\n   - ✅ Der Mann, den ich sehe\n\n5. **Preposition placement**\n   - ❌ Das ist der Mann ich arbeite für.\n   - ✅ Das ist der Mann, für den ich arbeite.\n\n6. **Genitive relative pronouns**\n   - ❌ Die Frau, dem ihre Kinder... (wrong case)\n   - ✅ Die Frau, deren Kinder... (correct genitive)\n\n---\n\n## Summary\n\n- **Relative pronouns**: der/die/das (most common), welcher/welche/welches (alternative), was (for indefinites)\n- **Cases**: Nominative, Accusative, Dative, Genitive - determined by function in relative clause\n- **Word order**: Relative pronoun first, verb at end (like subordinate clauses)\n- **Prepositions**: Come before relative pronoun, determine its case\n- **Commas**: Always separate relative clause from main clause\n- **Contractions**: zum (zu + dem), zur (zu + der), vom (von + dem)\n- **Special adverbs**: wo (where), da (there), wor-/wor- compounds\n\n---\n\n## Vocabulary List\n\n- **der Relativsatz** / **die Relativsätze** - relative clause\n- **das Relativpronomen** - relative pronoun\n- **der Bezug** - reference/antecedent\n- **einschränkend** - restrictive\n- **nicht einschränkend** - non-restrictive\n- **die Wortstellung** - word order\n- **die Konjunktion** - conjunction\n- **der Nebensatz** - subordinate clause\n- **der Hauptsatz** - main clause\n- **wo** - where\n- **da** - there\n- **woran** - on which\n- **wovon** - of which/about which\n- **womit** - with which\n- **wodurch** - through which",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Relative Pronouns (der, die, das, welcher)",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Relative clauses provide additional information about a noun (the antecedent). They are introduced by relative pronouns and follow the noun they describe."
+    },
+    {
+      "order": 3,
+      "level": 3,
+      "title": "Basic Relative Pronouns",
+      "content": "The most common relative pronouns are **der, die, das** (the same forms as definite articles). They agree with the antecedent in gender and number.\n\n| Gender/Number | Nominative | Accusative | Dative | Genitive |\n|---------------|------------|------------|--------|----------|\n| **Masculine** | der | den | dem | dessen |\n| **Feminine** | die | die | der | deren |\n| **Neuter** | das | das | dem | dessen |\n| **Plural** | die | die | denen | deren |"
+    },
+    {
+      "order": 4,
+      "level": 3,
+      "title": "Formation and Word Order",
+      "content": ""
+    },
+    {
+      "order": 5,
+      "level": 4,
+      "title": "Structure",
+      "content": "- **Main clause** + **relative pronoun** + **relative clause**\n- The relative pronoun replaces the noun in the relative clause\n- Comma separates main clause from relative clause"
+    },
+    {
+      "order": 6,
+      "level": 4,
+      "title": "Word Order in Relative Clauses",
+      "content": "- Relative pronoun is the first element\n- Verb goes to the end of the relative clause (like subordinate clauses)\n- No subject-verb inversion\n\n**Example:**\n- Das ist der Mann, **der** in Berlin wohnt.\n  (That is the man **who** lives in Berlin.)"
+    },
+    {
+      "order": 7,
+      "level": 3,
+      "title": "Basic Examples",
+      "content": ""
+    },
+    {
+      "order": 8,
+      "level": 4,
+      "title": "Nominative Relative Pronouns",
+      "content": "- Der Mann, **der** dort steht, ist mein Bruder. (The man who is standing there is my brother.)\n- Die Frau, **die** singt, ist meine Mutter. (The woman who is singing is my mother.)\n- Das Kind, **das** weint, ist hungrig. (The child who is crying is hungry.)\n- Die Leute, **die** warten, sind müde. (The people who are waiting are tired.)"
+    },
+    {
+      "order": 9,
+      "level": 4,
+      "title": "Accusative Relative Pronouns",
+      "content": "- Das ist der Mann, **den** ich gestern getroffen habe. (That is the man whom I met yesterday.)\n- Die Frau, **die** ich liebe, wohnt in München. (The woman whom I love lives in Munich.)\n- Das Buch, **das** du liest, ist interessant. (The book that you are reading is interesting.)\n- Die Kinder, **die** wir einladen, kommen morgen. (The children whom we invite are coming tomorrow.)"
+    },
+    {
+      "order": 10,
+      "level": 4,
+      "title": "Dative Relative Pronouns",
+      "content": "- Der Mann, **dem** ich helfe, ist mein Nachbar. (The man to whom I help is my neighbor.)\n- Die Frau, **der** ich das Buch gebe, ist Lehrerin. (The woman to whom I give the book is a teacher.)\n- Das Kind, **dem** wir Geschenke bringen, ist fünf Jahre alt. (The child to whom we bring presents is five years old.)\n- Die Leute, **denen** wir danken, haben uns geholfen. (The people to whom we thank have helped us.)"
+    },
+    {
+      "order": 11,
+      "level": 4,
+      "title": "Genitive Relative Pronouns",
+      "content": "- Der Mann, **dessen** Auto kaputt ist, braucht Hilfe. (The man whose car is broken needs help.)\n- Die Frau, **deren** Kinder in der Schule sind, arbeitet zu Hause. (The woman whose children are in school works from home.)\n- Das Haus, **dessen** Dach rot ist, gehört meinem Onkel. (The house whose roof is red belongs to my uncle.)\n- Die Leute, **deren** Haus abgebrannt ist, brauchen Hilfe. (The people whose house burned down need help.)"
+    },
+    {
+      "order": 12,
+      "level": 3,
+      "title": "welcher, welche, welches",
+      "content": "**welcher** is an alternative to **der/die/das**, especially when there might be confusion with definite articles. It declines like **welcher** (interrogative pronoun).\n\n| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nom.** | welcher | welche | welches | welche |\n| **Acc.** | welchen | welche | welches | welche |\n| **Dat.** | welchem | welcher | welchem | welchen |\n| **Gen.** | welches | welcher | welches | welcher |\n\n**Examples:**\n- Das Haus, **welches** am Ende der Straße steht, ist neu. (The house which stands at the end of the street is new.)\n- Die Frau, **welche** ich gestern traf, ist Ärztin. (The woman whom I met yesterday is a doctor.)"
+    },
+    {
+      "order": 13,
+      "level": 3,
+      "title": "was (that, which, who)",
+      "content": "**was** is used:\n1. After indefinite pronouns (alles, etwas, nichts, vieles, etc.)\n2. After superlatives\n3. In certain fixed expressions\n\n**Examples:**\n- Alles, **was** ich weiß, erzähle ich dir. (Everything that I know, I'll tell you.)\n- Das Beste, **was** ich je gesehen habe. (The best thing that I've ever seen.)\n- Er arbeitet, **was** mich überrascht. (He works, which surprises me.)\n\n---"
+    },
+    {
+      "order": 14,
+      "level": 2,
+      "title": "Relative Clauses with Prepositions",
+      "content": ""
+    },
+    {
+      "order": 15,
+      "level": 3,
+      "title": "Introduction",
+      "content": "When a preposition is part of the relative clause, it comes before the relative pronoun. The relative pronoun must be in the correct case required by the preposition."
+    },
+    {
+      "order": 16,
+      "level": 3,
+      "title": "Formation",
+      "content": "- **Preposition** + **relative pronoun** (in required case)\n- The preposition determines the case of the relative pronoun"
+    },
+    {
+      "order": 17,
+      "level": 3,
+      "title": "Examples by Case",
+      "content": ""
+    },
+    {
+      "order": 18,
+      "level": 4,
+      "title": "Accusative Prepositions + Relative Pronouns",
+      "content": "- Das ist der Mann, **für den** ich arbeite. (That is the man for whom I work.)\n- Die Stadt, **in die** wir ziehen, ist schön. (The city into which we move is beautiful.)\n- Das Buch, **durch das** ich viel gelernt habe, ist spannend. (The book through which I learned a lot is exciting.)"
+    },
+    {
+      "order": 19,
+      "level": 4,
+      "title": "Dative Prepositions + Relative Pronouns",
+      "content": "- Der Ort, **an dem** wir uns treffen, ist zentral. (The place at which we meet is central.)\n- Die Frau, **mit der** ich spreche, ist meine Chefin. (The woman with whom I speak is my boss.)\n- Das Haus, **in dem** ich wohne, ist alt. (The house in which I live is old.)"
+    },
+    {
+      "order": 20,
+      "level": 4,
+      "title": "Two-way Prepositions + Relative Pronouns",
+      "content": "- Der Tisch, **auf dem** das Buch liegt, ist groß. (The table on which the book lies is big.) [Dative - location]\n- Der Tisch, **auf den** ich das Buch lege, ist groß. (The table onto which I put the book is big.) [Accusative - movement]"
+    },
+    {
+      "order": 21,
+      "level": 4,
+      "title": "Genitive Prepositions + Relative Pronouns",
+      "content": "- Die Zeit, **während deren** ich warte, vergeht langsam. (The time during which I wait passes slowly.)\n- Der Grund, **wegen dessen** er kommt, ist wichtig. (The reason because of which he comes is important.)"
+    },
+    {
+      "order": 22,
+      "level": 3,
+      "title": "Preposition Contractions with Relative Pronouns",
+      "content": "Some prepositions contract with relative pronouns:\n\n| Preposition + Article | Contraction | Example |\n|----------------------|-------------|---------|\n| zu + dem | **zum** | Der Mann, **zum** ich gehe, ist mein Bruder. |\n| zu + der | **zur** | Die Frau, **zur** ich gehe, ist meine Schwester. |\n| von + dem | **vom** | Das Buch, **vom** ich erzähle, ist interessant. |"
+    },
+    {
+      "order": 23,
+      "level": 3,
+      "title": "Relative Clauses with wo-, da-, wo(r)- Compounds",
+      "content": "For locations and situations, German often uses special relative adverbs instead of prepositions:"
+    },
+    {
+      "order": 24,
+      "level": 4,
+      "title": "wo- (where) for locations",
+      "content": "- Das ist die Stadt, **wo** ich geboren wurde. (That is the city where I was born.)\n- Das Haus, **wo** ich wohne, ist groß. (The house where I live is big.)"
+    },
+    {
+      "order": 25,
+      "level": 4,
+      "title": "da- (there) for situations/things",
+      "content": "- Die Zeit, **da** ich jung war, war schön. (The time when I was young was beautiful.)\n- Die Probleme, **da** er sprach, sind gelöst. (The problems that he spoke about are solved.)"
+    },
+    {
+      "order": 26,
+      "level": 4,
+      "title": "wo(r)- for time and reason",
+      "content": "- Der Tag, **woran** ich denke, war schön. (The day that I think about was beautiful.)\n- Die Zeit, **wovon** ich träume, kommt bald. (The time that I dream about will come soon.)"
+    },
+    {
+      "order": 27,
+      "level": 3,
+      "title": "Relative Clauses in Different Positions",
+      "content": ""
+    },
+    {
+      "order": 28,
+      "level": 4,
+      "title": "After the Subject",
+      "content": "- Der Mann, **der** dort steht, ist mein Bruder. (The man who is standing there is my brother.)"
+    },
+    {
+      "order": 29,
+      "level": 4,
+      "title": "After Direct Objects",
+      "content": "- Ich kenne den Mann, **den** du gestern getroffen hast. (I know the man whom you met yesterday.)"
+    },
+    {
+      "order": 30,
+      "level": 4,
+      "title": "After Indirect Objects",
+      "content": "- Ich gebe dem Mann, **dem** ich vertraue, das Geld. (I give the money to the man whom I trust.)"
+    },
+    {
+      "order": 31,
+      "level": 4,
+      "title": "After Prepositional Objects",
+      "content": "- Das ist das Haus, **in dem** ich wohne. (That is the house in which I live.)"
+    },
+    {
+      "order": 32,
+      "level": 4,
+      "title": "Non-restrictive Relative Clauses",
+      "content": "Non-restrictive clauses add extra information and are set off by commas:\n- Mein Bruder, **der** in Berlin wohnt, kommt morgen. (My brother, who lives in Berlin, is coming tomorrow.)\n- (Implies I have only one brother)\n\n---"
+    },
+    {
+      "order": 33,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 34,
+      "level": 3,
+      "title": "Exercise 1: Basic Relative Pronouns",
+      "content": "Complete the relative clauses with the correct relative pronoun:\n\n1. Der Mann, ___ dort arbeitet, ist mein Vater. (who works there)\n2. Die Frau, ___ ich helfe, ist krank. (whom I help)\n3. Das Kind, ___ spielt, ist mein Sohn. (who plays)\n4. Die Leute, ___ warten, sind müde. (who wait)\n5. Das Buch, ___ du liest, ist interessant. (that you read)"
+    },
+    {
+      "order": 35,
+      "level": 3,
+      "title": "Exercise 2: All Cases",
+      "content": "Choose the correct relative pronoun and case:\n\n1. Der Mann, ___ Auto kaputt ist, braucht Hilfe. (whose car)\n2. Die Frau, ___ ich das Buch gebe, ist Lehrerin. (to whom I give)\n3. Das Kind, ___ wir Geschenke bringen, ist fünf. (to whom we bring)\n4. Die Leute, ___ Haus abgebrannt ist, brauchen Hilfe. (whose house)\n5. Der Student, ___ ich vertraue, ist fleißig. (whom I trust)"
+    },
+    {
+      "order": 36,
+      "level": 3,
+      "title": "Exercise 3: Relative Clauses with Prepositions",
+      "content": "Complete with preposition + relative pronoun:\n\n1. Das ist der Mann, ___ ich arbeite. (for whom I work)\n2. Die Stadt, ___ wir ziehen, ist schön. (into which we move)\n3. Der Ort, ___ wir uns treffen, ist zentral. (at which we meet)\n4. Die Frau, ___ ich spreche, ist meine Chefin. (with whom I speak)\n5. Das Haus, ___ ich wohne, ist alt. (in which I live)"
+    },
+    {
+      "order": 37,
+      "level": 3,
+      "title": "Exercise 4: welcher vs der/die/das",
+      "content": "Rewrite using welcher/welche/welches where appropriate:\n\n1. Das Buch, das auf dem Tisch liegt, ist meins.\n2. Die Frau, die dort steht, ist meine Schwester.\n3. Der Mann, der gestern anrief, war mein Bruder.\n4. Die Kinder, die spielen, sind laut."
+    },
+    {
+      "order": 38,
+      "level": 3,
+      "title": "Exercise 5: Complex Sentences",
+      "content": "Combine the sentences using relative clauses:\n\n1. Ich habe einen Freund. Er wohnt in Berlin. Sein Name ist Max.\n2. Sie liest ein Buch. Das Buch ist sehr interessant. Sie hat es von ihrer Mutter bekommen.\n3. Wir besuchen eine Stadt. In dieser Stadt gibt es viele Museen. Die Stadt heißt München.\n4. Er hat eine Schwester. Mit seiner Schwester arbeitet er zusammen. Sie ist Ärztin.\n5. Ich kenne einen Mann. Sein Haus ist sehr groß. Er ist Millionär.\n\n---"
+    },
+    {
+      "order": 39,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Wrong case for relative pronoun**\n   - ❌ Der Mann, die ich liebe (case doesn't match function)\n   - ✅ Der Mann, den ich liebe (accusative for direct object)\n\n2. **Missing comma**\n   - ❌ Der Mann der dort steht ist mein Bruder.\n   - ✅ Der Mann, der dort steht, ist mein Bruder.\n\n3. **Wrong word order in relative clause**\n   - ❌ Der Mann, der steht dort, ist mein Bruder. (verb in wrong position)\n   - ✅ Der Mann, der dort steht, ist mein Bruder.\n\n4. **Using \"was\" incorrectly**\n   - ❌ Der Mann, was ich sehe (only for indefinites)\n   - ✅ Der Mann, den ich sehe\n\n5. **Preposition placement**\n   - ❌ Das ist der Mann ich arbeite für.\n   - ✅ Das ist der Mann, für den ich arbeite.\n\n6. **Genitive relative pronouns**\n   - ❌ Die Frau, dem ihre Kinder... (wrong case)\n   - ✅ Die Frau, deren Kinder... (correct genitive)\n\n---"
+    },
+    {
+      "order": 40,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Relative pronouns**: der/die/das (most common), welcher/welche/welches (alternative), was (for indefinites)\n- **Cases**: Nominative, Accusative, Dative, Genitive - determined by function in relative clause\n- **Word order**: Relative pronoun first, verb at end (like subordinate clauses)\n- **Prepositions**: Come before relative pronoun, determine its case\n- **Commas**: Always separate relative clause from main clause\n- **Contractions**: zum (zu + dem), zur (zu + der), vom (von + dem)\n- **Special adverbs**: wo (where), da (there), wor-/wor- compounds\n\n---"
+    },
+    {
+      "order": 41,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **der Relativsatz** / **die Relativsätze** - relative clause\n- **das Relativpronomen** - relative pronoun\n- **der Bezug** - reference/antecedent\n- **einschränkend** - restrictive\n- **nicht einschränkend** - non-restrictive\n- **die Wortstellung** - word order\n- **die Konjunktion** - conjunction\n- **der Nebensatz** - subordinate clause\n- **der Hauptsatz** - main clause\n- **wo** - where\n- **da** - there\n- **woran** - on which\n- **wovon** - of which/about which\n- **womit** - with which\n- **wodurch** - through which"
+    }
+  ],
+  "tags": [
+    "articles",
+    "cases",
+    "dative",
+    "accusative",
+    "genitive",
+    "prepositions",
+    "relative clauses",
+    "pronouns"
+  ],
+  "contentHash": "f79a1bbf8e44680fb7d25bd8501c8c8e2bd1e466bb42250ce9a5c716c5acc718"
+}

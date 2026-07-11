@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "slug": "08-passive-voice",
+  "order": 8,
+  "title": "Chapter 8: Passive Voice",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/08-passive-voice.md",
+  "sourceMarkdownFile": "08-passive-voice.md",
+  "jsonPath": "data/lessons/08-passive-voice.json",
+  "markdown": "# Chapter 8: Passive Voice\n\n## Werden-passive\n\n### Introduction\nThe passive voice (Passiv) focuses on the action rather than who performs it. In German, the most common passive is formed with \"werden\" + past participle.\n\n### Formation\n\n**Structure:** Subject + werden (conjugated) + past participle + (von + agent)\n\n#### Present Tense Passive\n- ich werde geliebt (I am loved)\n- du wirst geliebt (you are loved)\n- er/sie/es wird geliebt (he/she/it is loved)\n- wir werden geliebt (we are loved)\n- ihr werdet geliebt (you are loved)\n- sie/Sie werden geliebt (they/you formal are loved)\n\n#### Past Tense Passive (Perfekt)\n- ich bin geliebt worden (I was loved/have been loved)\n- du bist geliebt worden (you were loved)\n- er/sie/es ist geliebt worden (he/she/it was loved)\n- wir sind geliebt worden (we were loved)\n- ihr seid geliebt worden (you were loved)\n- sie/Sie sind geliebt worden (they were loved)\n\n#### Future Tense Passive\n- ich werde geliebt werden (I will be loved)\n- du wirst geliebt werden (you will be loved)\n- er/sie/es wird geliebt werden (he/she/it will be loved)\n\n### Active vs Passive Comparison\n\n| Active | Passive |\n|--------|---------|\n| **Der Koch kocht das Essen.** | **Das Essen wird (vom Koch) gekocht.** |\n| (The cook cooks the meal.) | (The meal is cooked (by the cook).) |\n| **Subject + Verb + Object** | **Object + werden + Past Participle + (von + Subject)** |\n\n### Uses of Werden-Passive\n\n#### 1. When the Agent is Unknown or Unimportant\n- Das Auto **wird repariert**. (The car is being repaired.)\n- Hier **wird Deutsch gesprochen**. (German is spoken here.)\n\n#### 2. In Instructions and Processes\n- Die Milch **wird gekocht**. (The milk is boiled.)\n- Zuerst **werden** die Zutaten **gemischt**. (First the ingredients are mixed.)\n\n#### 3. In Formal or Scientific Writing\n- Die Forschung **wird durchgeführt**. (The research is conducted.)\n- Das Gesetz **wurde verabschiedet**. (The law was passed.)\n\n#### 4. With Modal Verbs\n- Das Haus **muss renoviert werden**. (The house must be renovated.)\n- Die Arbeit **kann gemacht werden**. (The work can be done.)\n\n### Agent with \"von\" or \"durch\"\n\n- **von** + person: Die Suppe **wird von der Köchin gekocht**. (The soup is cooked by the cook.)\n- **durch** + thing/cause: Das Haus **wurde durch einen Sturm zerstört**. (The house was destroyed by a storm.)\n\n### Passive with Two Objects\n\nSome verbs have both direct and indirect objects. In passive, either can become the subject:\n\n**Active:** Der Lehrer gibt dem Schüler das Buch. (The teacher gives the student the book.)\n\n**Passive options:**\n- Das Buch **wird dem Schüler (vom Lehrer) gegeben**. (The book is given to the student.)\n- Der Schüler **bekommt das Buch (vom Lehrer)**. (The student gets the book.)\n\n### Impersonal Passive (man-Sentences)\n\nPassive can replace impersonal \"man\" constructions:\n\n- **Man baut ein Haus.** → **Ein Haus wird gebaut.** (A house is being built.)\n- **Man trinkt Bier hier.** → **Hier wird Bier getrunken.** (Beer is drunk here.)\n\n---\n\n## Zustandspassiv (sein-passive)\n\n### Introduction\nZustandspassiv (state passive) describes a state or result rather than an action. It shows that something has been done and the result is still visible.\n\n### Formation\n\n**Structure:** Subject + sein (conjugated) + past participle\n\n#### Present State Passive\n- Das Fenster **ist geöffnet**. (The window is open.)\n- Die Tür **ist geschlossen**. (The door is closed.)\n- Das Essen **ist gekocht**. (The meal is cooked.)\n\n#### Past State Passive\n- Das Fenster **war geöffnet**. (The window was open.)\n- Die Tür **war geschlossen**. (The door was closed.)\n\n### Werden-Passive vs Zustandspassiv\n\n| Werden-Passive (Action) | Zustandspassiv (State) |\n|-------------------------|-------------------------|\n| Das Fenster **wird geöffnet**. | Das Fenster **ist geöffnet**. |\n| (The window is being opened.) | (The window is open.) |\n| **Action in progress** | **Result of action** |\n\n**More examples:**\n- Die Tür **wird zugemacht**. (The door is being closed.) → Die Tür **ist zugemacht**. (The door is closed.)\n- Das Auto **wird repariert**. (The car is being repaired.) → Das Auto **ist repariert**. (The car is repaired.)\n\n### Uses of Zustandspassiv\n\n#### 1. Describing Current State\n- Die Wäsche **ist gewaschen**. (The laundry is washed.)\n- Das Zimmer **ist aufgeräumt**. (The room is tidied up.)\n- Die Blumen **sind gegossen**. (The flowers are watered.)\n\n#### 2. Result of a Completed Action\n- Die Arbeit **ist erledigt**. (The work is done.)\n- Das Problem **ist gelöst**. (The problem is solved.)\n- Der Brief **ist geschrieben**. (The letter is written.)\n\n#### 3. In Advertisements and Descriptions\n- **Frisch gebackenes Brot!** (Freshly baked bread!)\n- **Neu eröffnete Filiale** (Newly opened branch)\n\n### Adjectives from Past Participles\n\nSome past participles are used as adjectives and don't change meaning with sein:\n\n- Das Essen **ist fertig**. (The meal is ready.)\n- Sie **ist verlobt**. (She is engaged.)\n- Er **ist verheiratet**. (He is married.)\n\n### Time Expressions\n\nZustandspassiv often uses time expressions showing duration:\n\n- **seit** (since): Das Haus **ist seit einem Jahr gebaut**. (The house has been built for a year.)\n- **schon** (already): Die Arbeit **ist schon erledigt**. (The work is already done.)\n- **noch** (still): Die Tür **ist noch geschlossen**. (The door is still closed.)\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Werden-Passive Formation\nConvert active sentences to passive:\n\n1. Der Koch kocht das Essen. ____________________________________\n2. Die Studenten lesen das Buch. ____________________________________\n3. Wir bauen ein Haus. ____________________________________\n4. Der Arzt behandelt den Patienten. ____________________________________\n5. Sie schreibt einen Brief. ____________________________________\n\n### Exercise 2: Passive with Agents\nAdd the agent using \"von\" or \"durch\":\n\n1. Das Auto wird repariert. (der Mechaniker) ____________________________________\n2. Die Stadt wurde zerstört. (ein Erdbeben) ____________________________________\n3. Der Film wird gedreht. (ein berühmter Regisseur) ____________________________________\n4. Das Gesetz wurde verabschiedet. (das Parlament) ____________________________________\n5. Die Suppe wird gekocht. (die Köchin) ____________________________________\n\n### Exercise 3: Passive Tenses\nChange the tense of the passive sentences:\n\n1. Das Essen wird gekocht. (past) ____________________________________\n2. Der Brief wurde geschrieben. (present) ____________________________________\n3. Das Haus wird gebaut. (future) ____________________________________\n4. Die Arbeit ist erledigt. (past) ____________________________________\n5. Die Tür wird geöffnet. (perfect) ____________________________________\n\n### Exercise 4: Zustandspassiv\nConvert werden-passive to zustandspassiv:\n\n1. Die Tür wird geöffnet. ____________________________________\n2. Das Auto wird repariert. ____________________________________\n3. Die Wäsche wird gewaschen. ____________________________________\n4. Der Brief wird geschrieben. ____________________________________\n5. Das Zimmer wird aufgeräumt. ____________________________________\n\n### Exercise 5: Choose Correct Passive\nChoose between werden-passive and zustandspassiv:\n\n1. Die Tür ___ (öffnen). Sie ist schon offen. (wird geöffnet / ist geöffnet)\n2. Das Essen ___ (kochen). Es steht auf dem Tisch. (wird gekocht / ist gekocht)\n3. Der Brief ___ (schreiben). Ich mache es gerade. (wird geschrieben / ist geschrieben)\n4. Die Arbeit ___ (erledigen). Sie ist fertig. (wird erledigt / ist erledigt)\n5. Das Auto ___ (reparieren). Der Mechaniker arbeitet daran. (wird repariert / ist repariert)\n\n### Exercise 6: Modal Verbs in Passive\nComplete with modal verbs in passive:\n\n1. Das Haus ___ (müssen) renoviert werden. (must)\n2. Die Arbeit ___ (können) gemacht werden. (can)\n3. Der Brief ___ (sollen) geschrieben werden. (should)\n4. Die Tür ___ (dürfen) nicht geöffnet werden. (may not)\n5. Das Problem ___ (wollen) gelöst werden. (want)\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Wrong auxiliary for passive**\n   - ❌ Das Essen wird sein gekocht.\n   - ✅ Das Essen wird gekocht.\n\n2. **Wrong word order**\n   - ❌ Das Essen gekocht wird.\n   - ✅ Das Essen wird gekocht.\n\n3. **Zustandspassiv vs adjective**\n   - ❌ Das Essen ist fertig gekocht. (redundant)\n   - ✅ Das Essen ist fertig. (adjective) or Das Essen ist gekocht. (state passive)\n\n4. **Agent placement**\n   - ❌ Von dem Koch das Essen wird gekocht.\n   - ✅ Das Essen wird von dem Koch gekocht.\n\n5. **Perfect passive formation**\n   - ❌ Das Essen hat gekocht worden.\n   - ✅ Das Essen ist gekocht worden.\n\n6. **sein vs werden confusion**\n   - ❌ Das Fenster ist geöffnet werden. (mixed auxiliaries)\n   - ✅ Das Fenster wird geöffnet. (action) or Das Fenster ist geöffnet. (state)\n\n---\n\n## Summary\n\n- **Werden-passive**: Action-focused passive with \"werden\" + past participle\n  - Present: wird gemacht\n  - Perfect: ist gemacht worden\n  - Used for actions, processes, instructions\n\n- **Zustandspassiv**: State-focused passive with \"sein\" + past participle\n  - Shows result of action: ist gemacht\n  - Used for states, conditions, descriptions\n\n- **Agent**: von + person, durch + thing/cause\n- **Modal verbs**: können gemacht werden, muss repariert werden\n- **Impersonal passive**: Replaces \"man\" constructions\n- **No passive**: For some verbs (haben, sein, bekommen, etc.)\n\n---\n\n## Vocabulary List\n\n- **das Passiv** - passive voice\n- **aktiv** - active voice\n- **das Zustandspassiv** - state passive\n- **die Handlung** - action\n- **der Zustand** - state/condition\n- **der Agens** - agent\n- **das Subjekt** - subject\n- **das Objekt** - object\n- **unpersönlich** - impersonal\n- **die Anweisung** - instruction\n- **der Prozess** - process\n- **das Ergebnis** - result\n- **vollenden** - to complete\n- **durchführen** - to carry out\n- **zerstören** - to destroy\n- **reparieren** - to repair\n- **kochen** - to cook\n- **öffnen** - to open\n- **schließen** - to close",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Werden-passive",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Introduction",
+      "content": "The passive voice (Passiv) focuses on the action rather than who performs it. In German, the most common passive is formed with \"werden\" + past participle."
+    },
+    {
+      "order": 3,
+      "level": 3,
+      "title": "Formation",
+      "content": "**Structure:** Subject + werden (conjugated) + past participle + (von + agent)"
+    },
+    {
+      "order": 4,
+      "level": 4,
+      "title": "Present Tense Passive",
+      "content": "- ich werde geliebt (I am loved)\n- du wirst geliebt (you are loved)\n- er/sie/es wird geliebt (he/she/it is loved)\n- wir werden geliebt (we are loved)\n- ihr werdet geliebt (you are loved)\n- sie/Sie werden geliebt (they/you formal are loved)"
+    },
+    {
+      "order": 5,
+      "level": 4,
+      "title": "Past Tense Passive (Perfekt)",
+      "content": "- ich bin geliebt worden (I was loved/have been loved)\n- du bist geliebt worden (you were loved)\n- er/sie/es ist geliebt worden (he/she/it was loved)\n- wir sind geliebt worden (we were loved)\n- ihr seid geliebt worden (you were loved)\n- sie/Sie sind geliebt worden (they were loved)"
+    },
+    {
+      "order": 6,
+      "level": 4,
+      "title": "Future Tense Passive",
+      "content": "- ich werde geliebt werden (I will be loved)\n- du wirst geliebt werden (you will be loved)\n- er/sie/es wird geliebt werden (he/she/it will be loved)"
+    },
+    {
+      "order": 7,
+      "level": 3,
+      "title": "Active vs Passive Comparison",
+      "content": "| Active | Passive |\n|--------|---------|\n| **Der Koch kocht das Essen.** | **Das Essen wird (vom Koch) gekocht.** |\n| (The cook cooks the meal.) | (The meal is cooked (by the cook).) |\n| **Subject + Verb + Object** | **Object + werden + Past Participle + (von + Subject)** |"
+    },
+    {
+      "order": 8,
+      "level": 3,
+      "title": "Uses of Werden-Passive",
+      "content": ""
+    },
+    {
+      "order": 9,
+      "level": 4,
+      "title": "1. When the Agent is Unknown or Unimportant",
+      "content": "- Das Auto **wird repariert**. (The car is being repaired.)\n- Hier **wird Deutsch gesprochen**. (German is spoken here.)"
+    },
+    {
+      "order": 10,
+      "level": 4,
+      "title": "2. In Instructions and Processes",
+      "content": "- Die Milch **wird gekocht**. (The milk is boiled.)\n- Zuerst **werden** die Zutaten **gemischt**. (First the ingredients are mixed.)"
+    },
+    {
+      "order": 11,
+      "level": 4,
+      "title": "3. In Formal or Scientific Writing",
+      "content": "- Die Forschung **wird durchgeführt**. (The research is conducted.)\n- Das Gesetz **wurde verabschiedet**. (The law was passed.)"
+    },
+    {
+      "order": 12,
+      "level": 4,
+      "title": "4. With Modal Verbs",
+      "content": "- Das Haus **muss renoviert werden**. (The house must be renovated.)\n- Die Arbeit **kann gemacht werden**. (The work can be done.)"
+    },
+    {
+      "order": 13,
+      "level": 3,
+      "title": "Agent with \"von\" or \"durch\"",
+      "content": "- **von** + person: Die Suppe **wird von der Köchin gekocht**. (The soup is cooked by the cook.)\n- **durch** + thing/cause: Das Haus **wurde durch einen Sturm zerstört**. (The house was destroyed by a storm.)"
+    },
+    {
+      "order": 14,
+      "level": 3,
+      "title": "Passive with Two Objects",
+      "content": "Some verbs have both direct and indirect objects. In passive, either can become the subject:\n\n**Active:** Der Lehrer gibt dem Schüler das Buch. (The teacher gives the student the book.)\n\n**Passive options:**\n- Das Buch **wird dem Schüler (vom Lehrer) gegeben**. (The book is given to the student.)\n- Der Schüler **bekommt das Buch (vom Lehrer)**. (The student gets the book.)"
+    },
+    {
+      "order": 15,
+      "level": 3,
+      "title": "Impersonal Passive (man-Sentences)",
+      "content": "Passive can replace impersonal \"man\" constructions:\n\n- **Man baut ein Haus.** → **Ein Haus wird gebaut.** (A house is being built.)\n- **Man trinkt Bier hier.** → **Hier wird Bier getrunken.** (Beer is drunk here.)\n\n---"
+    },
+    {
+      "order": 16,
+      "level": 2,
+      "title": "Zustandspassiv (sein-passive)",
+      "content": ""
+    },
+    {
+      "order": 17,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Zustandspassiv (state passive) describes a state or result rather than an action. It shows that something has been done and the result is still visible."
+    },
+    {
+      "order": 18,
+      "level": 3,
+      "title": "Formation",
+      "content": "**Structure:** Subject + sein (conjugated) + past participle"
+    },
+    {
+      "order": 19,
+      "level": 4,
+      "title": "Present State Passive",
+      "content": "- Das Fenster **ist geöffnet**. (The window is open.)\n- Die Tür **ist geschlossen**. (The door is closed.)\n- Das Essen **ist gekocht**. (The meal is cooked.)"
+    },
+    {
+      "order": 20,
+      "level": 4,
+      "title": "Past State Passive",
+      "content": "- Das Fenster **war geöffnet**. (The window was open.)\n- Die Tür **war geschlossen**. (The door was closed.)"
+    },
+    {
+      "order": 21,
+      "level": 3,
+      "title": "Werden-Passive vs Zustandspassiv",
+      "content": "| Werden-Passive (Action) | Zustandspassiv (State) |\n|-------------------------|-------------------------|\n| Das Fenster **wird geöffnet**. | Das Fenster **ist geöffnet**. |\n| (The window is being opened.) | (The window is open.) |\n| **Action in progress** | **Result of action** |\n\n**More examples:**\n- Die Tür **wird zugemacht**. (The door is being closed.) → Die Tür **ist zugemacht**. (The door is closed.)\n- Das Auto **wird repariert**. (The car is being repaired.) → Das Auto **ist repariert**. (The car is repaired.)"
+    },
+    {
+      "order": 22,
+      "level": 3,
+      "title": "Uses of Zustandspassiv",
+      "content": ""
+    },
+    {
+      "order": 23,
+      "level": 4,
+      "title": "1. Describing Current State",
+      "content": "- Die Wäsche **ist gewaschen**. (The laundry is washed.)\n- Das Zimmer **ist aufgeräumt**. (The room is tidied up.)\n- Die Blumen **sind gegossen**. (The flowers are watered.)"
+    },
+    {
+      "order": 24,
+      "level": 4,
+      "title": "2. Result of a Completed Action",
+      "content": "- Die Arbeit **ist erledigt**. (The work is done.)\n- Das Problem **ist gelöst**. (The problem is solved.)\n- Der Brief **ist geschrieben**. (The letter is written.)"
+    },
+    {
+      "order": 25,
+      "level": 4,
+      "title": "3. In Advertisements and Descriptions",
+      "content": "- **Frisch gebackenes Brot!** (Freshly baked bread!)\n- **Neu eröffnete Filiale** (Newly opened branch)"
+    },
+    {
+      "order": 26,
+      "level": 3,
+      "title": "Adjectives from Past Participles",
+      "content": "Some past participles are used as adjectives and don't change meaning with sein:\n\n- Das Essen **ist fertig**. (The meal is ready.)\n- Sie **ist verlobt**. (She is engaged.)\n- Er **ist verheiratet**. (He is married.)"
+    },
+    {
+      "order": 27,
+      "level": 3,
+      "title": "Time Expressions",
+      "content": "Zustandspassiv often uses time expressions showing duration:\n\n- **seit** (since): Das Haus **ist seit einem Jahr gebaut**. (The house has been built for a year.)\n- **schon** (already): Die Arbeit **ist schon erledigt**. (The work is already done.)\n- **noch** (still): Die Tür **ist noch geschlossen**. (The door is still closed.)\n\n---"
+    },
+    {
+      "order": 28,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 29,
+      "level": 3,
+      "title": "Exercise 1: Werden-Passive Formation",
+      "content": "Convert active sentences to passive:\n\n1. Der Koch kocht das Essen. ____________________________________\n2. Die Studenten lesen das Buch. ____________________________________\n3. Wir bauen ein Haus. ____________________________________\n4. Der Arzt behandelt den Patienten. ____________________________________\n5. Sie schreibt einen Brief. ____________________________________"
+    },
+    {
+      "order": 30,
+      "level": 3,
+      "title": "Exercise 2: Passive with Agents",
+      "content": "Add the agent using \"von\" or \"durch\":\n\n1. Das Auto wird repariert. (der Mechaniker) ____________________________________\n2. Die Stadt wurde zerstört. (ein Erdbeben) ____________________________________\n3. Der Film wird gedreht. (ein berühmter Regisseur) ____________________________________\n4. Das Gesetz wurde verabschiedet. (das Parlament) ____________________________________\n5. Die Suppe wird gekocht. (die Köchin) ____________________________________"
+    },
+    {
+      "order": 31,
+      "level": 3,
+      "title": "Exercise 3: Passive Tenses",
+      "content": "Change the tense of the passive sentences:\n\n1. Das Essen wird gekocht. (past) ____________________________________\n2. Der Brief wurde geschrieben. (present) ____________________________________\n3. Das Haus wird gebaut. (future) ____________________________________\n4. Die Arbeit ist erledigt. (past) ____________________________________\n5. Die Tür wird geöffnet. (perfect) ____________________________________"
+    },
+    {
+      "order": 32,
+      "level": 3,
+      "title": "Exercise 4: Zustandspassiv",
+      "content": "Convert werden-passive to zustandspassiv:\n\n1. Die Tür wird geöffnet. ____________________________________\n2. Das Auto wird repariert. ____________________________________\n3. Die Wäsche wird gewaschen. ____________________________________\n4. Der Brief wird geschrieben. ____________________________________\n5. Das Zimmer wird aufgeräumt. ____________________________________"
+    },
+    {
+      "order": 33,
+      "level": 3,
+      "title": "Exercise 5: Choose Correct Passive",
+      "content": "Choose between werden-passive and zustandspassiv:\n\n1. Die Tür ___ (öffnen). Sie ist schon offen. (wird geöffnet / ist geöffnet)\n2. Das Essen ___ (kochen). Es steht auf dem Tisch. (wird gekocht / ist gekocht)\n3. Der Brief ___ (schreiben). Ich mache es gerade. (wird geschrieben / ist geschrieben)\n4. Die Arbeit ___ (erledigen). Sie ist fertig. (wird erledigt / ist erledigt)\n5. Das Auto ___ (reparieren). Der Mechaniker arbeitet daran. (wird repariert / ist repariert)"
+    },
+    {
+      "order": 34,
+      "level": 3,
+      "title": "Exercise 6: Modal Verbs in Passive",
+      "content": "Complete with modal verbs in passive:\n\n1. Das Haus ___ (müssen) renoviert werden. (must)\n2. Die Arbeit ___ (können) gemacht werden. (can)\n3. Der Brief ___ (sollen) geschrieben werden. (should)\n4. Die Tür ___ (dürfen) nicht geöffnet werden. (may not)\n5. Das Problem ___ (wollen) gelöst werden. (want)\n\n---"
+    },
+    {
+      "order": 35,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Wrong auxiliary for passive**\n   - ❌ Das Essen wird sein gekocht.\n   - ✅ Das Essen wird gekocht.\n\n2. **Wrong word order**\n   - ❌ Das Essen gekocht wird.\n   - ✅ Das Essen wird gekocht.\n\n3. **Zustandspassiv vs adjective**\n   - ❌ Das Essen ist fertig gekocht. (redundant)\n   - ✅ Das Essen ist fertig. (adjective) or Das Essen ist gekocht. (state passive)\n\n4. **Agent placement**\n   - ❌ Von dem Koch das Essen wird gekocht.\n   - ✅ Das Essen wird von dem Koch gekocht.\n\n5. **Perfect passive formation**\n   - ❌ Das Essen hat gekocht worden.\n   - ✅ Das Essen ist gekocht worden.\n\n6. **sein vs werden confusion**\n   - ❌ Das Fenster ist geöffnet werden. (mixed auxiliaries)\n   - ✅ Das Fenster wird geöffnet. (action) or Das Fenster ist geöffnet. (state)\n\n---"
+    },
+    {
+      "order": 36,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Werden-passive**: Action-focused passive with \"werden\" + past participle\n  - Present: wird gemacht\n  - Perfect: ist gemacht worden\n  - Used for actions, processes, instructions\n\n- **Zustandspassiv**: State-focused passive with \"sein\" + past participle\n  - Shows result of action: ist gemacht\n  - Used for states, conditions, descriptions\n\n- **Agent**: von + person, durch + thing/cause\n- **Modal verbs**: können gemacht werden, muss repariert werden\n- **Impersonal passive**: Replaces \"man\" constructions\n- **No passive**: For some verbs (haben, sein, bekommen, etc.)\n\n---"
+    },
+    {
+      "order": 37,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **das Passiv** - passive voice\n- **aktiv** - active voice\n- **das Zustandspassiv** - state passive\n- **die Handlung** - action\n- **der Zustand** - state/condition\n- **der Agens** - agent\n- **das Subjekt** - subject\n- **das Objekt** - object\n- **unpersönlich** - impersonal\n- **die Anweisung** - instruction\n- **der Prozess** - process\n- **das Ergebnis** - result\n- **vollenden** - to complete\n- **durchführen** - to carry out\n- **zerstören** - to destroy\n- **reparieren** - to repair\n- **kochen** - to cook\n- **öffnen** - to open\n- **schließen** - to close"
+    }
+  ],
+  "tags": [
+    "adjectives",
+    "modal verbs",
+    "passive voice",
+    "past tense",
+    "future tense",
+    "vocabulary",
+    "writing"
+  ],
+  "contentHash": "13529d99fe24da9f71657878479ad0d9c7578178ce556b1a6fabe4781e2e77a1"
+}

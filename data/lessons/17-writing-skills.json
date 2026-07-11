@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "slug": "17-writing-skills",
+  "order": 17,
+  "title": "Chapter 17: Writing Skills",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/17-writing-skills.md",
+  "sourceMarkdownFile": "17-writing-skills.md",
+  "jsonPath": "data/lessons/17-writing-skills.json",
+  "markdown": "# Chapter 17: Writing Skills\n\n## Writing Formal Letters (Beschwerdebrief, Bewerbung)\n\n### Introduction\nFormal letters require specific structure, register, and conventions. At B1 level, focus on complaint letters (Beschwerdebrief) and job applications (Bewerbung).\n\n### Formal Letter Structure\n\n#### 1. Header (Briefkopf)\n```\nIhr Name/Ihre Adresse\nOrt, Datum\n\nEmpfängeradresse\n```\n\n#### 2. Subject Line (Betreff)\n```\nBetreff: [Kurze Beschreibung]\n```\n\n#### 3. Salutation (Anrede)\n- **Sehr geehrte Damen und Herren,** (Dear Sir/Madam)\n- **Sehr geehrter Herr [Name],** (Dear Mr. [Name])\n- **Sehr geehrte Frau [Name],** (Dear Ms. [Name])\n\n#### 4. Introduction (Einleitung)\n- State the purpose immediately\n- Provide necessary background information\n- Be polite and clear\n\n#### 5. Main Body (Hauptteil)\n- Explain the situation in detail\n- Provide evidence or reasons\n- State your request or complaint clearly\n\n#### 6. Conclusion (Schluss)\n- Summarize your request\n- Express hope for positive response\n- Polite closing phrase\n\n#### 7. Closing (Grußformel)\n- **Mit freundlichen Grüßen** (Kind regards)\n- **Hochachtungsvoll** (Respectfully yours)\n- Your signature\n\n### Complaint Letter (Beschwerdebrief)\n\n#### Purpose\n- Express dissatisfaction with a product/service\n- Request compensation or resolution\n- Maintain polite but firm tone\n\n#### Key Phrases\n**Introduction:**\n- **Hiermit möchte ich mich über... beschweren.** (Herewith I would like to complain about...)\n- **Ich bin sehr unzufrieden mit...** (I am very dissatisfied with...)\n\n**Main Body:**\n- **Am [Datum] habe ich... gekauft/bestellt.** (On [date] I bought/ordered...)\n- **Leider musste ich feststellen, dass...** (Unfortunately I had to discover that...)\n- **Trotz mehrerer Versuche...** (Despite several attempts...)\n\n**Request:**\n- **Ich bitte Sie um...** (I ask you for...)\n- **Ich fordere...** (I demand...)\n- **Ich erwarte...** (I expect...)\n\n#### Sample Complaint Letter\n\n```\nMax Mustermann\nGoethestraße 15\n80331 München\n\nTelekom Deutschland\nKundenservice\n53277 Bonn\n\nMünchen, 15. März 2024\n\nBetreff: Beschwerde über Internetverbindung\n\nSehr geehrte Damen und Herren,\n\nam 10. März habe ich bei Ihnen einen Internetanschluss bestellt. Seit der Installation am 12. März funktioniert die Verbindung nicht einwandfrei. Trotz mehrerer Anrufe bei Ihrem Kundenservice wurde das Problem nicht gelöst.\n\nIch bitte Sie, die Störung schnellstmöglich zu beheben oder mir den Vertrag zu kündigen und die Gebühren zu erstatten.\n\nMit freundlichen Grüßen\nMax Mustermann\n```\n\n### Job Application (Bewerbung)\n\n#### Components\n1. **Cover Letter** (Anschreiben)\n2. **Resume/CV** (Lebenslauf)\n3. **Certificates** (Zeugnisse)\n\n#### Cover Letter Structure\n\n**Introduction:**\n- How you found the position\n- Why you're applying\n- Brief mention of qualifications\n\n**Main Body:**\n- Your relevant experience and skills\n- Why you're suitable for the position\n- What you can contribute\n\n**Conclusion:**\n- Express interest in interview\n- Provide contact information\n- Polite closing\n\n#### Key Phrases\n**Introduction:**\n- **Hiermit bewerbe ich mich um die Stelle als...** (Herewith I apply for the position as...)\n- **Auf Ihre Anzeige vom... bewerbe ich mich...** (Regarding your advertisement from... I apply...)\n\n**Qualifications:**\n- **Ich habe Erfahrung in...** (I have experience in...)\n- **Meine Kenntnisse in... sind gut.** (My knowledge in... is good.)\n- **Ich beherrsche...** (I master...)\n\n**Interest:**\n- **Ich interessiere mich sehr für...** (I am very interested in...)\n- **Ich bin motiviert und engagiert.** (I am motivated and committed.)\n\n#### Sample Job Application\n\n```\nAnna Schmidt\nSchillerstraße 20\n80336 München\n\nABC GmbH\nPersonalabteilung\nMarienplatz 1\n80331 München\n\nMünchen, 20. April 2024\n\nBetreff: Bewerbung um die Stelle als Verkäuferin\n\nSehr geehrte Damen und Herren,\n\nauf Ihre Anzeige in der Süddeutschen Zeitung vom 15. April bewerbe ich mich um die Stelle als Verkäuferin in Ihrem Geschäft.\n\nIch bin 25 Jahre alt und habe zwei Jahre Erfahrung im Einzelhandel. Meine Kenntnisse in Deutsch und Englisch sind sehr gut. Ich bin zuverlässig, freundlich und kundenorientiert.\n\nIch freue mich auf Ihre Rückmeldung und stehe für ein Vorstellungsgespräch zur Verfügung.\n\nMit freundlichen Grüßen\nAnna Schmidt\n\nAnlagen:\n- Lebenslauf\n- Arbeitszeugnis\n```\n\n---\n\n## Writing Informal Letters (E-Mail, Postkarte)\n\n### Introduction\nInformal letters use personal, friendly language. Focus on emails and postcards, which are common forms of informal communication.\n\n### Email Structure\n\n#### 1. Subject Line\n- Clear and concise\n- **Betreff: Grüße aus Berlin** (Greetings from Berlin)\n\n#### 2. Greeting\n- **Liebe [Name],** (Dear [Name])\n- **Hallo [Name],** (Hi [Name])\n- **Hi [Name],** (Hi [Name] - very informal)\n\n#### 3. Introduction\n- Ask about well-being\n- Reference previous contact\n- State purpose of email\n\n#### 4. Main Body\n- Share news and information\n- Ask questions\n- Make plans or suggestions\n\n#### 5. Conclusion\n- Summarize or make future plans\n- Send greetings to others\n- Express anticipation of response\n\n#### 6. Closing\n- **Liebe Grüße** (Dear regards)\n- **Viele Grüße** (Many regards)\n- **Bis bald** (See you soon)\n- **Dein/Deine [Name]** (Your [Name])\n\n### Email Language Features\n\n#### Informal Expressions\n- **Hi!** (Hi!)\n- **Wie geht's?** (How are you?)\n- **Alles klar?** (Everything okay?)\n- **Super!** (Great!)\n- **Schade!** (Too bad!)\n\n#### Contractions and Abbreviations\n- **Ich bin's** (It's me)\n- **Wie geht's dir?** (How are you?)\n- **Hab dich lieb** (Love you)\n\n#### Emoticons and Emojis (optional)\n- **:-)** (smile)\n- **:-(** (sad)\n- Use sparingly in German communication\n\n### Sample Email\n\n```\nBetreff: Urlaubspläne\n\nLiebe Maria,\n\nwie geht es dir? Bei mir ist alles super! Ich plane meinen Sommerurlaub und denke an Spanien. Hast du Lust mitzukommen?\n\nWir könnten zwei Wochen fahren, vom 15. Juli bis 30. Juli. Was meinst du? Gib mir Bescheid!\n\nLiebe Grüße\nAnna\n```\n\n### Postcard Structure\n\n#### 1. Address Side\n- Recipient's address\n- Stamp and postmark\n\n#### 2. Message Side\n- Greeting\n- Brief message (limited space!)\n- Closing\n\n#### Key Features\n- **Very brief** (50-100 words)\n- **Picture description** if applicable\n- **Personal greeting**\n- **Weather mention** common\n\n### Sample Postcard\n\n```\nLiebe Eltern,\n\nbin gut in Berlin angekommen. Die Stadt ist toll! Wetter sonnig, 25°. Besuche morgen das Brandenburger Tor.\n\nGrüße an Oma\nEuer Max\n```\n\n---\n\n## Summarizing Texts\n\n### Introduction\nSummarizing requires identifying main ideas and condensing information while maintaining original meaning.\n\n### Summarizing Process\n\n#### 1. Read and Understand\n- Read the text multiple times\n- Identify main topic and purpose\n- Note key points and supporting details\n\n#### 2. Identify Structure\n- **Introduction**: What is the text about?\n- **Body**: What are the main arguments/points?\n- **Conclusion**: What is the outcome or recommendation?\n\n#### 3. Select Key Information\n- Main ideas (not details)\n- Important facts, dates, names\n- Author's main arguments\n- Conclusions or recommendations\n\n#### 4. Condense Information\n- Use your own words\n- Combine related ideas\n- Eliminate redundancy\n- Maintain logical flow\n\n#### 5. Write Summary\n- Start with main topic\n- Include key points in logical order\n- End with conclusion or main message\n- Keep length to 1/3 of original\n\n### Summary Language\n\n#### Linking Words\n- **und** (and)\n- **aber** (but)\n- **weil** (because)\n- **deshalb** (therefore)\n- **zunächst** (firstly)\n- **danach** (afterwards)\n- **schließlich** (finally)\n\n#### Time Expressions\n- **zuerst** (first)\n- **dann** (then)\n- **am Ende** (at the end)\n- **während** (during)\n\n#### Generalizing Words\n- **die meisten** (most)\n- **viele** (many)\n- **einige** (some)\n- **hauptsächlich** (mainly)\n- **insgesamt** (overall)\n\n### Types of Summaries\n\n#### Factual Summary\n- Objective presentation of facts\n- No personal opinion\n- Example: News article summary\n\n#### Analytical Summary\n- Includes author's main arguments\n- Notes important conclusions\n- Example: Academic text summary\n\n#### Critical Summary\n- Includes your evaluation\n- Notes strengths/weaknesses\n- Example: Book review summary\n\n### Sample Summary\n\n**Original Text:**\nDie globale Erwärmung ist eines der größten Probleme unserer Zeit. Wissenschaftler haben festgestellt, dass die Durchschnittstemperatur der Erde seit 100 Jahren um 0,8 Grad gestiegen ist. Dies führt zu extremen Wetterereignissen wie Überschwemmungen und Dürren. Regierungen müssen Maßnahmen ergreifen, um den CO2-Ausstoß zu reduzieren.\n\n**Summary:**\nDer Text behandelt die globale Erwärmung als ernstes Problem. Die Erd-temperatur ist um 0,8 Grad gestiegen, was extreme Wetterlagen verursacht. Die Regierungen sollen den CO2-Ausstoß verringern.\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Formal Letter Structure\nComplete this complaint letter:\n\n```\nAnna Meier\nHauptstraße 10\n80331 München\n\nElektronik-Shop Müller\nKundenservice\nMarienplatz 5\n80331 München\n\nMünchen, ___\n\nBetreff: ___ über defekten Fernseher\n\n___ ,\n\nam 10. März habe ich bei Ihnen einen Fernseher gekauft. ___ musste ich feststellen, dass er nach zwei Tagen nicht mehr funktionierte.\n\n___ Sie, den Fernseher zu reparieren oder ___ zu erstatten.\n\n___ Grüßen\nAnna Meier\n```\n\n### Exercise 2: Job Application\nWrite a short cover letter:\n\n**Situation:** You saw an ad for a \"Kellner/Kellnerin\" position at a restaurant. You have 2 years experience.\n\n```\n[Your address]\n\n[Restaurant address]\n\n[Date]\n\nBetreff: ___\n\n___ ,\n\n___ bewerbe ich mich ___ die Stelle ___ Kellner/in.\n\n___ bin 22 Jahre alt ___ habe ___ Jahre Erfahrung ___ der Gastronomie.\n\n___ freue mich ___ Ihre Rückmeldung.\n\n___ Grüßen\n[Your name]\n```\n\n### Exercise 3: Informal Email\nWrite an email to a friend:\n\n**Situation:** Tell your friend about your weekend plans. Ask what they're doing.\n\n```\nBetreff: ___\n\n___ Markus,\n\n___ geht's? ___ habe ___ super Wochenende geplant.\n\n___ gehe ___ Kino ___ dann ___ Freunde treffen.\n\n___ du ___ ?\n\n___ bald\nLisa\n```\n\n### Exercise 4: Summarizing\nSummarize this text in 2-3 sentences:\n\n```\nDeutschland ist ein föderaler Staat mit 16 Bundesländern. Jedes Bundesland hat eine eigene Regierung und einen Ministerpräsidenten. Der Bundestag in Berlin ist das nationale Parlament. Deutschland hat eine lange demokratische Tradition seit 1949.\n```\n\n**Summary:**\n________________________________________________________________________\n________________________________________________________________________\n________________________________________________________________________\n\n### Exercise 5: Postcard\nWrite a postcard message (50 words max):\n\n**Situation:** You're in Vienna, weather is good, visited Schönbrunn Palace.\n\n```\nLiebe Familie,\n\n[Your message here]\n\nViele Grüße\n[Your name]\n```\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Wrong register**\n   - ❌ Using \"du\" in formal letters\n   - ✅ Using \"Sie\" and formal phrases\n\n2. **Missing letter elements**\n   - ❌ No date or address\n   - ✅ Complete header and proper closing\n\n3. **Too informal in formal letters**\n   - ❌ \"Hi, das Produkt ist kaputt\"\n   - ✅ \"Sehr geehrte Damen und Herren, hiermit möchte ich mich beschweren\"\n\n4. **Too formal in informal emails**\n   - ❌ \"Sehr geehrter Herr Müller, wie geht es Ihnen?\"\n   - ✅ \"Hallo Thomas, wie geht's?\"\n\n5. **Summary too long/detailed**\n   - ❌ Including every detail\n   - ✅ Focusing on main ideas only\n\n6. **Copying text directly**\n   - ❌ Using original sentences\n   - ✅ Paraphrasing in your own words\n\n---\n\n## Summary\n\n- **Formal letters**: Beschwerdebrief (complaint), Bewerbung (job application)\n  - Standard structure: Header → Betreff → Anrede → Einleitung → Hauptteil → Schluss → Grußformel\n  - Formal register, polite expressions, passive voice\n\n- **Informal letters**: E-Mails, Postkarten\n  - Personal greetings, contractions, informal expressions\n  - Flexible structure, focus on communication\n\n- **Summarizing**: Identify main ideas → condense information → use own words\n  - Keep to 1/3 of original length\n  - Maintain logical flow and key points\n\n---\n\n## Vocabulary List\n\n- **der Brief** / **die Briefe** - letter\n- **die E-Mail** / **die E-Mails** - email\n- **die Postkarte** / **die Postkarten** - postcard\n- **die Beschwerde** / **die Beschwerden** - complaint\n- **die Bewerbung** / **die Bewerbungen** - application\n- **der Lebenslauf** / **die Lebensläufe** - resume\n- **zusammenfassen** - to summarize\n- **die Einleitung** - introduction\n- **der Hauptteil** - main part\n- **der Schluss** - conclusion\n- **die Anrede** - salutation\n- **die Grußformel** - closing\n- **höflich** - polite\n- **formell** - formal\n- **informell** - informal\n- **der Betreff** - subject\n- **der Empfänger** - recipient\n- **der Absender** - sender",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Writing Formal Letters (Beschwerdebrief, Bewerbung)",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Formal letters require specific structure, register, and conventions. At B1 level, focus on complaint letters (Beschwerdebrief) and job applications (Bewerbung)."
+    },
+    {
+      "order": 3,
+      "level": 3,
+      "title": "Formal Letter Structure",
+      "content": ""
+    },
+    {
+      "order": 4,
+      "level": 4,
+      "title": "1. Header (Briefkopf)",
+      "content": "```\nIhr Name/Ihre Adresse\nOrt, Datum\n\nEmpfängeradresse\n```"
+    },
+    {
+      "order": 5,
+      "level": 4,
+      "title": "2. Subject Line (Betreff)",
+      "content": "```\nBetreff: [Kurze Beschreibung]\n```"
+    },
+    {
+      "order": 6,
+      "level": 4,
+      "title": "3. Salutation (Anrede)",
+      "content": "- **Sehr geehrte Damen und Herren,** (Dear Sir/Madam)\n- **Sehr geehrter Herr [Name],** (Dear Mr. [Name])\n- **Sehr geehrte Frau [Name],** (Dear Ms. [Name])"
+    },
+    {
+      "order": 7,
+      "level": 4,
+      "title": "4. Introduction (Einleitung)",
+      "content": "- State the purpose immediately\n- Provide necessary background information\n- Be polite and clear"
+    },
+    {
+      "order": 8,
+      "level": 4,
+      "title": "5. Main Body (Hauptteil)",
+      "content": "- Explain the situation in detail\n- Provide evidence or reasons\n- State your request or complaint clearly"
+    },
+    {
+      "order": 9,
+      "level": 4,
+      "title": "6. Conclusion (Schluss)",
+      "content": "- Summarize your request\n- Express hope for positive response\n- Polite closing phrase"
+    },
+    {
+      "order": 10,
+      "level": 4,
+      "title": "7. Closing (Grußformel)",
+      "content": "- **Mit freundlichen Grüßen** (Kind regards)\n- **Hochachtungsvoll** (Respectfully yours)\n- Your signature"
+    },
+    {
+      "order": 11,
+      "level": 3,
+      "title": "Complaint Letter (Beschwerdebrief)",
+      "content": ""
+    },
+    {
+      "order": 12,
+      "level": 4,
+      "title": "Purpose",
+      "content": "- Express dissatisfaction with a product/service\n- Request compensation or resolution\n- Maintain polite but firm tone"
+    },
+    {
+      "order": 13,
+      "level": 4,
+      "title": "Key Phrases",
+      "content": "**Introduction:**\n- **Hiermit möchte ich mich über... beschweren.** (Herewith I would like to complain about...)\n- **Ich bin sehr unzufrieden mit...** (I am very dissatisfied with...)\n\n**Main Body:**\n- **Am [Datum] habe ich... gekauft/bestellt.** (On [date] I bought/ordered...)\n- **Leider musste ich feststellen, dass...** (Unfortunately I had to discover that...)\n- **Trotz mehrerer Versuche...** (Despite several attempts...)\n\n**Request:**\n- **Ich bitte Sie um...** (I ask you for...)\n- **Ich fordere...** (I demand...)\n- **Ich erwarte...** (I expect...)"
+    },
+    {
+      "order": 14,
+      "level": 4,
+      "title": "Sample Complaint Letter",
+      "content": "```\nMax Mustermann\nGoethestraße 15\n80331 München\n\nTelekom Deutschland\nKundenservice\n53277 Bonn\n\nMünchen, 15. März 2024\n\nBetreff: Beschwerde über Internetverbindung\n\nSehr geehrte Damen und Herren,\n\nam 10. März habe ich bei Ihnen einen Internetanschluss bestellt. Seit der Installation am 12. März funktioniert die Verbindung nicht einwandfrei. Trotz mehrerer Anrufe bei Ihrem Kundenservice wurde das Problem nicht gelöst.\n\nIch bitte Sie, die Störung schnellstmöglich zu beheben oder mir den Vertrag zu kündigen und die Gebühren zu erstatten.\n\nMit freundlichen Grüßen\nMax Mustermann\n```"
+    },
+    {
+      "order": 15,
+      "level": 3,
+      "title": "Job Application (Bewerbung)",
+      "content": ""
+    },
+    {
+      "order": 16,
+      "level": 4,
+      "title": "Components",
+      "content": "1. **Cover Letter** (Anschreiben)\n2. **Resume/CV** (Lebenslauf)\n3. **Certificates** (Zeugnisse)"
+    },
+    {
+      "order": 17,
+      "level": 4,
+      "title": "Cover Letter Structure",
+      "content": "**Introduction:**\n- How you found the position\n- Why you're applying\n- Brief mention of qualifications\n\n**Main Body:**\n- Your relevant experience and skills\n- Why you're suitable for the position\n- What you can contribute\n\n**Conclusion:**\n- Express interest in interview\n- Provide contact information\n- Polite closing"
+    },
+    {
+      "order": 18,
+      "level": 4,
+      "title": "Key Phrases",
+      "content": "**Introduction:**\n- **Hiermit bewerbe ich mich um die Stelle als...** (Herewith I apply for the position as...)\n- **Auf Ihre Anzeige vom... bewerbe ich mich...** (Regarding your advertisement from... I apply...)\n\n**Qualifications:**\n- **Ich habe Erfahrung in...** (I have experience in...)\n- **Meine Kenntnisse in... sind gut.** (My knowledge in... is good.)\n- **Ich beherrsche...** (I master...)\n\n**Interest:**\n- **Ich interessiere mich sehr für...** (I am very interested in...)\n- **Ich bin motiviert und engagiert.** (I am motivated and committed.)"
+    },
+    {
+      "order": 19,
+      "level": 4,
+      "title": "Sample Job Application",
+      "content": "```\nAnna Schmidt\nSchillerstraße 20\n80336 München\n\nABC GmbH\nPersonalabteilung\nMarienplatz 1\n80331 München\n\nMünchen, 20. April 2024\n\nBetreff: Bewerbung um die Stelle als Verkäuferin\n\nSehr geehrte Damen und Herren,\n\nauf Ihre Anzeige in der Süddeutschen Zeitung vom 15. April bewerbe ich mich um die Stelle als Verkäuferin in Ihrem Geschäft.\n\nIch bin 25 Jahre alt und habe zwei Jahre Erfahrung im Einzelhandel. Meine Kenntnisse in Deutsch und Englisch sind sehr gut. Ich bin zuverlässig, freundlich und kundenorientiert.\n\nIch freue mich auf Ihre Rückmeldung und stehe für ein Vorstellungsgespräch zur Verfügung.\n\nMit freundlichen Grüßen\nAnna Schmidt\n\nAnlagen:\n- Lebenslauf\n- Arbeitszeugnis\n```\n\n---"
+    },
+    {
+      "order": 20,
+      "level": 2,
+      "title": "Writing Informal Letters (E-Mail, Postkarte)",
+      "content": ""
+    },
+    {
+      "order": 21,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Informal letters use personal, friendly language. Focus on emails and postcards, which are common forms of informal communication."
+    },
+    {
+      "order": 22,
+      "level": 3,
+      "title": "Email Structure",
+      "content": ""
+    },
+    {
+      "order": 23,
+      "level": 4,
+      "title": "1. Subject Line",
+      "content": "- Clear and concise\n- **Betreff: Grüße aus Berlin** (Greetings from Berlin)"
+    },
+    {
+      "order": 24,
+      "level": 4,
+      "title": "2. Greeting",
+      "content": "- **Liebe [Name],** (Dear [Name])\n- **Hallo [Name],** (Hi [Name])\n- **Hi [Name],** (Hi [Name] - very informal)"
+    },
+    {
+      "order": 25,
+      "level": 4,
+      "title": "3. Introduction",
+      "content": "- Ask about well-being\n- Reference previous contact\n- State purpose of email"
+    },
+    {
+      "order": 26,
+      "level": 4,
+      "title": "4. Main Body",
+      "content": "- Share news and information\n- Ask questions\n- Make plans or suggestions"
+    },
+    {
+      "order": 27,
+      "level": 4,
+      "title": "5. Conclusion",
+      "content": "- Summarize or make future plans\n- Send greetings to others\n- Express anticipation of response"
+    },
+    {
+      "order": 28,
+      "level": 4,
+      "title": "6. Closing",
+      "content": "- **Liebe Grüße** (Dear regards)\n- **Viele Grüße** (Many regards)\n- **Bis bald** (See you soon)\n- **Dein/Deine [Name]** (Your [Name])"
+    },
+    {
+      "order": 29,
+      "level": 3,
+      "title": "Email Language Features",
+      "content": ""
+    },
+    {
+      "order": 30,
+      "level": 4,
+      "title": "Informal Expressions",
+      "content": "- **Hi!** (Hi!)\n- **Wie geht's?** (How are you?)\n- **Alles klar?** (Everything okay?)\n- **Super!** (Great!)\n- **Schade!** (Too bad!)"
+    },
+    {
+      "order": 31,
+      "level": 4,
+      "title": "Contractions and Abbreviations",
+      "content": "- **Ich bin's** (It's me)\n- **Wie geht's dir?** (How are you?)\n- **Hab dich lieb** (Love you)"
+    },
+    {
+      "order": 32,
+      "level": 4,
+      "title": "Emoticons and Emojis (optional)",
+      "content": "- **:-)** (smile)\n- **:-(** (sad)\n- Use sparingly in German communication"
+    },
+    {
+      "order": 33,
+      "level": 3,
+      "title": "Sample Email",
+      "content": "```\nBetreff: Urlaubspläne\n\nLiebe Maria,\n\nwie geht es dir? Bei mir ist alles super! Ich plane meinen Sommerurlaub und denke an Spanien. Hast du Lust mitzukommen?\n\nWir könnten zwei Wochen fahren, vom 15. Juli bis 30. Juli. Was meinst du? Gib mir Bescheid!\n\nLiebe Grüße\nAnna\n```"
+    },
+    {
+      "order": 34,
+      "level": 3,
+      "title": "Postcard Structure",
+      "content": ""
+    },
+    {
+      "order": 35,
+      "level": 4,
+      "title": "1. Address Side",
+      "content": "- Recipient's address\n- Stamp and postmark"
+    },
+    {
+      "order": 36,
+      "level": 4,
+      "title": "2. Message Side",
+      "content": "- Greeting\n- Brief message (limited space!)\n- Closing"
+    },
+    {
+      "order": 37,
+      "level": 4,
+      "title": "Key Features",
+      "content": "- **Very brief** (50-100 words)\n- **Picture description** if applicable\n- **Personal greeting**\n- **Weather mention** common"
+    },
+    {
+      "order": 38,
+      "level": 3,
+      "title": "Sample Postcard",
+      "content": "```\nLiebe Eltern,\n\nbin gut in Berlin angekommen. Die Stadt ist toll! Wetter sonnig, 25°. Besuche morgen das Brandenburger Tor.\n\nGrüße an Oma\nEuer Max\n```\n\n---"
+    },
+    {
+      "order": 39,
+      "level": 2,
+      "title": "Summarizing Texts",
+      "content": ""
+    },
+    {
+      "order": 40,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Summarizing requires identifying main ideas and condensing information while maintaining original meaning."
+    },
+    {
+      "order": 41,
+      "level": 3,
+      "title": "Summarizing Process",
+      "content": ""
+    },
+    {
+      "order": 42,
+      "level": 4,
+      "title": "1. Read and Understand",
+      "content": "- Read the text multiple times\n- Identify main topic and purpose\n- Note key points and supporting details"
+    },
+    {
+      "order": 43,
+      "level": 4,
+      "title": "2. Identify Structure",
+      "content": "- **Introduction**: What is the text about?\n- **Body**: What are the main arguments/points?\n- **Conclusion**: What is the outcome or recommendation?"
+    },
+    {
+      "order": 44,
+      "level": 4,
+      "title": "3. Select Key Information",
+      "content": "- Main ideas (not details)\n- Important facts, dates, names\n- Author's main arguments\n- Conclusions or recommendations"
+    },
+    {
+      "order": 45,
+      "level": 4,
+      "title": "4. Condense Information",
+      "content": "- Use your own words\n- Combine related ideas\n- Eliminate redundancy\n- Maintain logical flow"
+    },
+    {
+      "order": 46,
+      "level": 4,
+      "title": "5. Write Summary",
+      "content": "- Start with main topic\n- Include key points in logical order\n- End with conclusion or main message\n- Keep length to 1/3 of original"
+    },
+    {
+      "order": 47,
+      "level": 3,
+      "title": "Summary Language",
+      "content": ""
+    },
+    {
+      "order": 48,
+      "level": 4,
+      "title": "Linking Words",
+      "content": "- **und** (and)\n- **aber** (but)\n- **weil** (because)\n- **deshalb** (therefore)\n- **zunächst** (firstly)\n- **danach** (afterwards)\n- **schließlich** (finally)"
+    },
+    {
+      "order": 49,
+      "level": 4,
+      "title": "Time Expressions",
+      "content": "- **zuerst** (first)\n- **dann** (then)\n- **am Ende** (at the end)\n- **während** (during)"
+    },
+    {
+      "order": 50,
+      "level": 4,
+      "title": "Generalizing Words",
+      "content": "- **die meisten** (most)\n- **viele** (many)\n- **einige** (some)\n- **hauptsächlich** (mainly)\n- **insgesamt** (overall)"
+    },
+    {
+      "order": 51,
+      "level": 3,
+      "title": "Types of Summaries",
+      "content": ""
+    },
+    {
+      "order": 52,
+      "level": 4,
+      "title": "Factual Summary",
+      "content": "- Objective presentation of facts\n- No personal opinion\n- Example: News article summary"
+    },
+    {
+      "order": 53,
+      "level": 4,
+      "title": "Analytical Summary",
+      "content": "- Includes author's main arguments\n- Notes important conclusions\n- Example: Academic text summary"
+    },
+    {
+      "order": 54,
+      "level": 4,
+      "title": "Critical Summary",
+      "content": "- Includes your evaluation\n- Notes strengths/weaknesses\n- Example: Book review summary"
+    },
+    {
+      "order": 55,
+      "level": 3,
+      "title": "Sample Summary",
+      "content": "**Original Text:**\nDie globale Erwärmung ist eines der größten Probleme unserer Zeit. Wissenschaftler haben festgestellt, dass die Durchschnittstemperatur der Erde seit 100 Jahren um 0,8 Grad gestiegen ist. Dies führt zu extremen Wetterereignissen wie Überschwemmungen und Dürren. Regierungen müssen Maßnahmen ergreifen, um den CO2-Ausstoß zu reduzieren.\n\n**Summary:**\nDer Text behandelt die globale Erwärmung als ernstes Problem. Die Erd-temperatur ist um 0,8 Grad gestiegen, was extreme Wetterlagen verursacht. Die Regierungen sollen den CO2-Ausstoß verringern.\n\n---"
+    },
+    {
+      "order": 56,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 57,
+      "level": 3,
+      "title": "Exercise 1: Formal Letter Structure",
+      "content": "Complete this complaint letter:\n\n```\nAnna Meier\nHauptstraße 10\n80331 München\n\nElektronik-Shop Müller\nKundenservice\nMarienplatz 5\n80331 München\n\nMünchen, ___\n\nBetreff: ___ über defekten Fernseher\n\n___ ,\n\nam 10. März habe ich bei Ihnen einen Fernseher gekauft. ___ musste ich feststellen, dass er nach zwei Tagen nicht mehr funktionierte.\n\n___ Sie, den Fernseher zu reparieren oder ___ zu erstatten.\n\n___ Grüßen\nAnna Meier\n```"
+    },
+    {
+      "order": 58,
+      "level": 3,
+      "title": "Exercise 2: Job Application",
+      "content": "Write a short cover letter:\n\n**Situation:** You saw an ad for a \"Kellner/Kellnerin\" position at a restaurant. You have 2 years experience.\n\n```\n[Your address]\n\n[Restaurant address]\n\n[Date]\n\nBetreff: ___\n\n___ ,\n\n___ bewerbe ich mich ___ die Stelle ___ Kellner/in.\n\n___ bin 22 Jahre alt ___ habe ___ Jahre Erfahrung ___ der Gastronomie.\n\n___ freue mich ___ Ihre Rückmeldung.\n\n___ Grüßen\n[Your name]\n```"
+    },
+    {
+      "order": 59,
+      "level": 3,
+      "title": "Exercise 3: Informal Email",
+      "content": "Write an email to a friend:\n\n**Situation:** Tell your friend about your weekend plans. Ask what they're doing.\n\n```\nBetreff: ___\n\n___ Markus,\n\n___ geht's? ___ habe ___ super Wochenende geplant.\n\n___ gehe ___ Kino ___ dann ___ Freunde treffen.\n\n___ du ___ ?\n\n___ bald\nLisa\n```"
+    },
+    {
+      "order": 60,
+      "level": 3,
+      "title": "Exercise 4: Summarizing",
+      "content": "Summarize this text in 2-3 sentences:\n\n```\nDeutschland ist ein föderaler Staat mit 16 Bundesländern. Jedes Bundesland hat eine eigene Regierung und einen Ministerpräsidenten. Der Bundestag in Berlin ist das nationale Parlament. Deutschland hat eine lange demokratische Tradition seit 1949.\n```\n\n**Summary:**\n________________________________________________________________________\n________________________________________________________________________\n________________________________________________________________________"
+    },
+    {
+      "order": 61,
+      "level": 3,
+      "title": "Exercise 5: Postcard",
+      "content": "Write a postcard message (50 words max):\n\n**Situation:** You're in Vienna, weather is good, visited Schönbrunn Palace.\n\n```\nLiebe Familie,\n\n[Your message here]\n\nViele Grüße\n[Your name]\n```\n\n---"
+    },
+    {
+      "order": 62,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Wrong register**\n   - ❌ Using \"du\" in formal letters\n   - ✅ Using \"Sie\" and formal phrases\n\n2. **Missing letter elements**\n   - ❌ No date or address\n   - ✅ Complete header and proper closing\n\n3. **Too informal in formal letters**\n   - ❌ \"Hi, das Produkt ist kaputt\"\n   - ✅ \"Sehr geehrte Damen und Herren, hiermit möchte ich mich beschweren\"\n\n4. **Too formal in informal emails**\n   - ❌ \"Sehr geehrter Herr Müller, wie geht es Ihnen?\"\n   - ✅ \"Hallo Thomas, wie geht's?\"\n\n5. **Summary too long/detailed**\n   - ❌ Including every detail\n   - ✅ Focusing on main ideas only\n\n6. **Copying text directly**\n   - ❌ Using original sentences\n   - ✅ Paraphrasing in your own words\n\n---"
+    },
+    {
+      "order": 63,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Formal letters**: Beschwerdebrief (complaint), Bewerbung (job application)\n  - Standard structure: Header → Betreff → Anrede → Einleitung → Hauptteil → Schluss → Grußformel\n  - Formal register, polite expressions, passive voice\n\n- **Informal letters**: E-Mails, Postkarten\n  - Personal greetings, contractions, informal expressions\n  - Flexible structure, focus on communication\n\n- **Summarizing**: Identify main ideas → condense information → use own words\n  - Keep to 1/3 of original length\n  - Maintain logical flow and key points\n\n---"
+    },
+    {
+      "order": 64,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **der Brief** / **die Briefe** - letter\n- **die E-Mail** / **die E-Mails** - email\n- **die Postkarte** / **die Postkarten** - postcard\n- **die Beschwerde** / **die Beschwerden** - complaint\n- **die Bewerbung** / **die Bewerbungen** - application\n- **der Lebenslauf** / **die Lebensläufe** - resume\n- **zusammenfassen** - to summarize\n- **die Einleitung** - introduction\n- **der Hauptteil** - main part\n- **der Schluss** - conclusion\n- **die Anrede** - salutation\n- **die Grußformel** - closing\n- **höflich** - polite\n- **formell** - formal\n- **informell** - informal\n- **der Betreff** - subject\n- **der Empfänger** - recipient\n- **der Absender** - sender"
+    }
+  ],
+  "tags": [
+    "passive voice",
+    "future tense",
+    "vocabulary",
+    "writing"
+  ],
+  "contentHash": "d8ff316fa798778711a9794adbc9effa9a66b60e07b15706a1192c7ff2b73db3"
+}

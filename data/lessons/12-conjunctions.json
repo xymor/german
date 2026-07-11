@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "slug": "12-conjunctions",
+  "order": 12,
+  "title": "Chapter 12: Conjunctions",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/12-conjunctions.md",
+  "sourceMarkdownFile": "12-conjunctions.md",
+  "jsonPath": "data/lessons/12-conjunctions.json",
+  "markdown": "# Chapter 12: Conjunctions\n\n## Coordinating Conjunctions\n\n### Introduction\nCoordinating conjunctions connect two independent clauses of equal importance. They don't change word order.\n\n### Common Coordinating Conjunctions\n\n#### und (and)\n- Connects similar ideas\n- **Examples:**\n  - Ich gehe ins Kino **und** du bleibst zu Hause. (I go to the cinema and you stay at home.)\n  - Sie arbeitet viel **und** verdient gut. (She works a lot and earns well.)\n  - Wir essen Pizza **und** trinken Bier. (We eat pizza and drink beer.)\n\n#### oder (or)\n- Presents alternatives\n- **Examples:**\n  - Möchtest du Tee **oder** Kaffee? (Would you like tea or coffee?)\n  - Wir fahren mit dem Auto **oder** nehmen den Zug. (We drive by car or take the train.)\n  - Er kommt morgen **oder** übermorgen. (He comes tomorrow or the day after.)\n\n#### aber (but)\n- Contrasts ideas\n- **Examples:**\n  - Es regnet, **aber** wir gehen spazieren. (It is raining, but we go for a walk.)\n  - Sie ist müde, **aber** sie arbeitet weiter. (She is tired, but she continues working.)\n  - Das Auto ist teuer, **aber** sehr gut. (The car is expensive, but very good.)\n\n#### sondern (but rather)\n- Used after negative clauses to introduce correction\n- **Examples:**\n  - Ich trinke keinen Kaffee, **sondern** Tee. (I don't drink coffee, but rather tea.)\n  - Er kommt nicht morgen, **sondern** heute. (He doesn't come tomorrow, but rather today.)\n  - Sie arbeitet nicht viel, **sondern** wenig. (She doesn't work a lot, but rather little.)\n\n#### denn (because/for)\n- Gives reason (less formal than \"weil\")\n- **Examples:**\n  - Ich bleibe zu Hause, **denn** es regnet. (I stay at home, because it is raining.)\n  - Sie lernt Deutsch, **denn** sie zieht nach Deutschland. (She learns German, because she is moving to Germany.)\n  - Wir fahren mit dem Zug, **denn** das Auto ist kaputt. (We take the train, because the car is broken.)\n\n#### doch (however/but)\n- Expresses contrast or concession\n- **Examples:**\n  - Es regnet, **doch** wir gehen aus. (It is raining, yet we go out.)\n  - Er ist krank, **doch** er arbeitet. (He is sick, yet he works.)\n  - Sie hat wenig Geld, **doch** sie ist glücklich. (She has little money, yet she is happy.)\n\n### Word Order with Coordinating Conjunctions\n\n- **No change in word order**: Subject remains in second position\n- Both clauses are independent\n\n**Examples:**\n- Subject + Verb + **und** + Subject + Verb\n  - Ich **arbeite** **und** du **schläfst**. (I work and you sleep.)\n- Subject + Verb + **aber** + Subject + Verb\n  - Sie **kommt** **aber** er **geht**. (She comes but he goes.)\n\n### Punctuation\n\n- Comma between clauses when both have subjects\n- No comma for short clauses or in questions\n\n**Examples:**\n- Ich esse, **und** du trinkst. (I eat, and you drink.)\n- Kaffee **oder** Tee? (Coffee or tea?)\n\n---\n\n## Subordinating Conjunctions\n\n### Introduction\nSubordinating conjunctions introduce dependent clauses. They change word order: verb goes to the end.\n\n### Common Subordinating Conjunctions\n\n#### weil (because)\n- Gives reason\n- **Examples:**\n  - Ich bleibe zu Hause, **weil** es regnet. (I stay at home because it is raining.)\n  - Sie lernt Deutsch, **weil** sie nach Deutschland zieht. (She learns German because she is moving to Germany.)\n  - Wir nehmen den Zug, **weil** das Auto kaputt ist. (We take the train because the car is broken.)\n\n#### dass (that)\n- Introduces statements, facts, or indirect speech\n- **Examples:**\n  - Ich weiß, **dass** du kommst. (I know that you are coming.)\n  - Sie sagt, **dass** sie müde ist. (She says that she is tired.)\n  - Es ist schön, **dass** du hier bist. (It is nice that you are here.)\n\n#### als (when - past)\n- For single past events\n- **Examples:**\n  - **Als** ich jung war, spielte ich viel. (When I was young, I played a lot.)\n  - Sie rief an, **als** ich kochte. (She called when I was cooking.)\n  - **Als** wir in Berlin waren, besuchten wir Museen. (When we were in Berlin, we visited museums.)\n\n#### wenn (when/if - present/future, repeated actions)\n- For hypothetical situations, repeated actions, or future\n- **Examples:**\n  - **Wenn** es regnet, bleiben wir zu Hause. (If it rains, we stay at home.)\n  - **Wenn** ich Zeit habe, lese ich. (When I have time, I read.)\n  - Sie ruft an, **wenn** sie Hilfe braucht. (She calls when she needs help.)\n\n#### obwohl (although)\n- Concession, contrast\n- **Examples:**\n  - Ich gehe spazieren, **obwohl** es regnet. (I go for a walk although it is raining.)\n  - Sie arbeitet viel, **obwohl** sie müde ist. (She works a lot although she is tired.)\n  - Er kommt, **obwohl** er krank ist. (He comes although he is sick.)\n\n#### während (while)\n- Simultaneous actions\n- **Examples:**\n  - Ich lese, **während** du fernsiehst. (I read while you watch TV.)\n  - **Während** des Essens sprechen wir nicht. (During eating we don't talk.)\n  - Sie arbeitet, **während** er kocht. (She works while he cooks.)\n\n#### bevor (before)\n- One action before another\n- **Examples:**\n  - Ich dusche, **bevor** ich frühstücke. (I shower before I have breakfast.)\n  - Ruf mich an, **bevor** du kommst. (Call me before you come.)\n  - **Bevor** es dunkel wird, gehen wir nach Hause. (Before it gets dark, we go home.)\n\n#### nachdem (after)\n- One action after another (past)\n- **Examples:**\n  - Ich esse, **nachdem** ich gekocht habe. (I eat after I have cooked.)\n  - **Nachdem** sie angerufen hat, kommt sie. (After she called, she comes.)\n  - Wir gehen schlafen, **nachdem** wir ferngesehen haben. (We go to sleep after we have watched TV.)\n\n#### bis (until)\n- Duration up to a point\n- **Examples:**\n  - Wir warten, **bis** der Zug kommt. (We wait until the train comes.)\n  - Sie arbeitet, **bis** es dunkel wird. (She works until it gets dark.)\n  - Bleib hier, **bis** ich zurückkomme. (Stay here until I come back.)\n\n#### seit(dem) (since)\n- From a point in time\n- **Examples:**\n  - Ich wohne hier, **seitdem** ich studiere. (I live here since I study.)\n  - **Seit** sie arbeitet, hat sie wenig Zeit. (Since she works, she has little time.)\n  - Er raucht nicht mehr, **seitdem** er krank war. (He doesn't smoke anymore since he was sick.)\n\n#### damit (so that)\n- Purpose, goal\n- **Examples:**\n  - Ich lerne Deutsch, **damit** ich in Deutschland arbeiten kann. (I learn German so that I can work in Germany.)\n  - Sie kauft Geschenke, **damit** ihre Kinder glücklich sind. (She buys presents so that her children are happy.)\n  - Wir sparen Geld, **damit** wir verreisen können. (We save money so that we can travel.)\n\n#### indem (by ...ing)\n- Means or method\n- **Examples:**\n  - Ich lerne, **indem** ich viel lese. (I learn by reading a lot.)\n  - Sie wird fit, **indem** sie Sport treibt. (She gets fit by doing sports.)\n  - Wir helfen ihm, **indem** wir Geld spenden. (We help him by donating money.)\n\n---\n\n## Word Order in Subordinate Clauses\n\n### Basic Rule\n- **Conjunction + Subject + ... + Verb** (at the end)\n- The verb is pushed to the end of the clause\n\n### Examples\n\n#### Single Verb\n- Ich weiß, **dass** du morgen kommst.\n  (I know that you come tomorrow.)\n- Sie sagt, **weil** sie müde ist.\n  (She says because she is tired.)\n\n#### Separable Verbs\n- Ich weiß, **dass** du morgen **aufstehst**.\n  (I know that you get up tomorrow.)\n- Sie arbeitet, **während** du **fern siehst**.\n  (She works while you watch TV.)\n\n#### Modal Verbs\n- Ich weiß, **dass** du morgen **kommen kannst**.\n  (I know that you can come tomorrow.)\n- Sie arbeitet, **weil** sie **muss**.\n  (She works because she has to.)\n\n#### Perfect Tense\n- Ich weiß, **dass** du das Buch **gelesen hast**.\n  (I know that you have read the book.)\n- Sie arbeitet, **weil** sie Geld **verdienen muss**.\n  (She works because she has to earn money.)\n\n### Position of \"nicht\"\n- \"nicht\" comes before the verb at the end\n- Ich weiß, **dass** du **nicht** kommst.\n  (I know that you are not coming.)\n\n### Multiple Subordinate Clauses\n- When clauses are nested, each follows the rule\n- Ich weiß, **dass** sie sagt, **dass** du krank bist.\n  (I know that she says that you are sick.)\n\n### Infinitive Clauses\n- Some conjunctions are followed by infinitive constructions\n- **um...zu**: Ich lerne, **um** **zu** arbeiten. (I learn in order to work.)\n- **ohne...zu**: Er geht, **ohne** **zu** grüßen. (He leaves without greeting.)\n- **statt...zu**: Sie arbeitet, **statt** **zu** schlafen. (She works instead of sleeping.)\n\n### Word Order in Main Clauses with Subordinate Clauses\n\n#### Main Clause First\n- Main clause has normal word order\n- **Ich arbeite**, weil ich Geld brauche.\n  (I work because I need money.)\n\n#### Subordinate Clause First\n- Verb comes immediately after subject in main clause\n- **Weil** ich Geld brauche**, arbeite** ich.\n  (Because I need money, I work.)\n\n### Punctuation\n- Always use comma between main and subordinate clauses\n- **Ich komme**, weil du mich eingeladen hast.\n- **Weil** du mich eingeladen hast**, komme** ich.\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Coordinating Conjunctions\nConnect the sentences with coordinating conjunctions:\n\n1. Ich esse Pizza. Du trinkst Bier. (und)\n2. Sie arbeitet viel. Sie verdient wenig. (aber)\n3. Möchtest du Tee? Möchtest du Kaffee? (oder)\n4. Ich trinke keinen Kaffee. Ich trinke Tee. (sondern)\n5. Wir bleiben zu Hause. Es regnet. (denn)\n\n### Exercise 2: Subordinating Conjunctions\nComplete with subordinating conjunctions:\n\n1. Ich bleibe zu Hause, ___ es regnet. (weil)\n2. Sie sagt, ___ sie müde ist. (dass)\n3. ___ ich jung war, spielte ich Fußball. (als)\n4. ___ es regnet, nehmen wir den Schirm. (wenn)\n5. Er arbeitet, ___ er müde ist. (obwohl)\n\n### Exercise 3: Word Order in Subordinate Clauses\nRewrite as subordinate clauses with correct word order:\n\n1. Sie kommt morgen. (dass)\n   → Ich weiß, ___________________________.\n2. Du arbeitest hart. (weil)\n   → Sie ist stolz, ___________________________.\n3. Wir gehen ins Kino. (nachdem)\n   → Ich rufe dich an, ___________________________.\n\n### Exercise 4: Conjunction Choice\nChoose the correct conjunction:\n\n1. Ich esse, ___ ich Hunger habe. (weil/denn)\n2. Es regnet, ___ wir bleiben zu Hause. (aber/sondern)\n3. Möchtest du Tee ___ Kaffee? (und/oder)\n4. Sie arbeitet viel ___ verdient gut. (aber/sondern)\n5. Ich weiß, ___ du kommst. (dass/als)\n\n### Exercise 5: Complex Sentences\nCombine the sentences using appropriate conjunctions:\n\n1. Ich gehe einkaufen. Ich brauche Milch. (weil)\n2. Sie lernt Deutsch. Sie zieht nach Deutschland. (damit)\n3. Wir warten. Der Film beginnt. (bis)\n4. Er arbeitet. Seine Frau kocht. (während)\n5. Sie ruft an. Sie kommt. (bevor)\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Word order after subordinating conjunctions**\n   - ❌ Weil ich müde bin arbeite ich.\n   - ✅ Weil ich müde bin, arbeite ich.\n\n2. **Comma omission**\n   - ❌ Ich weiß dass du kommst.\n   - ✅ Ich weiß, dass du kommst.\n\n3. **Verb position in subordinate clauses**\n   - ❌ Ich weiß, dass du kommst morgen.\n   - ✅ Ich weiß, dass du morgen kommst.\n\n4. **sondern vs. aber**\n   - ❌ Ich trinke Kaffee, aber Tee. (after negative)\n   - ✅ Ich trinke Kaffee, sondern Tee.\n\n5. **als vs. wenn**\n   - ❌ Wenn ich 10 Jahre alt war, spielte ich. (single past event)\n   - ✅ Als ich 10 Jahre alt war, spielte ich.\n\n6. **weil vs. denn**\n   - ❌ Ich bleibe zu Hause, denn es regnet. (subordinate clause)\n   - ✅ Ich bleibe zu Hause, weil es regnet.\n\n---\n\n## Summary\n\n- **Coordinating conjunctions**: und, oder, aber, sondern, denn - no word order change\n- **Subordinating conjunctions**: weil, dass, als, wenn, obwohl, etc. - verb to end\n- **Word order**: Conjunction + Subject + ... + Verb\n- **Punctuation**: Comma between clauses\n- **als**: single past events\n- **wenn**: repeated actions, future, hypothetical\n- **damit**: purpose (different subjects)\n- **um...zu**: purpose (same subject)\n\n---\n\n## Vocabulary List\n\n- **die Konjunktion** / **die Konjunktionen** - conjunction\n- **koordinierend** - coordinating\n- **subordinierend** - subordinating\n- **der Hauptsatz** - main clause\n- **der Nebensatz** - subordinate clause\n- **die Wortstellung** - word order\n- **das Komma** - comma\n- **weil** - because\n- **dass** - that\n- **als** - when (past)\n- **wenn** - when/if\n- **obwohl** - although\n- **während** - while\n- **bevor** - before\n- **nachdem** - after\n- **bis** - until\n- **seit(dem)** - since\n- **damit** - so that\n- **indem** - by ...ing",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Coordinating Conjunctions",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Coordinating conjunctions connect two independent clauses of equal importance. They don't change word order."
+    },
+    {
+      "order": 3,
+      "level": 3,
+      "title": "Common Coordinating Conjunctions",
+      "content": ""
+    },
+    {
+      "order": 4,
+      "level": 4,
+      "title": "und (and)",
+      "content": "- Connects similar ideas\n- **Examples:**\n  - Ich gehe ins Kino **und** du bleibst zu Hause. (I go to the cinema and you stay at home.)\n  - Sie arbeitet viel **und** verdient gut. (She works a lot and earns well.)\n  - Wir essen Pizza **und** trinken Bier. (We eat pizza and drink beer.)"
+    },
+    {
+      "order": 5,
+      "level": 4,
+      "title": "oder (or)",
+      "content": "- Presents alternatives\n- **Examples:**\n  - Möchtest du Tee **oder** Kaffee? (Would you like tea or coffee?)\n  - Wir fahren mit dem Auto **oder** nehmen den Zug. (We drive by car or take the train.)\n  - Er kommt morgen **oder** übermorgen. (He comes tomorrow or the day after.)"
+    },
+    {
+      "order": 6,
+      "level": 4,
+      "title": "aber (but)",
+      "content": "- Contrasts ideas\n- **Examples:**\n  - Es regnet, **aber** wir gehen spazieren. (It is raining, but we go for a walk.)\n  - Sie ist müde, **aber** sie arbeitet weiter. (She is tired, but she continues working.)\n  - Das Auto ist teuer, **aber** sehr gut. (The car is expensive, but very good.)"
+    },
+    {
+      "order": 7,
+      "level": 4,
+      "title": "sondern (but rather)",
+      "content": "- Used after negative clauses to introduce correction\n- **Examples:**\n  - Ich trinke keinen Kaffee, **sondern** Tee. (I don't drink coffee, but rather tea.)\n  - Er kommt nicht morgen, **sondern** heute. (He doesn't come tomorrow, but rather today.)\n  - Sie arbeitet nicht viel, **sondern** wenig. (She doesn't work a lot, but rather little.)"
+    },
+    {
+      "order": 8,
+      "level": 4,
+      "title": "denn (because/for)",
+      "content": "- Gives reason (less formal than \"weil\")\n- **Examples:**\n  - Ich bleibe zu Hause, **denn** es regnet. (I stay at home, because it is raining.)\n  - Sie lernt Deutsch, **denn** sie zieht nach Deutschland. (She learns German, because she is moving to Germany.)\n  - Wir fahren mit dem Zug, **denn** das Auto ist kaputt. (We take the train, because the car is broken.)"
+    },
+    {
+      "order": 9,
+      "level": 4,
+      "title": "doch (however/but)",
+      "content": "- Expresses contrast or concession\n- **Examples:**\n  - Es regnet, **doch** wir gehen aus. (It is raining, yet we go out.)\n  - Er ist krank, **doch** er arbeitet. (He is sick, yet he works.)\n  - Sie hat wenig Geld, **doch** sie ist glücklich. (She has little money, yet she is happy.)"
+    },
+    {
+      "order": 10,
+      "level": 3,
+      "title": "Word Order with Coordinating Conjunctions",
+      "content": "- **No change in word order**: Subject remains in second position\n- Both clauses are independent\n\n**Examples:**\n- Subject + Verb + **und** + Subject + Verb\n  - Ich **arbeite** **und** du **schläfst**. (I work and you sleep.)\n- Subject + Verb + **aber** + Subject + Verb\n  - Sie **kommt** **aber** er **geht**. (She comes but he goes.)"
+    },
+    {
+      "order": 11,
+      "level": 3,
+      "title": "Punctuation",
+      "content": "- Comma between clauses when both have subjects\n- No comma for short clauses or in questions\n\n**Examples:**\n- Ich esse, **und** du trinkst. (I eat, and you drink.)\n- Kaffee **oder** Tee? (Coffee or tea?)\n\n---"
+    },
+    {
+      "order": 12,
+      "level": 2,
+      "title": "Subordinating Conjunctions",
+      "content": ""
+    },
+    {
+      "order": 13,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Subordinating conjunctions introduce dependent clauses. They change word order: verb goes to the end."
+    },
+    {
+      "order": 14,
+      "level": 3,
+      "title": "Common Subordinating Conjunctions",
+      "content": ""
+    },
+    {
+      "order": 15,
+      "level": 4,
+      "title": "weil (because)",
+      "content": "- Gives reason\n- **Examples:**\n  - Ich bleibe zu Hause, **weil** es regnet. (I stay at home because it is raining.)\n  - Sie lernt Deutsch, **weil** sie nach Deutschland zieht. (She learns German because she is moving to Germany.)\n  - Wir nehmen den Zug, **weil** das Auto kaputt ist. (We take the train because the car is broken.)"
+    },
+    {
+      "order": 16,
+      "level": 4,
+      "title": "dass (that)",
+      "content": "- Introduces statements, facts, or indirect speech\n- **Examples:**\n  - Ich weiß, **dass** du kommst. (I know that you are coming.)\n  - Sie sagt, **dass** sie müde ist. (She says that she is tired.)\n  - Es ist schön, **dass** du hier bist. (It is nice that you are here.)"
+    },
+    {
+      "order": 17,
+      "level": 4,
+      "title": "als (when - past)",
+      "content": "- For single past events\n- **Examples:**\n  - **Als** ich jung war, spielte ich viel. (When I was young, I played a lot.)\n  - Sie rief an, **als** ich kochte. (She called when I was cooking.)\n  - **Als** wir in Berlin waren, besuchten wir Museen. (When we were in Berlin, we visited museums.)"
+    },
+    {
+      "order": 18,
+      "level": 4,
+      "title": "wenn (when/if - present/future, repeated actions)",
+      "content": "- For hypothetical situations, repeated actions, or future\n- **Examples:**\n  - **Wenn** es regnet, bleiben wir zu Hause. (If it rains, we stay at home.)\n  - **Wenn** ich Zeit habe, lese ich. (When I have time, I read.)\n  - Sie ruft an, **wenn** sie Hilfe braucht. (She calls when she needs help.)"
+    },
+    {
+      "order": 19,
+      "level": 4,
+      "title": "obwohl (although)",
+      "content": "- Concession, contrast\n- **Examples:**\n  - Ich gehe spazieren, **obwohl** es regnet. (I go for a walk although it is raining.)\n  - Sie arbeitet viel, **obwohl** sie müde ist. (She works a lot although she is tired.)\n  - Er kommt, **obwohl** er krank ist. (He comes although he is sick.)"
+    },
+    {
+      "order": 20,
+      "level": 4,
+      "title": "während (while)",
+      "content": "- Simultaneous actions\n- **Examples:**\n  - Ich lese, **während** du fernsiehst. (I read while you watch TV.)\n  - **Während** des Essens sprechen wir nicht. (During eating we don't talk.)\n  - Sie arbeitet, **während** er kocht. (She works while he cooks.)"
+    },
+    {
+      "order": 21,
+      "level": 4,
+      "title": "bevor (before)",
+      "content": "- One action before another\n- **Examples:**\n  - Ich dusche, **bevor** ich frühstücke. (I shower before I have breakfast.)\n  - Ruf mich an, **bevor** du kommst. (Call me before you come.)\n  - **Bevor** es dunkel wird, gehen wir nach Hause. (Before it gets dark, we go home.)"
+    },
+    {
+      "order": 22,
+      "level": 4,
+      "title": "nachdem (after)",
+      "content": "- One action after another (past)\n- **Examples:**\n  - Ich esse, **nachdem** ich gekocht habe. (I eat after I have cooked.)\n  - **Nachdem** sie angerufen hat, kommt sie. (After she called, she comes.)\n  - Wir gehen schlafen, **nachdem** wir ferngesehen haben. (We go to sleep after we have watched TV.)"
+    },
+    {
+      "order": 23,
+      "level": 4,
+      "title": "bis (until)",
+      "content": "- Duration up to a point\n- **Examples:**\n  - Wir warten, **bis** der Zug kommt. (We wait until the train comes.)\n  - Sie arbeitet, **bis** es dunkel wird. (She works until it gets dark.)\n  - Bleib hier, **bis** ich zurückkomme. (Stay here until I come back.)"
+    },
+    {
+      "order": 24,
+      "level": 4,
+      "title": "seit(dem) (since)",
+      "content": "- From a point in time\n- **Examples:**\n  - Ich wohne hier, **seitdem** ich studiere. (I live here since I study.)\n  - **Seit** sie arbeitet, hat sie wenig Zeit. (Since she works, she has little time.)\n  - Er raucht nicht mehr, **seitdem** er krank war. (He doesn't smoke anymore since he was sick.)"
+    },
+    {
+      "order": 25,
+      "level": 4,
+      "title": "damit (so that)",
+      "content": "- Purpose, goal\n- **Examples:**\n  - Ich lerne Deutsch, **damit** ich in Deutschland arbeiten kann. (I learn German so that I can work in Germany.)\n  - Sie kauft Geschenke, **damit** ihre Kinder glücklich sind. (She buys presents so that her children are happy.)\n  - Wir sparen Geld, **damit** wir verreisen können. (We save money so that we can travel.)"
+    },
+    {
+      "order": 26,
+      "level": 4,
+      "title": "indem (by ...ing)",
+      "content": "- Means or method\n- **Examples:**\n  - Ich lerne, **indem** ich viel lese. (I learn by reading a lot.)\n  - Sie wird fit, **indem** sie Sport treibt. (She gets fit by doing sports.)\n  - Wir helfen ihm, **indem** wir Geld spenden. (We help him by donating money.)\n\n---"
+    },
+    {
+      "order": 27,
+      "level": 2,
+      "title": "Word Order in Subordinate Clauses",
+      "content": ""
+    },
+    {
+      "order": 28,
+      "level": 3,
+      "title": "Basic Rule",
+      "content": "- **Conjunction + Subject + ... + Verb** (at the end)\n- The verb is pushed to the end of the clause"
+    },
+    {
+      "order": 29,
+      "level": 3,
+      "title": "Examples",
+      "content": ""
+    },
+    {
+      "order": 30,
+      "level": 4,
+      "title": "Single Verb",
+      "content": "- Ich weiß, **dass** du morgen kommst.\n  (I know that you come tomorrow.)\n- Sie sagt, **weil** sie müde ist.\n  (She says because she is tired.)"
+    },
+    {
+      "order": 31,
+      "level": 4,
+      "title": "Separable Verbs",
+      "content": "- Ich weiß, **dass** du morgen **aufstehst**.\n  (I know that you get up tomorrow.)\n- Sie arbeitet, **während** du **fern siehst**.\n  (She works while you watch TV.)"
+    },
+    {
+      "order": 32,
+      "level": 4,
+      "title": "Modal Verbs",
+      "content": "- Ich weiß, **dass** du morgen **kommen kannst**.\n  (I know that you can come tomorrow.)\n- Sie arbeitet, **weil** sie **muss**.\n  (She works because she has to.)"
+    },
+    {
+      "order": 33,
+      "level": 4,
+      "title": "Perfect Tense",
+      "content": "- Ich weiß, **dass** du das Buch **gelesen hast**.\n  (I know that you have read the book.)\n- Sie arbeitet, **weil** sie Geld **verdienen muss**.\n  (She works because she has to earn money.)"
+    },
+    {
+      "order": 34,
+      "level": 3,
+      "title": "Position of \"nicht\"",
+      "content": "- \"nicht\" comes before the verb at the end\n- Ich weiß, **dass** du **nicht** kommst.\n  (I know that you are not coming.)"
+    },
+    {
+      "order": 35,
+      "level": 3,
+      "title": "Multiple Subordinate Clauses",
+      "content": "- When clauses are nested, each follows the rule\n- Ich weiß, **dass** sie sagt, **dass** du krank bist.\n  (I know that she says that you are sick.)"
+    },
+    {
+      "order": 36,
+      "level": 3,
+      "title": "Infinitive Clauses",
+      "content": "- Some conjunctions are followed by infinitive constructions\n- **um...zu**: Ich lerne, **um** **zu** arbeiten. (I learn in order to work.)\n- **ohne...zu**: Er geht, **ohne** **zu** grüßen. (He leaves without greeting.)\n- **statt...zu**: Sie arbeitet, **statt** **zu** schlafen. (She works instead of sleeping.)"
+    },
+    {
+      "order": 37,
+      "level": 3,
+      "title": "Word Order in Main Clauses with Subordinate Clauses",
+      "content": ""
+    },
+    {
+      "order": 38,
+      "level": 4,
+      "title": "Main Clause First",
+      "content": "- Main clause has normal word order\n- **Ich arbeite**, weil ich Geld brauche.\n  (I work because I need money.)"
+    },
+    {
+      "order": 39,
+      "level": 4,
+      "title": "Subordinate Clause First",
+      "content": "- Verb comes immediately after subject in main clause\n- **Weil** ich Geld brauche**, arbeite** ich.\n  (Because I need money, I work.)"
+    },
+    {
+      "order": 40,
+      "level": 3,
+      "title": "Punctuation",
+      "content": "- Always use comma between main and subordinate clauses\n- **Ich komme**, weil du mich eingeladen hast.\n- **Weil** du mich eingeladen hast**, komme** ich.\n\n---"
+    },
+    {
+      "order": 41,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 42,
+      "level": 3,
+      "title": "Exercise 1: Coordinating Conjunctions",
+      "content": "Connect the sentences with coordinating conjunctions:\n\n1. Ich esse Pizza. Du trinkst Bier. (und)\n2. Sie arbeitet viel. Sie verdient wenig. (aber)\n3. Möchtest du Tee? Möchtest du Kaffee? (oder)\n4. Ich trinke keinen Kaffee. Ich trinke Tee. (sondern)\n5. Wir bleiben zu Hause. Es regnet. (denn)"
+    },
+    {
+      "order": 43,
+      "level": 3,
+      "title": "Exercise 2: Subordinating Conjunctions",
+      "content": "Complete with subordinating conjunctions:\n\n1. Ich bleibe zu Hause, ___ es regnet. (weil)\n2. Sie sagt, ___ sie müde ist. (dass)\n3. ___ ich jung war, spielte ich Fußball. (als)\n4. ___ es regnet, nehmen wir den Schirm. (wenn)\n5. Er arbeitet, ___ er müde ist. (obwohl)"
+    },
+    {
+      "order": 44,
+      "level": 3,
+      "title": "Exercise 3: Word Order in Subordinate Clauses",
+      "content": "Rewrite as subordinate clauses with correct word order:\n\n1. Sie kommt morgen. (dass)\n   → Ich weiß, ___________________________.\n2. Du arbeitest hart. (weil)\n   → Sie ist stolz, ___________________________.\n3. Wir gehen ins Kino. (nachdem)\n   → Ich rufe dich an, ___________________________."
+    },
+    {
+      "order": 45,
+      "level": 3,
+      "title": "Exercise 4: Conjunction Choice",
+      "content": "Choose the correct conjunction:\n\n1. Ich esse, ___ ich Hunger habe. (weil/denn)\n2. Es regnet, ___ wir bleiben zu Hause. (aber/sondern)\n3. Möchtest du Tee ___ Kaffee? (und/oder)\n4. Sie arbeitet viel ___ verdient gut. (aber/sondern)\n5. Ich weiß, ___ du kommst. (dass/als)"
+    },
+    {
+      "order": 46,
+      "level": 3,
+      "title": "Exercise 5: Complex Sentences",
+      "content": "Combine the sentences using appropriate conjunctions:\n\n1. Ich gehe einkaufen. Ich brauche Milch. (weil)\n2. Sie lernt Deutsch. Sie zieht nach Deutschland. (damit)\n3. Wir warten. Der Film beginnt. (bis)\n4. Er arbeitet. Seine Frau kocht. (während)\n5. Sie ruft an. Sie kommt. (bevor)\n\n---"
+    },
+    {
+      "order": 47,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Word order after subordinating conjunctions**\n   - ❌ Weil ich müde bin arbeite ich.\n   - ✅ Weil ich müde bin, arbeite ich.\n\n2. **Comma omission**\n   - ❌ Ich weiß dass du kommst.\n   - ✅ Ich weiß, dass du kommst.\n\n3. **Verb position in subordinate clauses**\n   - ❌ Ich weiß, dass du kommst morgen.\n   - ✅ Ich weiß, dass du morgen kommst.\n\n4. **sondern vs. aber**\n   - ❌ Ich trinke Kaffee, aber Tee. (after negative)\n   - ✅ Ich trinke Kaffee, sondern Tee.\n\n5. **als vs. wenn**\n   - ❌ Wenn ich 10 Jahre alt war, spielte ich. (single past event)\n   - ✅ Als ich 10 Jahre alt war, spielte ich.\n\n6. **weil vs. denn**\n   - ❌ Ich bleibe zu Hause, denn es regnet. (subordinate clause)\n   - ✅ Ich bleibe zu Hause, weil es regnet.\n\n---"
+    },
+    {
+      "order": 48,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Coordinating conjunctions**: und, oder, aber, sondern, denn - no word order change\n- **Subordinating conjunctions**: weil, dass, als, wenn, obwohl, etc. - verb to end\n- **Word order**: Conjunction + Subject + ... + Verb\n- **Punctuation**: Comma between clauses\n- **als**: single past events\n- **wenn**: repeated actions, future, hypothetical\n- **damit**: purpose (different subjects)\n- **um...zu**: purpose (same subject)\n\n---"
+    },
+    {
+      "order": 49,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **die Konjunktion** / **die Konjunktionen** - conjunction\n- **koordinierend** - coordinating\n- **subordinierend** - subordinating\n- **der Hauptsatz** - main clause\n- **der Nebensatz** - subordinate clause\n- **die Wortstellung** - word order\n- **das Komma** - comma\n- **weil** - because\n- **dass** - that\n- **als** - when (past)\n- **wenn** - when/if\n- **obwohl** - although\n- **während** - while\n- **bevor** - before\n- **nachdem** - after\n- **bis** - until\n- **seit(dem)** - since\n- **damit** - so that\n- **indem** - by ...ing"
+    }
+  ],
+  "tags": [
+    "modal verbs",
+    "infinitive",
+    "conjunctions",
+    "past tense",
+    "future tense",
+    "vocabulary",
+    "reading"
+  ],
+  "contentHash": "4696d9b8723a6a7a0c5b41a8a8727adbde1dafc04c0a56f8d7e0fed9f4e9cdab"
+}

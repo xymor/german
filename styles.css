@@ -65,7 +65,9 @@ select { color: var(--text); background: #111827; border: 1px solid var(--line);
 .lesson-meta { color: var(--muted); margin-bottom: 18px; }
 .sentence-grid { display:grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 16px; }
 .sentence-card { border: 1px solid var(--line); border-radius: 20px; padding: 18px; background: rgba(255,255,255,.055); }
+.sentence-card.wide { grid-column: 1 / -1; }
 .sentence-card .top { display:flex; justify-content:space-between; gap: 10px; margin-bottom: 14px; }
+.lesson-markdown { white-space: pre-wrap; max-height: 520px; overflow: auto; color: var(--text); background: rgba(15,23,42,.7); border: 1px solid var(--line); border-radius: 16px; padding: 16px; line-height: 1.55; }
 .status { font-size: 12px; font-weight: 900; padding: 6px 10px; border-radius: 999px; }
 .status.correct { color:#052e16; background:var(--green); }
 .status.minor { color:#422006; background:var(--yellow); }

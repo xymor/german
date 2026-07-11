@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "slug": "11-pronouns",
+  "order": 11,
+  "title": "Chapter 11: Pronouns",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/11-pronouns.md",
+  "sourceMarkdownFile": "11-pronouns.md",
+  "jsonPath": "data/lessons/11-pronouns.json",
+  "markdown": "# Chapter 11: Pronouns\n\n## Personal Pronouns\n\n### Introduction\nPersonal pronouns replace nouns and change according to person, number, gender, and case.\n\n### Nominative Case (Subject Pronouns)\n\n| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | ich (I) | wir (we) |\n| **2nd** | du (you informal) | ihr (you informal) |\n| **3rd masc.** | er (he/it) | sie (they) |\n| **3rd fem.** | sie (she/it) | Sie (you formal) |\n| **3rd neut.** | es (it) |  |\n\n**Examples:**\n- **Ich** bin Student. (I am a student.)\n- **Du** bist nett. (You are nice.)\n- **Er** arbeitet viel. (He works a lot.)\n- **Sie** kocht gut. (She cooks well.)\n- **Es** regnet. (It is raining.)\n- **Wir** gehen ins Kino. (We are going to the cinema.)\n- **Ihr** seid müde. (You are tired.)\n- **Sie** kommen morgen. (They are coming tomorrow.)\n- **Sie** sind Lehrer. (You are a teacher.)\n\n### Accusative Case (Direct Object Pronouns)\n\n| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | mich (me) | uns (us) |\n| **2nd** | dich (you) | euch (you) |\n| **3rd masc.** | ihn (him/it) | sie (them) |\n| **3rd fem.** | sie (her/it) | Sie (you) |\n| **3rd neut.** | es (it) |  |\n\n**Examples:**\n- Sie liebt **mich**. (She loves me.)\n- Ich sehe **dich**. (I see you.)\n- Wir kennen **ihn**. (We know him.)\n- Er hilft **ihr**. (He helps her.)\n- Das Kind isst **es**. (The child eats it.)\n- Der Lehrer fragt **uns**. (The teacher asks us.)\n- Ich gebe **euch** das Buch. (I give you the book.)\n- Sie besuchen **sie**. (They visit them.)\n- Wann sehe ich **Sie** wieder? (When will I see you again?)\n\n### Dative Case (Indirect Object Pronouns)\n\n| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | mir (to me) | uns (to us) |\n| **2nd** | dir (to you) | euch (to you) |\n| **3rd masc.** | ihm (to him) | ihnen (to them) |\n| **3rd fem.** | ihr (to her) | Ihnen (to you) |\n| **3rd neut.** | ihm (to it) |  |\n\n**Examples:**\n- Er gibt **mir** das Buch. (He gives me the book.)\n- Ich helfe **dir**. (I help you.)\n- Sie schreibt **ihm** einen Brief. (She writes him a letter.)\n- Der Vater kauft **ihr** ein Geschenk. (The father buys her a gift.)\n- Ich glaube **ihm** nicht. (I don't believe it.)\n- Der Lehrer erklärt **uns** die Grammatik. (The teacher explains the grammar to us.)\n- Ich schenke **euch** Blumen. (I give you flowers.)\n- Wir danken **ihnen**. (We thank them.)\n- Darf ich **Ihnen** helfen? (May I help you?)\n\n### Genitive Case (Possessive Relationship)\n\nGenitive personal pronouns are rare and formal:\n- meiner (of me/my)\n- deiner (of you/your)\n- seiner (of him/his)\n- ihrer (of her/her)\n- seiner (of it/its)\n- unserer (of us/our)\n- eurer (of you/your)\n- ihrer (of them/their)\n- Ihrer (of you/your)\n\n**Examples:**\n- Erinnere dich **meiner**! (Remember me!)\n- Sie ist **seiner** nicht würdig. (She is not worthy of him.)\n- Das ist nicht **ihrer** Art. (That is not her way.)\n\n### Word Order with Pronouns\n\n#### Pronoun Combinations\n- **Dative before accusative**: mir, dir, ihm, ihr, ihm, uns, euch, ihnen, Ihnen\n- **Accusative after dative**\n\n**Examples:**\n- Er gibt **mir** **es**. (He gives it to me.) [dative + accusative]\n- Sie zeigt **ihm** **sie**. (She shows it to him.) [dative + accusative]\n- Ich erkläre **euch** **das**. (I explain it to you.) [dative + accusative]\n\n#### In Main Clauses\n- Pronouns come after the verb in second position\n- Ich **gebe** **es** **dir**. (I give it to you.)\n\n#### In Subordinate Clauses\n- Pronouns come right after the conjunction\n- Ich weiß, dass **er** **es** **ihr** gibt. (I know that he gives it to her.)\n\n---\n\n## Possessive Pronouns\n\n### Introduction\nPossessive pronouns show ownership and agree with the possessed noun in gender, number, and case.\n\n### Forms\n\n#### Nominative Case\n\n| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | mein (my) | unser (our) |\n| **2nd inf.** | dein (your) | euer (your) |\n| **3rd masc.** | sein (his/its) | ihr (their) |\n| **3rd fem.** | ihr (her/its) | Ihr (your formal) |\n| **3rd neut.** | sein (its) |  |\n\n**Examples:**\n- Das ist **mein** Buch. (That is my book.)\n- Das ist **dein** Auto. (That is your car.)\n- Das ist **sein** Haus. (That is his house.)\n- Das ist **ihr** Kleid. (That is her dress.)\n- Das ist **unser** Garten. (That is our garden.)\n- Das ist **euer** Zimmer. (That is your room.)\n- Das ist **ihr** Büro. (That is their office.)\n- Ist das **Ihr** Pass? (Is that your passport?)\n\n### Declined Forms\n\nPossessive pronouns decline like \"ein\" (mixed declension):\n\n| Case | Masc. Sg. | Fem. Sg. | Neut. Sg. | Plural |\n|------|-----------|----------|-----------|--------|\n| **Nom.** | mein | meine | mein | meine |\n| **Acc.** | meinen | meine | mein | meine |\n| **Dat.** | meinem | meiner | meinem | meinen |\n| **Gen.** | meines | meiner | meines | meiner |\n\n**Examples:**\n- **Mein** Bruder kommt. (My brother is coming.)\n- Ich sehe **meinen** Bruder. (I see my brother.)\n- Ich gebe **meinem** Bruder das Buch. (I give my brother the book.)\n- Das Auto **meines** Bruders ist neu. (My brother's car is new.)\n\n### Euer Special Forms\n\n**euer** has special forms to avoid pronunciation difficulties:\n- euer → eu(e)r in some cases\n- But modern German usually keeps \"euer\"\n\n**Examples:**\n- euer Buch → eu(e)res Buch (genitive)\n- But commonly: euer Buch\n\n### Ihr/Ihr Distinction\n\n- **ihr** (lowercase) = her/their (3rd person plural)\n- **Ihr** (capital) = your (formal singular/plural)\n\n**Examples:**\n- Das ist **ihr** Buch. (That is her book.)\n- Das ist **Ihr** Buch. (That is your book.)\n- Wo ist **ihr** Auto? (Where is their car?)\n- Wo ist **Ihr** Auto? (Where is your car?)\n\n### Possessive with Body Parts\n\nIn German, possessive pronouns are used with body parts:\n- Ich wasche **meine** Hände. (I wash my hands.)\n- Er putzt **seine** Zähne. (He brushes his teeth.)\n- Sie kämmt **ihre** Haare. (She combs her hair.)\n\n---\n\n## Reflexive Pronouns\n\n### Introduction\nReflexive pronouns are used when the subject and object are the same person/thing. They show that the action reflects back to the subject.\n\n### Accusative Reflexive Pronouns\n\n| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | mich (myself) | uns (ourselves) |\n| **2nd** | dich (yourself) | euch (yourselves) |\n| **3rd** | sich (himself/herself/itself) | sich (themselves) |\n\n**Examples:**\n- Ich wasche **mich**. (I wash myself.)\n- Du siehst **dich** im Spiegel. (You see yourself in the mirror.)\n- Er rasiert **sich**. (He shaves himself.)\n- Sie schminkt **sich**. (She puts on makeup.)\n- Das Kind verletzt **sich**. (The child hurts itself.)\n- Wir beeilen **uns**. (We hurry ourselves.)\n- Ihr amüsiert **euch**. (You enjoy yourselves.)\n- Sie waschen **sich**. (They wash themselves.)\n\n### Dative Reflexive Pronouns\n\n| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | mir | uns |\n| **2nd** | dir | euch |\n| **3rd** | sich | sich |\n\n**Examples:**\n- Ich kaufe **mir** ein Auto. (I buy myself a car.)\n- Du nimmst **dir** Zeit. (You take time for yourself.)\n- Er baut **sich** ein Haus. (He builds himself a house.)\n- Sie kauft **sich** ein Kleid. (She buys herself a dress.)\n- Wir gönnen **uns** eine Pause. (We treat ourselves to a break.)\n- Ihr gönnt **euch** Urlaub. (You treat yourselves to vacation.)\n- Sie gönnen **sich** ein Bier. (They treat themselves to a beer.)\n\n### Common Reflexive Verbs\n\n**Always reflexive (accusative):**\n- sich freuen (to be happy)\n- sich interessieren (to be interested)\n- sich beeilen (to hurry)\n- sich ausruhen (to rest)\n- sich erholen (to recover)\n- sich erinnern (to remember)\n- sich vorstellen (to imagine)\n\n**Examples:**\n- Ich **freue mich** auf den Urlaub. (I am looking forward to the vacation.)\n- Sie **interessiert sich** für Musik. (She is interested in music.)\n- Wir **erinnern uns** an die Kindheit. (We remember childhood.)\n\n**Optional reflexive (dative):**\n- sich etwas kaufen (to buy oneself something)\n- sich etwas vorstellen (to imagine something)\n- sich etwas überlegen (to think something over)\n\n**Examples:**\n- Ich kaufe **mir** ein Buch. (I buy myself a book.)\n- Stell **dir** das vor! (Imagine that!)\n\n### Reflexive vs. Non-Reflexive\n\nSome verbs change meaning when used reflexively:\n\n| Non-reflexive | Reflexive | Meaning Change |\n|---------------|-----------|----------------|\n| waschen | sich waschen | to wash vs. to wash oneself |\n| legen | sich legen | to lay vs. to lie down |\n| setzen | sich setzen | to set vs. to sit down |\n| stellen | sich stellen | to put vs. to stand |\n\n---\n\n## Demonstrative Pronouns\n\n### Introduction\nDemonstrative pronouns point to specific people or things. The most common are \"dieser/diese/dieses\" and \"jener/jene/jenes\".\n\n### Dieser/Diese/Dieses (this/these)\n\nDeclines like definite articles:\n\n| Case | Masc. Sg. | Fem. Sg. | Neut. Sg. | Plural |\n|------|-----------|----------|-----------|--------|\n| **Nom.** | dieser | diese | dieses | diese |\n| **Acc.** | diesen | diese | dieses | diese |\n| **Dat.** | diesem | dieser | diesem | diesen |\n| **Gen.** | dieses | dieser | dieses | dieser |\n\n**Examples:**\n- **Dieser** Mann ist mein Bruder. (This man is my brother.)\n- Ich nehme **diese** Tasche. (I take this bag.)\n- **Dieses** Haus gefällt mir. (This house pleases me.)\n- **Diese** Bücher sind interessant. (These books are interesting.)\n\n### Jener/Jene/Jenes (that/those)\n\nSame declension as \"dieser\":\n\n**Examples:**\n- **Jener** Mann dort ist mein Onkel. (That man over there is my uncle.)\n- **Jene** Frau ist schön. (That woman is beautiful.)\n- **Jenes** Auto ist teuer. (That car is expensive.)\n\n### Der/Die/Das as Demonstrative Pronouns\n\n**der/die/das** can also function as demonstrative pronouns:\n\n**Examples:**\n- **Der** dort ist mein Bruder. (That one there is my brother.)\n- **Die** gefällt mir besser. (That one pleases me better.)\n- **Das** ist mein Buch. (That is my book.)\n\n### Solcher/Solche/Solches (such)\n\nDeclines like \"dieser\":\n\n**Examples:**\n- **Solche** Leute mag ich nicht. (I don't like such people.)\n- In **solchen** Situationen bin ich nervös. (In such situations I am nervous.)\n- **Solches** Wetter liebe ich. (I love such weather.)\n\n### Derselbe/Dieselbe/Dasselbe (the same)\n\n**derselbe** + definite article ending:\n\n**Examples:**\n- Er wohnt in **derselben** Straße. (He lives in the same street.)\n- Sie hat **dasselbe** Kleid. (She has the same dress.)\n- Wir haben **dieselben** Probleme. (We have the same problems.)\n\n### Word Order\n\nDemonstrative pronouns come at the beginning of the noun phrase:\n\n- **Dieser** interessante Film... (This interesting film...)\n- **Jenes** alte Haus... (That old house...)\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Personal Pronouns\nReplace the nouns with correct personal pronouns:\n\n1. Ich sehe Anna. → Ich sehe ___.\n2. Peter hilft Maria. → ___ hilft ___.\n3. Der Lehrer fragt die Studenten. → ___ fragt ___.\n4. Wir geben dem Kind das Spielzeug. → Wir geben ___ ___.\n5. Sie schreibt ihrem Bruder einen Brief. → ___ schreibt ___ ___.\n\n### Exercise 2: Possessive Pronouns\nComplete with correct possessive pronouns:\n\n1. Das ist ___ (my) Buch.\n2. Wo ist ___ (your) Auto?\n3. ___ (his) Haus ist groß.\n4. ___ (her) Katze ist süß.\n5. ___ (our) Eltern kommen morgen.\n\n### Exercise 3: Reflexive Pronouns\nComplete with reflexive pronouns:\n\n1. Ich wasche ___ jeden Morgen.\n2. Du siehst ___ im Spiegel.\n3. Er rasiert ___.\n4. Wir beeilen ___.\n5. Sie interessiert ___ für Musik.\n\n### Exercise 4: Demonstrative Pronouns\nReplace with demonstrative pronouns:\n\n1. Das Haus ist schön. → ___ Haus ist schön.\n2. Die Frau ist meine Schwester. → ___ Frau ist meine Schwester.\n3. Das Auto gehört mir. → ___ Auto gehört mir.\n4. Diese Bücher sind gut. → ___ Bücher sind gut.\n\n### Exercise 5: Mixed Pronouns\nComplete the sentences with appropriate pronouns:\n\n1. Ich gebe ___ (you-dat.) ___ (it-acc.) Buch.\n2. Sie kauft ___ (herself-dat.) ein Kleid.\n3. ___ (this) Mann ist ___ (my) Bruder.\n4. Wir erinnern ___ (ourselves-acc.) an ___ (the) Urlaub.\n5. Er zeigt ___ (them-dat.) ___ (his) Fotos.\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Wrong case for pronouns**\n   - ❌ Ich gebe es dir. (accusative before dative)\n   - ✅ Ich gebe es dir. Wait, actually correct - accusative can come before dative\n\n2. **sein/ihr confusion**\n   - ❌ Das ist sein Buch. (referring to a woman)\n   - ✅ Das ist ihr Buch. (her book)\n\n3. **euer spelling**\n   - ❌ euere Bücher (old-fashioned)\n   - ✅ eure Bücher (modern)\n\n4. **Reflexive vs. non-reflexive**\n   - ❌ Ich wasche meine Schwester. (if meaning \"myself\")\n   - ✅ Ich wasche mich.\n\n5. **Demonstrative word order**\n   - ❌ interessante dieser Film\n   - ✅ dieser interessante Film\n\n6. **Genitive personal pronouns**\n   - Rare in modern German; prefer possessive constructions\n\n---\n\n## Summary\n\n- **Personal pronouns**: ich/du/er/sie/es/wir/ihr/sie/Sie - change case and form\n- **Possessive pronouns**: mein/dein/sein/ihr/unser/euer/ihr/Ihr - decline like \"ein\"\n- **Reflexive pronouns**: mich/dich/sich/uns/euch/sich - accusative and dative forms\n- **Demonstrative pronouns**: dieser/jener/solcher/derselbe - decline like definite articles\n- **Word order**: Dative pronouns before accusative pronouns\n- **Case agreement**: Pronouns must agree with their nouns in case\n- **Formal vs. informal**: Sie (capital) for formal address\n\n---\n\n## Vocabulary List\n\n- **das Pronomen** / **die Pronomen** - pronoun\n- **personal** - personal\n- **possessiv** - possessive\n- **reflexiv** - reflexive\n- **demonstrativ** - demonstrative\n- **die Person** / **die Personen** - person\n- **der Fall** / **die Fälle** - case\n- **die Endung** / **die Endungen** - ending\n- **das Geschlecht** - gender\n- **die Zahl** - number\n- **der Nominativ** - nominative\n- **der Akkusativ** - accusative\n- **der Dativ** - dative\n- **der Genitiv** - genitive\n- **sich** - oneself\n- **derselbe** - the same\n- **solcher** - such\n- **jener** - that/those",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Personal Pronouns",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Personal pronouns replace nouns and change according to person, number, gender, and case."
+    },
+    {
+      "order": 3,
+      "level": 3,
+      "title": "Nominative Case (Subject Pronouns)",
+      "content": "| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | ich (I) | wir (we) |\n| **2nd** | du (you informal) | ihr (you informal) |\n| **3rd masc.** | er (he/it) | sie (they) |\n| **3rd fem.** | sie (she/it) | Sie (you formal) |\n| **3rd neut.** | es (it) |  |\n\n**Examples:**\n- **Ich** bin Student. (I am a student.)\n- **Du** bist nett. (You are nice.)\n- **Er** arbeitet viel. (He works a lot.)\n- **Sie** kocht gut. (She cooks well.)\n- **Es** regnet. (It is raining.)\n- **Wir** gehen ins Kino. (We are going to the cinema.)\n- **Ihr** seid müde. (You are tired.)\n- **Sie** kommen morgen. (They are coming tomorrow.)\n- **Sie** sind Lehrer. (You are a teacher.)"
+    },
+    {
+      "order": 4,
+      "level": 3,
+      "title": "Accusative Case (Direct Object Pronouns)",
+      "content": "| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | mich (me) | uns (us) |\n| **2nd** | dich (you) | euch (you) |\n| **3rd masc.** | ihn (him/it) | sie (them) |\n| **3rd fem.** | sie (her/it) | Sie (you) |\n| **3rd neut.** | es (it) |  |\n\n**Examples:**\n- Sie liebt **mich**. (She loves me.)\n- Ich sehe **dich**. (I see you.)\n- Wir kennen **ihn**. (We know him.)\n- Er hilft **ihr**. (He helps her.)\n- Das Kind isst **es**. (The child eats it.)\n- Der Lehrer fragt **uns**. (The teacher asks us.)\n- Ich gebe **euch** das Buch. (I give you the book.)\n- Sie besuchen **sie**. (They visit them.)\n- Wann sehe ich **Sie** wieder? (When will I see you again?)"
+    },
+    {
+      "order": 5,
+      "level": 3,
+      "title": "Dative Case (Indirect Object Pronouns)",
+      "content": "| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | mir (to me) | uns (to us) |\n| **2nd** | dir (to you) | euch (to you) |\n| **3rd masc.** | ihm (to him) | ihnen (to them) |\n| **3rd fem.** | ihr (to her) | Ihnen (to you) |\n| **3rd neut.** | ihm (to it) |  |\n\n**Examples:**\n- Er gibt **mir** das Buch. (He gives me the book.)\n- Ich helfe **dir**. (I help you.)\n- Sie schreibt **ihm** einen Brief. (She writes him a letter.)\n- Der Vater kauft **ihr** ein Geschenk. (The father buys her a gift.)\n- Ich glaube **ihm** nicht. (I don't believe it.)\n- Der Lehrer erklärt **uns** die Grammatik. (The teacher explains the grammar to us.)\n- Ich schenke **euch** Blumen. (I give you flowers.)\n- Wir danken **ihnen**. (We thank them.)\n- Darf ich **Ihnen** helfen? (May I help you?)"
+    },
+    {
+      "order": 6,
+      "level": 3,
+      "title": "Genitive Case (Possessive Relationship)",
+      "content": "Genitive personal pronouns are rare and formal:\n- meiner (of me/my)\n- deiner (of you/your)\n- seiner (of him/his)\n- ihrer (of her/her)\n- seiner (of it/its)\n- unserer (of us/our)\n- eurer (of you/your)\n- ihrer (of them/their)\n- Ihrer (of you/your)\n\n**Examples:**\n- Erinnere dich **meiner**! (Remember me!)\n- Sie ist **seiner** nicht würdig. (She is not worthy of him.)\n- Das ist nicht **ihrer** Art. (That is not her way.)"
+    },
+    {
+      "order": 7,
+      "level": 3,
+      "title": "Word Order with Pronouns",
+      "content": ""
+    },
+    {
+      "order": 8,
+      "level": 4,
+      "title": "Pronoun Combinations",
+      "content": "- **Dative before accusative**: mir, dir, ihm, ihr, ihm, uns, euch, ihnen, Ihnen\n- **Accusative after dative**\n\n**Examples:**\n- Er gibt **mir** **es**. (He gives it to me.) [dative + accusative]\n- Sie zeigt **ihm** **sie**. (She shows it to him.) [dative + accusative]\n- Ich erkläre **euch** **das**. (I explain it to you.) [dative + accusative]"
+    },
+    {
+      "order": 9,
+      "level": 4,
+      "title": "In Main Clauses",
+      "content": "- Pronouns come after the verb in second position\n- Ich **gebe** **es** **dir**. (I give it to you.)"
+    },
+    {
+      "order": 10,
+      "level": 4,
+      "title": "In Subordinate Clauses",
+      "content": "- Pronouns come right after the conjunction\n- Ich weiß, dass **er** **es** **ihr** gibt. (I know that he gives it to her.)\n\n---"
+    },
+    {
+      "order": 11,
+      "level": 2,
+      "title": "Possessive Pronouns",
+      "content": ""
+    },
+    {
+      "order": 12,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Possessive pronouns show ownership and agree with the possessed noun in gender, number, and case."
+    },
+    {
+      "order": 13,
+      "level": 3,
+      "title": "Forms",
+      "content": ""
+    },
+    {
+      "order": 14,
+      "level": 4,
+      "title": "Nominative Case",
+      "content": "| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | mein (my) | unser (our) |\n| **2nd inf.** | dein (your) | euer (your) |\n| **3rd masc.** | sein (his/its) | ihr (their) |\n| **3rd fem.** | ihr (her/its) | Ihr (your formal) |\n| **3rd neut.** | sein (its) |  |\n\n**Examples:**\n- Das ist **mein** Buch. (That is my book.)\n- Das ist **dein** Auto. (That is your car.)\n- Das ist **sein** Haus. (That is his house.)\n- Das ist **ihr** Kleid. (That is her dress.)\n- Das ist **unser** Garten. (That is our garden.)\n- Das ist **euer** Zimmer. (That is your room.)\n- Das ist **ihr** Büro. (That is their office.)\n- Ist das **Ihr** Pass? (Is that your passport?)"
+    },
+    {
+      "order": 15,
+      "level": 3,
+      "title": "Declined Forms",
+      "content": "Possessive pronouns decline like \"ein\" (mixed declension):\n\n| Case | Masc. Sg. | Fem. Sg. | Neut. Sg. | Plural |\n|------|-----------|----------|-----------|--------|\n| **Nom.** | mein | meine | mein | meine |\n| **Acc.** | meinen | meine | mein | meine |\n| **Dat.** | meinem | meiner | meinem | meinen |\n| **Gen.** | meines | meiner | meines | meiner |\n\n**Examples:**\n- **Mein** Bruder kommt. (My brother is coming.)\n- Ich sehe **meinen** Bruder. (I see my brother.)\n- Ich gebe **meinem** Bruder das Buch. (I give my brother the book.)\n- Das Auto **meines** Bruders ist neu. (My brother's car is new.)"
+    },
+    {
+      "order": 16,
+      "level": 3,
+      "title": "Euer Special Forms",
+      "content": "**euer** has special forms to avoid pronunciation difficulties:\n- euer → eu(e)r in some cases\n- But modern German usually keeps \"euer\"\n\n**Examples:**\n- euer Buch → eu(e)res Buch (genitive)\n- But commonly: euer Buch"
+    },
+    {
+      "order": 17,
+      "level": 3,
+      "title": "Ihr/Ihr Distinction",
+      "content": "- **ihr** (lowercase) = her/their (3rd person plural)\n- **Ihr** (capital) = your (formal singular/plural)\n\n**Examples:**\n- Das ist **ihr** Buch. (That is her book.)\n- Das ist **Ihr** Buch. (That is your book.)\n- Wo ist **ihr** Auto? (Where is their car?)\n- Wo ist **Ihr** Auto? (Where is your car?)"
+    },
+    {
+      "order": 18,
+      "level": 3,
+      "title": "Possessive with Body Parts",
+      "content": "In German, possessive pronouns are used with body parts:\n- Ich wasche **meine** Hände. (I wash my hands.)\n- Er putzt **seine** Zähne. (He brushes his teeth.)\n- Sie kämmt **ihre** Haare. (She combs her hair.)\n\n---"
+    },
+    {
+      "order": 19,
+      "level": 2,
+      "title": "Reflexive Pronouns",
+      "content": ""
+    },
+    {
+      "order": 20,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Reflexive pronouns are used when the subject and object are the same person/thing. They show that the action reflects back to the subject."
+    },
+    {
+      "order": 21,
+      "level": 3,
+      "title": "Accusative Reflexive Pronouns",
+      "content": "| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | mich (myself) | uns (ourselves) |\n| **2nd** | dich (yourself) | euch (yourselves) |\n| **3rd** | sich (himself/herself/itself) | sich (themselves) |\n\n**Examples:**\n- Ich wasche **mich**. (I wash myself.)\n- Du siehst **dich** im Spiegel. (You see yourself in the mirror.)\n- Er rasiert **sich**. (He shaves himself.)\n- Sie schminkt **sich**. (She puts on makeup.)\n- Das Kind verletzt **sich**. (The child hurts itself.)\n- Wir beeilen **uns**. (We hurry ourselves.)\n- Ihr amüsiert **euch**. (You enjoy yourselves.)\n- Sie waschen **sich**. (They wash themselves.)"
+    },
+    {
+      "order": 22,
+      "level": 3,
+      "title": "Dative Reflexive Pronouns",
+      "content": "| Person | Singular | Plural |\n|--------|----------|--------|\n| **1st** | mir | uns |\n| **2nd** | dir | euch |\n| **3rd** | sich | sich |\n\n**Examples:**\n- Ich kaufe **mir** ein Auto. (I buy myself a car.)\n- Du nimmst **dir** Zeit. (You take time for yourself.)\n- Er baut **sich** ein Haus. (He builds himself a house.)\n- Sie kauft **sich** ein Kleid. (She buys herself a dress.)\n- Wir gönnen **uns** eine Pause. (We treat ourselves to a break.)\n- Ihr gönnt **euch** Urlaub. (You treat yourselves to vacation.)\n- Sie gönnen **sich** ein Bier. (They treat themselves to a beer.)"
+    },
+    {
+      "order": 23,
+      "level": 3,
+      "title": "Common Reflexive Verbs",
+      "content": "**Always reflexive (accusative):**\n- sich freuen (to be happy)\n- sich interessieren (to be interested)\n- sich beeilen (to hurry)\n- sich ausruhen (to rest)\n- sich erholen (to recover)\n- sich erinnern (to remember)\n- sich vorstellen (to imagine)\n\n**Examples:**\n- Ich **freue mich** auf den Urlaub. (I am looking forward to the vacation.)\n- Sie **interessiert sich** für Musik. (She is interested in music.)\n- Wir **erinnern uns** an die Kindheit. (We remember childhood.)\n\n**Optional reflexive (dative):**\n- sich etwas kaufen (to buy oneself something)\n- sich etwas vorstellen (to imagine something)\n- sich etwas überlegen (to think something over)\n\n**Examples:**\n- Ich kaufe **mir** ein Buch. (I buy myself a book.)\n- Stell **dir** das vor! (Imagine that!)"
+    },
+    {
+      "order": 24,
+      "level": 3,
+      "title": "Reflexive vs. Non-Reflexive",
+      "content": "Some verbs change meaning when used reflexively:\n\n| Non-reflexive | Reflexive | Meaning Change |\n|---------------|-----------|----------------|\n| waschen | sich waschen | to wash vs. to wash oneself |\n| legen | sich legen | to lay vs. to lie down |\n| setzen | sich setzen | to set vs. to sit down |\n| stellen | sich stellen | to put vs. to stand |\n\n---"
+    },
+    {
+      "order": 25,
+      "level": 2,
+      "title": "Demonstrative Pronouns",
+      "content": ""
+    },
+    {
+      "order": 26,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Demonstrative pronouns point to specific people or things. The most common are \"dieser/diese/dieses\" and \"jener/jene/jenes\"."
+    },
+    {
+      "order": 27,
+      "level": 3,
+      "title": "Dieser/Diese/Dieses (this/these)",
+      "content": "Declines like definite articles:\n\n| Case | Masc. Sg. | Fem. Sg. | Neut. Sg. | Plural |\n|------|-----------|----------|-----------|--------|\n| **Nom.** | dieser | diese | dieses | diese |\n| **Acc.** | diesen | diese | dieses | diese |\n| **Dat.** | diesem | dieser | diesem | diesen |\n| **Gen.** | dieses | dieser | dieses | dieser |\n\n**Examples:**\n- **Dieser** Mann ist mein Bruder. (This man is my brother.)\n- Ich nehme **diese** Tasche. (I take this bag.)\n- **Dieses** Haus gefällt mir. (This house pleases me.)\n- **Diese** Bücher sind interessant. (These books are interesting.)"
+    },
+    {
+      "order": 28,
+      "level": 3,
+      "title": "Jener/Jene/Jenes (that/those)",
+      "content": "Same declension as \"dieser\":\n\n**Examples:**\n- **Jener** Mann dort ist mein Onkel. (That man over there is my uncle.)\n- **Jene** Frau ist schön. (That woman is beautiful.)\n- **Jenes** Auto ist teuer. (That car is expensive.)"
+    },
+    {
+      "order": 29,
+      "level": 3,
+      "title": "Der/Die/Das as Demonstrative Pronouns",
+      "content": "**der/die/das** can also function as demonstrative pronouns:\n\n**Examples:**\n- **Der** dort ist mein Bruder. (That one there is my brother.)\n- **Die** gefällt mir besser. (That one pleases me better.)\n- **Das** ist mein Buch. (That is my book.)"
+    },
+    {
+      "order": 30,
+      "level": 3,
+      "title": "Solcher/Solche/Solches (such)",
+      "content": "Declines like \"dieser\":\n\n**Examples:**\n- **Solche** Leute mag ich nicht. (I don't like such people.)\n- In **solchen** Situationen bin ich nervös. (In such situations I am nervous.)\n- **Solches** Wetter liebe ich. (I love such weather.)"
+    },
+    {
+      "order": 31,
+      "level": 3,
+      "title": "Derselbe/Dieselbe/Dasselbe (the same)",
+      "content": "**derselbe** + definite article ending:\n\n**Examples:**\n- Er wohnt in **derselben** Straße. (He lives in the same street.)\n- Sie hat **dasselbe** Kleid. (She has the same dress.)\n- Wir haben **dieselben** Probleme. (We have the same problems.)"
+    },
+    {
+      "order": 32,
+      "level": 3,
+      "title": "Word Order",
+      "content": "Demonstrative pronouns come at the beginning of the noun phrase:\n\n- **Dieser** interessante Film... (This interesting film...)\n- **Jenes** alte Haus... (That old house...)\n\n---"
+    },
+    {
+      "order": 33,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 34,
+      "level": 3,
+      "title": "Exercise 1: Personal Pronouns",
+      "content": "Replace the nouns with correct personal pronouns:\n\n1. Ich sehe Anna. → Ich sehe ___.\n2. Peter hilft Maria. → ___ hilft ___.\n3. Der Lehrer fragt die Studenten. → ___ fragt ___.\n4. Wir geben dem Kind das Spielzeug. → Wir geben ___ ___.\n5. Sie schreibt ihrem Bruder einen Brief. → ___ schreibt ___ ___."
+    },
+    {
+      "order": 35,
+      "level": 3,
+      "title": "Exercise 2: Possessive Pronouns",
+      "content": "Complete with correct possessive pronouns:\n\n1. Das ist ___ (my) Buch.\n2. Wo ist ___ (your) Auto?\n3. ___ (his) Haus ist groß.\n4. ___ (her) Katze ist süß.\n5. ___ (our) Eltern kommen morgen."
+    },
+    {
+      "order": 36,
+      "level": 3,
+      "title": "Exercise 3: Reflexive Pronouns",
+      "content": "Complete with reflexive pronouns:\n\n1. Ich wasche ___ jeden Morgen.\n2. Du siehst ___ im Spiegel.\n3. Er rasiert ___.\n4. Wir beeilen ___.\n5. Sie interessiert ___ für Musik."
+    },
+    {
+      "order": 37,
+      "level": 3,
+      "title": "Exercise 4: Demonstrative Pronouns",
+      "content": "Replace with demonstrative pronouns:\n\n1. Das Haus ist schön. → ___ Haus ist schön.\n2. Die Frau ist meine Schwester. → ___ Frau ist meine Schwester.\n3. Das Auto gehört mir. → ___ Auto gehört mir.\n4. Diese Bücher sind gut. → ___ Bücher sind gut."
+    },
+    {
+      "order": 38,
+      "level": 3,
+      "title": "Exercise 5: Mixed Pronouns",
+      "content": "Complete the sentences with appropriate pronouns:\n\n1. Ich gebe ___ (you-dat.) ___ (it-acc.) Buch.\n2. Sie kauft ___ (herself-dat.) ein Kleid.\n3. ___ (this) Mann ist ___ (my) Bruder.\n4. Wir erinnern ___ (ourselves-acc.) an ___ (the) Urlaub.\n5. Er zeigt ___ (them-dat.) ___ (his) Fotos.\n\n---"
+    },
+    {
+      "order": 39,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Wrong case for pronouns**\n   - ❌ Ich gebe es dir. (accusative before dative)\n   - ✅ Ich gebe es dir. Wait, actually correct - accusative can come before dative\n\n2. **sein/ihr confusion**\n   - ❌ Das ist sein Buch. (referring to a woman)\n   - ✅ Das ist ihr Buch. (her book)\n\n3. **euer spelling**\n   - ❌ euere Bücher (old-fashioned)\n   - ✅ eure Bücher (modern)\n\n4. **Reflexive vs. non-reflexive**\n   - ❌ Ich wasche meine Schwester. (if meaning \"myself\")\n   - ✅ Ich wasche mich.\n\n5. **Demonstrative word order**\n   - ❌ interessante dieser Film\n   - ✅ dieser interessante Film\n\n6. **Genitive personal pronouns**\n   - Rare in modern German; prefer possessive constructions\n\n---"
+    },
+    {
+      "order": 40,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Personal pronouns**: ich/du/er/sie/es/wir/ihr/sie/Sie - change case and form\n- **Possessive pronouns**: mein/dein/sein/ihr/unser/euer/ihr/Ihr - decline like \"ein\"\n- **Reflexive pronouns**: mich/dich/sich/uns/euch/sich - accusative and dative forms\n- **Demonstrative pronouns**: dieser/jener/solcher/derselbe - decline like definite articles\n- **Word order**: Dative pronouns before accusative pronouns\n- **Case agreement**: Pronouns must agree with their nouns in case\n- **Formal vs. informal**: Sie (capital) for formal address\n\n---"
+    },
+    {
+      "order": 41,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **das Pronomen** / **die Pronomen** - pronoun\n- **personal** - personal\n- **possessiv** - possessive\n- **reflexiv** - reflexive\n- **demonstrativ** - demonstrative\n- **die Person** / **die Personen** - person\n- **der Fall** / **die Fälle** - case\n- **die Endung** / **die Endungen** - ending\n- **das Geschlecht** - gender\n- **die Zahl** - number\n- **der Nominativ** - nominative\n- **der Akkusativ** - accusative\n- **der Dativ** - dative\n- **der Genitiv** - genitive\n- **sich** - oneself\n- **derselbe** - the same\n- **solcher** - such\n- **jener** - that/those"
+    }
+  ],
+  "tags": [
+    "articles",
+    "cases",
+    "dative",
+    "accusative",
+    "genitive",
+    "pronouns",
+    "conjunctions",
+    "vocabulary"
+  ],
+  "contentHash": "60ee47c01c4b94b66d78082c90ce06e2165825a0c30566953ea1f2a3cf66b8d2"
+}

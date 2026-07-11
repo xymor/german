@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "slug": "02-present-tense-modal-verbs",
+  "order": 2,
+  "title": "Chapter 2: Present Tense and Modal Verbs",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/02-present-tense-modal-verbs.md",
+  "sourceMarkdownFile": "02-present-tense-modal-verbs.md",
+  "jsonPath": "data/lessons/02-present-tense-modal-verbs.json",
+  "markdown": "# Chapter 2: Present Tense and Modal Verbs\n\n## Regular and Irregular Verbs\n\n### Regular Verbs (Weak Verbs)\n\nRegular verbs follow predictable patterns in conjugation. They add the same endings to the verb stem.\n\n#### Formation\n- **Stem** + **personal endings**\n- Most verbs ending in -en, -ern, -eln are regular\n\n#### Conjugation Pattern\n\n| Person | Ending | Example: machen (to make/do) |\n|--------|--------|------------------------------|\n| ich | -e | ich **mach**e |\n| du | -st | du **mach**st |\n| er/sie/es | -t | er/sie/es **mach**t |\n| wir | -en | wir **mach**en |\n| ihr | -t | ihr **mach**t |\n| sie/Sie | -en | sie/Sie **mach**en |\n\n#### More Examples\n\n**arbeiten** (to work):\n- ich arbeite, du arbeitest, er arbeitet, wir arbeiten, ihr arbeitet, sie arbeiten\n\n**spielen** (to play):\n- ich spiele, du spielst, er spielt, wir spielen, ihr spielt, sie spielen\n\n**wohnen** (to live):\n- ich wohne, du wohnst, er wohnt, wir wohnen, ihr wohnt, sie wohnen\n\n#### Verbs with Stem Changes\nSome regular verbs have spelling changes in the du and er/sie/es forms:\n\n- **-e- → -i-**: lesen → du liest, er liest\n- **-a- → -ä-**: fahren → du fährst, er fährt\n- **-au- → -äu-**: laufen → du läufst, er läuft\n\n**Examples:**\n- nehmen: ich nehme, du nimmst, er nimmt\n- sehen: ich sehe, du siehst, er sieht\n- schlafen: ich schlafe, du schläfst, er schläft\n\n### Irregular Verbs (Strong Verbs)\n\nIrregular verbs have vowel changes in the stem. They don't follow the regular pattern.\n\n#### Common Irregular Verbs\n\n| Infinitive | ich | du | er/sie/es | wir | ihr | sie/Sie |\n|------------|-----|----|-----------|-----|----|--------|\n| **sein** (to be) | bin | bist | ist | sind | seid | sind |\n| **haben** (to have) | habe | hast | hat | haben | habt | haben |\n| **werden** (to become) | werde | wirst | wird | werden | werdet | werden |\n| **gehen** (to go) | gehe | gehst | geht | gehen | geht | gehen |\n| **kommen** (to come) | komme | kommst | kommt | kommen | kommt | kommen |\n| **essen** (to eat) | esse | isst | isst | essen | esst | essen |\n| **fahren** (to drive) | fahre | fährst | fährt | fahren | fahrt | fahren |\n| **sehen** (to see) | sehe | siehst | sieht | sehen | seht | sehen |\n| **geben** (to give) | gebe | gibst | gibt | geben | gebt | geben |\n| **nehmen** (to take) | nehme | nimmst | nimmt | nehmen | nehmt | nehmen |\n\n#### Important Irregular Patterns\n\n1. **ei → i/ie**: bleiben, schreiben, steigen, streiten\n   - bleiben: ich bleibe, du bleibst, er bleibt\n\n2. **e → i**: sprechen, treffen, helfen, sterben\n   - sprechen: ich spreche, du sprichst, er spricht\n\n3. **a → ä**: fahren, tragen, schlagen, waschen\n   - waschen: ich wasche, du wäschst, er wäscht\n\n4. **au → äu**: laufen, raufen, saufen\n   - laufen: ich laufe, du läufst, er läuft\n\n### Mixed Verbs\n\nMixed verbs combine features of both regular and irregular verbs:\n- They have vowel changes like irregular verbs\n- They add regular endings\n\n**Common mixed verbs:**\n- bringen: ich bringe, du bringst, er bringt\n- denken: ich denke, du denkst, er denkt\n- kennen: ich kenne, du kennst, er kennt\n- nennen: ich nenne, du nennst, er nennt\n- rennen: ich renne, du rennst, er rennt\n- wissen: ich weiß, du weißt, er weiß\n\n---\n\n## Modal Verbs (können, müssen, sollen, dürfen, wollen, mögen)\n\n### Introduction\n\nModal verbs express ability, necessity, permission, obligation, desire, etc. They are always accompanied by another verb in the infinitive form.\n\n**Structure:** Subject + Modal verb + Infinitive + Object\n\n### Können (can/to be able to)\n\n**Meaning:** ability, possibility, permission\n**Conjugation:**\n- ich kann, du kannst, er kann, wir können, ihr könnt, sie können\n\n**Examples:**\n- Ich **kann** Deutsch sprechen. (I can speak German.)\n- **Kannst** du mir helfen? (Can you help me?)\n- Sie **kann** sehr gut kochen. (She can cook very well.)\n- Wir **können** heute Abend ausgehen. (We can go out tonight.)\n\n### Müssen (must/have to)\n\n**Meaning:** necessity, obligation, strong recommendation\n**Conjugation:**\n- ich muss, du musst, er muss, wir müssen, ihr müsst, sie müssen\n\n**Examples:**\n- Ich **muss** jetzt gehen. (I must go now.)\n- Du **musst** deine Hausaufgaben machen. (You have to do your homework.)\n- Wir **müssen** früh aufstehen. (We have to get up early.)\n- Sie **muss** zum Arzt gehen. (She has to go to the doctor.)\n\n### Sollen (should/ought to)\n\n**Meaning:** advice, recommendation, obligation from others\n**Conjugation:**\n- ich soll, du sollst, er soll, wir sollen, ihr sollt, sie sollen\n\n**Examples:**\n- Du **sollst** mehr Sport treiben. (You should exercise more.)\n- Wir **sollen** pünktlich sein. (We should be on time.)\n- Sie **soll** das nicht tun. (She shouldn't do that.)\n- Ich **soll** meine Eltern anrufen. (I should call my parents.)\n\n### Dürfen (may/to be allowed to)\n\n**Meaning:** permission, prohibition\n**Conjugation:**\n- ich darf, du darfst, er darf, wir dürfen, ihr dürft, sie dürfen\n\n**Examples:**\n- **Darfst** du rauchen? (Are you allowed to smoke?)\n- Hier **darf** man nicht parken. (You may not park here.)\n- Wir **dürfen** nach Hause gehen. (We may go home.)\n- Sie **darf** das nicht essen. (She is not allowed to eat that.)\n\n### Wollen (want to)\n\n**Meaning:** desire, intention, wish\n**Conjugation:**\n- ich will, du willst, er will, wir wollen, ihr wollt, sie wollen\n\n**Examples:**\n- Ich **will** Deutsch lernen. (I want to learn German.)\n- **Willst** du mitkommen? (Do you want to come along?)\n- Sie **will** Lehrerin werden. (She wants to become a teacher.)\n- Wir **wollen** Urlaub machen. (We want to take vacation.)\n\n### Mögen (to like)\n\n**Meaning:** liking, preference (also used as \"may\" in formal contexts)\n**Conjugation:**\n- ich mag, du magst, er mag, wir mögen, ihr mögt, sie mögen\n\n**Examples:**\n- Ich **mag** Schokolade. (I like chocolate.)\n- **Magst** du Kaffee? (Do you like coffee?)\n- Sie **mag** klassische Musik. (She likes classical music.)\n- Wir **mögen** Pizza. (We like pizza.)\n\n**Note:** \"Möchten\" (would like) is the subjunctive form of mögen, used for polite requests:\n- Ich **möchte** einen Kaffee. (I would like a coffee.)\n\n### Modal Verb Rules\n\n#### 1. Word Order\n- **Main clause**: Modal verb in second position, infinitive at end\n- **Questions**: Modal verb in first position\n- **Subordinate clause**: Modal verb at end, infinitive before it\n\n**Examples:**\n- Ich kann Deutsch sprechen. (I can speak German.)\n- Kannst du Deutsch sprechen? (Can you speak German?)\n- Ich weiß, dass du Deutsch sprechen kannst. (I know that you can speak German.)\n\n#### 2. Negation\n- Use \"nicht\" before the infinitive\n- Exception: \"nicht\" before modal verb when negating the modal itself\n\n**Examples:**\n- Ich kann **nicht** schwimmen. (I cannot swim.)\n- Ich will **nicht** kommen. (I don't want to come.)\n- Du **musst nicht** kommen. (You don't have to come.)\n\n#### 3. Perfect Tense with Modals\n- Use double infinitive construction\n- Auxiliary \"haben\" + modal verb infinitive + main verb infinitive\n\n**Examples:**\n- Ich habe kommen **müssen**. (I had to come.)\n- Sie hat arbeiten **können**. (She was able to work.)\n- Wir haben früh aufstehen **sollen**. (We should have gotten up early.)\n\n---\n\n## Separable and Inseparable Verbs\n\n### Separable Verbs (Trennbare Verben)\n\nSeparable verbs have a prefix that separates from the main verb in certain tenses. The prefix moves to the end of the clause.\n\n#### Common Separable Prefixes\n- ab-, an-, auf-, aus-, bei-, ein-, her-, hin-, los-, mit-, nach-, vor-, weg-, zu-, zurück-\n\n#### Formation in Present Tense\n- **Statement**: Subject + base verb + ... + prefix\n- **Question**: Prefix + base verb + subject + ...?\n\n**Examples:**\n- Ich stehe **auf**. (I stand up.) [aufstehen]\n- Stehst du **auf**? (Do you stand up?)\n- Er ruft **an**. (He calls.) [anrufen]\n- Ruft sie **an**? (Does she call?)\n\n#### Formation in Perfect Tense\n- The prefix stays with the past participle: ge- + prefix + verb stem + -t/-en\n\n**Examples:**\n- Ich habe **aufgestanden**. (I stood up.)\n- Sie hat **angerufen**. (She called.)\n\n### Inseparable Verbs (Untrennbare Verben)\n\nInseparable verbs have prefixes that stay attached to the verb stem in all forms.\n\n#### Common Inseparable Prefixes\n- be-, ge-, er-, ver-, zer-, ent-, emp-, miss-\n\n#### Formation\n- The prefix never separates\n- No \"ge-\" prefix in perfect tense for inseparable verbs\n\n**Examples:**\n- Ich **verstehe** das nicht. (I don't understand that.)\n- Sie **erklärt** die Grammatik. (She explains the grammar.)\n- Wir haben das **verstanden**. (We understood that.)\n\n### Verbs with Variable Prefixes\n\nSome verbs can be separable or inseparable depending on meaning:\n\n**umfahren**:\n- separable: Ich fahre den Baum **um**. (I drive around the tree.)\n- inseparable: Der Fahrer hat den Baum **umgefahren**. (The driver ran over the tree.)\n\n**überfahren**:\n- separable: Ich fahre über die Brücke. (I drive across the bridge.)\n- inseparable: Der Fahrer hat den Fußgänger überfahren. (The driver ran over the pedestrian.)\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Regular vs Irregular Verbs\nConjugate the following verbs in present tense:\n\n1. arbeiten (ich-form): __________\n2. gehen (du-form): __________\n3. spielen (er-form): __________\n4. haben (wir-form): __________\n5. machen (ihr-form): __________\n6. essen (sie-form): __________\n\n### Exercise 2: Modal Verbs\nComplete with the correct modal verb:\n\n1. Ich ___ Deutsch sprechen. (can)\n2. Du ___ deine Hausaufgaben machen. (must)\n3. Wir ___ pünktlich sein. (should)\n4. ___ du rauchen? (may)\n5. Sie ___ Lehrerin werden. (want)\n6. Ich ___ Schokolade. (like)\n\n### Exercise 3: Separable/Inseparable Verbs\nIdentify whether the verbs are separable (S), inseparable (I), or variable (V):\n\n1. aufstehen ___ 4. verstehen ___\n2. erklären ___ 5. umfahren ___\n3. anrufen ___ 6. besuchen ___\n\n### Exercise 4: Complete Sentences\nFill in the correct verb forms:\n\n1. Ich ___ (sein) Student. Was ___ (sein) du?\n2. Sie ___ (arbeiten) in einem Büro. ___ (arbeiten) du auch dort?\n3. Wir ___ (essen) Pizza. ___ (essen) ihr auch Pizza?\n4. Er ___ (können) gut kochen. ___ (können) du das auch?\n5. Ich ___ (aufstehen) um 7 Uhr. Wann ___ (aufstehen) du?\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Wrong endings for regular verbs**\n   - ❌ ich machst\n   - ✅ ich mache\n\n2. **Forgetting vowel changes**\n   - ❌ du gehst (gehen should be du gehst - no change needed)\n   - ❌ du fahrt (fahren: du fährst)\n\n3. **Modal verb word order**\n   - ❌ Ich kann nicht kommen heute.\n   - ✅ Ich kann heute nicht kommen.\n\n4. **Separable prefix position**\n   - ❌ Ich stehe morgens auf.\n   - ✅ Ich stehe morgens auf.\n\n5. **Inseparable verbs in perfect tense**\n   - ❌ Ich habe das ge-verstanden.\n   - ✅ Ich habe das verstanden.\n\n6. **Double infinitive with modals**\n   - ❌ Ich habe müssen arbeiten.\n   - ✅ Ich habe arbeiten müssen.\n\n---\n\n## Summary\n\n- **Regular verbs**: predictable endings, some stem changes\n- **Irregular verbs**: vowel changes, different patterns\n- **Modal verbs**: können (can), müssen (must), sollen (should), dürfen (may), wollen (want), mögen (like)\n- **Separable verbs**: prefix separates in present/future, stays with past participle\n- **Inseparable verbs**: prefix never separates, no \"ge-\" in perfect\n- **Word order**: modal verbs + infinitive at end of clause\n- **Perfect modals**: auxiliary haben + infinitive modal + infinitive main verb\n\n---\n\n## Vocabulary List\n\n- **das Verb** / **die Verben** - verb\n- **regelmäßig** - regular\n- **unregelmäßig** - irregular\n- **die Konjugation** - conjugation\n- **die Modalverben** - modal verbs\n- **trennbar** - separable\n- **untrennbar** - inseparable\n- **das Präfix** / **die Präfixe** - prefix\n- **die Endung** / **die Endungen** - ending\n- **die Fähigkeit** - ability\n- **die Notwendigkeit** - necessity\n- **die Erlaubnis** - permission\n- **der Wunsch** - wish\n- **die Empfehlung** - recommendation",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Regular and Irregular Verbs",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Regular Verbs (Weak Verbs)",
+      "content": "Regular verbs follow predictable patterns in conjugation. They add the same endings to the verb stem."
+    },
+    {
+      "order": 3,
+      "level": 4,
+      "title": "Formation",
+      "content": "- **Stem** + **personal endings**\n- Most verbs ending in -en, -ern, -eln are regular"
+    },
+    {
+      "order": 4,
+      "level": 4,
+      "title": "Conjugation Pattern",
+      "content": "| Person | Ending | Example: machen (to make/do) |\n|--------|--------|------------------------------|\n| ich | -e | ich **mach**e |\n| du | -st | du **mach**st |\n| er/sie/es | -t | er/sie/es **mach**t |\n| wir | -en | wir **mach**en |\n| ihr | -t | ihr **mach**t |\n| sie/Sie | -en | sie/Sie **mach**en |"
+    },
+    {
+      "order": 5,
+      "level": 4,
+      "title": "More Examples",
+      "content": "**arbeiten** (to work):\n- ich arbeite, du arbeitest, er arbeitet, wir arbeiten, ihr arbeitet, sie arbeiten\n\n**spielen** (to play):\n- ich spiele, du spielst, er spielt, wir spielen, ihr spielt, sie spielen\n\n**wohnen** (to live):\n- ich wohne, du wohnst, er wohnt, wir wohnen, ihr wohnt, sie wohnen"
+    },
+    {
+      "order": 6,
+      "level": 4,
+      "title": "Verbs with Stem Changes",
+      "content": "Some regular verbs have spelling changes in the du and er/sie/es forms:\n\n- **-e- → -i-**: lesen → du liest, er liest\n- **-a- → -ä-**: fahren → du fährst, er fährt\n- **-au- → -äu-**: laufen → du läufst, er läuft\n\n**Examples:**\n- nehmen: ich nehme, du nimmst, er nimmt\n- sehen: ich sehe, du siehst, er sieht\n- schlafen: ich schlafe, du schläfst, er schläft"
+    },
+    {
+      "order": 7,
+      "level": 3,
+      "title": "Irregular Verbs (Strong Verbs)",
+      "content": "Irregular verbs have vowel changes in the stem. They don't follow the regular pattern."
+    },
+    {
+      "order": 8,
+      "level": 4,
+      "title": "Common Irregular Verbs",
+      "content": "| Infinitive | ich | du | er/sie/es | wir | ihr | sie/Sie |\n|------------|-----|----|-----------|-----|----|--------|\n| **sein** (to be) | bin | bist | ist | sind | seid | sind |\n| **haben** (to have) | habe | hast | hat | haben | habt | haben |\n| **werden** (to become) | werde | wirst | wird | werden | werdet | werden |\n| **gehen** (to go) | gehe | gehst | geht | gehen | geht | gehen |\n| **kommen** (to come) | komme | kommst | kommt | kommen | kommt | kommen |\n| **essen** (to eat) | esse | isst | isst | essen | esst | essen |\n| **fahren** (to drive) | fahre | fährst | fährt | fahren | fahrt | fahren |\n| **sehen** (to see) | sehe | siehst | sieht | sehen | seht | sehen |\n| **geben** (to give) | gebe | gibst | gibt | geben | gebt | geben |\n| **nehmen** (to take) | nehme | nimmst | nimmt | nehmen | nehmt | nehmen |"
+    },
+    {
+      "order": 9,
+      "level": 4,
+      "title": "Important Irregular Patterns",
+      "content": "1. **ei → i/ie**: bleiben, schreiben, steigen, streiten\n   - bleiben: ich bleibe, du bleibst, er bleibt\n\n2. **e → i**: sprechen, treffen, helfen, sterben\n   - sprechen: ich spreche, du sprichst, er spricht\n\n3. **a → ä**: fahren, tragen, schlagen, waschen\n   - waschen: ich wasche, du wäschst, er wäscht\n\n4. **au → äu**: laufen, raufen, saufen\n   - laufen: ich laufe, du läufst, er läuft"
+    },
+    {
+      "order": 10,
+      "level": 3,
+      "title": "Mixed Verbs",
+      "content": "Mixed verbs combine features of both regular and irregular verbs:\n- They have vowel changes like irregular verbs\n- They add regular endings\n\n**Common mixed verbs:**\n- bringen: ich bringe, du bringst, er bringt\n- denken: ich denke, du denkst, er denkt\n- kennen: ich kenne, du kennst, er kennt\n- nennen: ich nenne, du nennst, er nennt\n- rennen: ich renne, du rennst, er rennt\n- wissen: ich weiß, du weißt, er weiß\n\n---"
+    },
+    {
+      "order": 11,
+      "level": 2,
+      "title": "Modal Verbs (können, müssen, sollen, dürfen, wollen, mögen)",
+      "content": ""
+    },
+    {
+      "order": 12,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Modal verbs express ability, necessity, permission, obligation, desire, etc. They are always accompanied by another verb in the infinitive form.\n\n**Structure:** Subject + Modal verb + Infinitive + Object"
+    },
+    {
+      "order": 13,
+      "level": 3,
+      "title": "Können (can/to be able to)",
+      "content": "**Meaning:** ability, possibility, permission\n**Conjugation:**\n- ich kann, du kannst, er kann, wir können, ihr könnt, sie können\n\n**Examples:**\n- Ich **kann** Deutsch sprechen. (I can speak German.)\n- **Kannst** du mir helfen? (Can you help me?)\n- Sie **kann** sehr gut kochen. (She can cook very well.)\n- Wir **können** heute Abend ausgehen. (We can go out tonight.)"
+    },
+    {
+      "order": 14,
+      "level": 3,
+      "title": "Müssen (must/have to)",
+      "content": "**Meaning:** necessity, obligation, strong recommendation\n**Conjugation:**\n- ich muss, du musst, er muss, wir müssen, ihr müsst, sie müssen\n\n**Examples:**\n- Ich **muss** jetzt gehen. (I must go now.)\n- Du **musst** deine Hausaufgaben machen. (You have to do your homework.)\n- Wir **müssen** früh aufstehen. (We have to get up early.)\n- Sie **muss** zum Arzt gehen. (She has to go to the doctor.)"
+    },
+    {
+      "order": 15,
+      "level": 3,
+      "title": "Sollen (should/ought to)",
+      "content": "**Meaning:** advice, recommendation, obligation from others\n**Conjugation:**\n- ich soll, du sollst, er soll, wir sollen, ihr sollt, sie sollen\n\n**Examples:**\n- Du **sollst** mehr Sport treiben. (You should exercise more.)\n- Wir **sollen** pünktlich sein. (We should be on time.)\n- Sie **soll** das nicht tun. (She shouldn't do that.)\n- Ich **soll** meine Eltern anrufen. (I should call my parents.)"
+    },
+    {
+      "order": 16,
+      "level": 3,
+      "title": "Dürfen (may/to be allowed to)",
+      "content": "**Meaning:** permission, prohibition\n**Conjugation:**\n- ich darf, du darfst, er darf, wir dürfen, ihr dürft, sie dürfen\n\n**Examples:**\n- **Darfst** du rauchen? (Are you allowed to smoke?)\n- Hier **darf** man nicht parken. (You may not park here.)\n- Wir **dürfen** nach Hause gehen. (We may go home.)\n- Sie **darf** das nicht essen. (She is not allowed to eat that.)"
+    },
+    {
+      "order": 17,
+      "level": 3,
+      "title": "Wollen (want to)",
+      "content": "**Meaning:** desire, intention, wish\n**Conjugation:**\n- ich will, du willst, er will, wir wollen, ihr wollt, sie wollen\n\n**Examples:**\n- Ich **will** Deutsch lernen. (I want to learn German.)\n- **Willst** du mitkommen? (Do you want to come along?)\n- Sie **will** Lehrerin werden. (She wants to become a teacher.)\n- Wir **wollen** Urlaub machen. (We want to take vacation.)"
+    },
+    {
+      "order": 18,
+      "level": 3,
+      "title": "Mögen (to like)",
+      "content": "**Meaning:** liking, preference (also used as \"may\" in formal contexts)\n**Conjugation:**\n- ich mag, du magst, er mag, wir mögen, ihr mögt, sie mögen\n\n**Examples:**\n- Ich **mag** Schokolade. (I like chocolate.)\n- **Magst** du Kaffee? (Do you like coffee?)\n- Sie **mag** klassische Musik. (She likes classical music.)\n- Wir **mögen** Pizza. (We like pizza.)\n\n**Note:** \"Möchten\" (would like) is the subjunctive form of mögen, used for polite requests:\n- Ich **möchte** einen Kaffee. (I would like a coffee.)"
+    },
+    {
+      "order": 19,
+      "level": 3,
+      "title": "Modal Verb Rules",
+      "content": ""
+    },
+    {
+      "order": 20,
+      "level": 4,
+      "title": "1. Word Order",
+      "content": "- **Main clause**: Modal verb in second position, infinitive at end\n- **Questions**: Modal verb in first position\n- **Subordinate clause**: Modal verb at end, infinitive before it\n\n**Examples:**\n- Ich kann Deutsch sprechen. (I can speak German.)\n- Kannst du Deutsch sprechen? (Can you speak German?)\n- Ich weiß, dass du Deutsch sprechen kannst. (I know that you can speak German.)"
+    },
+    {
+      "order": 21,
+      "level": 4,
+      "title": "2. Negation",
+      "content": "- Use \"nicht\" before the infinitive\n- Exception: \"nicht\" before modal verb when negating the modal itself\n\n**Examples:**\n- Ich kann **nicht** schwimmen. (I cannot swim.)\n- Ich will **nicht** kommen. (I don't want to come.)\n- Du **musst nicht** kommen. (You don't have to come.)"
+    },
+    {
+      "order": 22,
+      "level": 4,
+      "title": "3. Perfect Tense with Modals",
+      "content": "- Use double infinitive construction\n- Auxiliary \"haben\" + modal verb infinitive + main verb infinitive\n\n**Examples:**\n- Ich habe kommen **müssen**. (I had to come.)\n- Sie hat arbeiten **können**. (She was able to work.)\n- Wir haben früh aufstehen **sollen**. (We should have gotten up early.)\n\n---"
+    },
+    {
+      "order": 23,
+      "level": 2,
+      "title": "Separable and Inseparable Verbs",
+      "content": ""
+    },
+    {
+      "order": 24,
+      "level": 3,
+      "title": "Separable Verbs (Trennbare Verben)",
+      "content": "Separable verbs have a prefix that separates from the main verb in certain tenses. The prefix moves to the end of the clause."
+    },
+    {
+      "order": 25,
+      "level": 4,
+      "title": "Common Separable Prefixes",
+      "content": "- ab-, an-, auf-, aus-, bei-, ein-, her-, hin-, los-, mit-, nach-, vor-, weg-, zu-, zurück-"
+    },
+    {
+      "order": 26,
+      "level": 4,
+      "title": "Formation in Present Tense",
+      "content": "- **Statement**: Subject + base verb + ... + prefix\n- **Question**: Prefix + base verb + subject + ...?\n\n**Examples:**\n- Ich stehe **auf**. (I stand up.) [aufstehen]\n- Stehst du **auf**? (Do you stand up?)\n- Er ruft **an**. (He calls.) [anrufen]\n- Ruft sie **an**? (Does she call?)"
+    },
+    {
+      "order": 27,
+      "level": 4,
+      "title": "Formation in Perfect Tense",
+      "content": "- The prefix stays with the past participle: ge- + prefix + verb stem + -t/-en\n\n**Examples:**\n- Ich habe **aufgestanden**. (I stood up.)\n- Sie hat **angerufen**. (She called.)"
+    },
+    {
+      "order": 28,
+      "level": 3,
+      "title": "Inseparable Verbs (Untrennbare Verben)",
+      "content": "Inseparable verbs have prefixes that stay attached to the verb stem in all forms."
+    },
+    {
+      "order": 29,
+      "level": 4,
+      "title": "Common Inseparable Prefixes",
+      "content": "- be-, ge-, er-, ver-, zer-, ent-, emp-, miss-"
+    },
+    {
+      "order": 30,
+      "level": 4,
+      "title": "Formation",
+      "content": "- The prefix never separates\n- No \"ge-\" prefix in perfect tense for inseparable verbs\n\n**Examples:**\n- Ich **verstehe** das nicht. (I don't understand that.)\n- Sie **erklärt** die Grammatik. (She explains the grammar.)\n- Wir haben das **verstanden**. (We understood that.)"
+    },
+    {
+      "order": 31,
+      "level": 3,
+      "title": "Verbs with Variable Prefixes",
+      "content": "Some verbs can be separable or inseparable depending on meaning:\n\n**umfahren**:\n- separable: Ich fahre den Baum **um**. (I drive around the tree.)\n- inseparable: Der Fahrer hat den Baum **umgefahren**. (The driver ran over the tree.)\n\n**überfahren**:\n- separable: Ich fahre über die Brücke. (I drive across the bridge.)\n- inseparable: Der Fahrer hat den Fußgänger überfahren. (The driver ran over the pedestrian.)\n\n---"
+    },
+    {
+      "order": 32,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 33,
+      "level": 3,
+      "title": "Exercise 1: Regular vs Irregular Verbs",
+      "content": "Conjugate the following verbs in present tense:\n\n1. arbeiten (ich-form): __________\n2. gehen (du-form): __________\n3. spielen (er-form): __________\n4. haben (wir-form): __________\n5. machen (ihr-form): __________\n6. essen (sie-form): __________"
+    },
+    {
+      "order": 34,
+      "level": 3,
+      "title": "Exercise 2: Modal Verbs",
+      "content": "Complete with the correct modal verb:\n\n1. Ich ___ Deutsch sprechen. (can)\n2. Du ___ deine Hausaufgaben machen. (must)\n3. Wir ___ pünktlich sein. (should)\n4. ___ du rauchen? (may)\n5. Sie ___ Lehrerin werden. (want)\n6. Ich ___ Schokolade. (like)"
+    },
+    {
+      "order": 35,
+      "level": 3,
+      "title": "Exercise 3: Separable/Inseparable Verbs",
+      "content": "Identify whether the verbs are separable (S), inseparable (I), or variable (V):\n\n1. aufstehen ___ 4. verstehen ___\n2. erklären ___ 5. umfahren ___\n3. anrufen ___ 6. besuchen ___"
+    },
+    {
+      "order": 36,
+      "level": 3,
+      "title": "Exercise 4: Complete Sentences",
+      "content": "Fill in the correct verb forms:\n\n1. Ich ___ (sein) Student. Was ___ (sein) du?\n2. Sie ___ (arbeiten) in einem Büro. ___ (arbeiten) du auch dort?\n3. Wir ___ (essen) Pizza. ___ (essen) ihr auch Pizza?\n4. Er ___ (können) gut kochen. ___ (können) du das auch?\n5. Ich ___ (aufstehen) um 7 Uhr. Wann ___ (aufstehen) du?\n\n---"
+    },
+    {
+      "order": 37,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Wrong endings for regular verbs**\n   - ❌ ich machst\n   - ✅ ich mache\n\n2. **Forgetting vowel changes**\n   - ❌ du gehst (gehen should be du gehst - no change needed)\n   - ❌ du fahrt (fahren: du fährst)\n\n3. **Modal verb word order**\n   - ❌ Ich kann nicht kommen heute.\n   - ✅ Ich kann heute nicht kommen.\n\n4. **Separable prefix position**\n   - ❌ Ich stehe morgens auf.\n   - ✅ Ich stehe morgens auf.\n\n5. **Inseparable verbs in perfect tense**\n   - ❌ Ich habe das ge-verstanden.\n   - ✅ Ich habe das verstanden.\n\n6. **Double infinitive with modals**\n   - ❌ Ich habe müssen arbeiten.\n   - ✅ Ich habe arbeiten müssen.\n\n---"
+    },
+    {
+      "order": 38,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Regular verbs**: predictable endings, some stem changes\n- **Irregular verbs**: vowel changes, different patterns\n- **Modal verbs**: können (can), müssen (must), sollen (should), dürfen (may), wollen (want), mögen (like)\n- **Separable verbs**: prefix separates in present/future, stays with past participle\n- **Inseparable verbs**: prefix never separates, no \"ge-\" in perfect\n- **Word order**: modal verbs + infinitive at end of clause\n- **Perfect modals**: auxiliary haben + infinitive modal + infinitive main verb\n\n---"
+    },
+    {
+      "order": 39,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **das Verb** / **die Verben** - verb\n- **regelmäßig** - regular\n- **unregelmäßig** - irregular\n- **die Konjugation** - conjugation\n- **die Modalverben** - modal verbs\n- **trennbar** - separable\n- **untrennbar** - inseparable\n- **das Präfix** / **die Präfixe** - prefix\n- **die Endung** / **die Endungen** - ending\n- **die Fähigkeit** - ability\n- **die Notwendigkeit** - necessity\n- **die Erlaubnis** - permission\n- **der Wunsch** - wish\n- **die Empfehlung** - recommendation"
+    }
+  ],
+  "tags": [
+    "modal verbs",
+    "infinitive",
+    "subjunctive",
+    "past tense",
+    "future tense",
+    "vocabulary"
+  ],
+  "contentHash": "a746afe50fd0ea06a7b64f64c0ee532226ff68b940f66aedd22edd6601a6ee1c"
+}

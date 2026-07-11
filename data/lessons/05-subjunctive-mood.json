@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "slug": "05-subjunctive-mood",
+  "order": 5,
+  "title": "Chapter 5: Subjunctive Mood (Konjunktiv)",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/05-subjunctive-mood.md",
+  "sourceMarkdownFile": "05-subjunctive-mood.md",
+  "jsonPath": "data/lessons/05-subjunctive-mood.json",
+  "markdown": "# Chapter 5: Subjunctive Mood (Konjunktiv)\n\n## Konjunktiv II for Wishes and Hypothetical Situations\n\n### Introduction\nKonjunktiv II (subjunctive II) is used to express wishes, hypothetical situations, unreal conditions, and polite requests. It describes situations that are contrary to reality or uncertain.\n\n### Formation\n\n#### Regular Verbs\n- Take the Präteritum stem\n- Add subjunctive endings: -e, -est, -e, -en, -et, -en\n- Umlaut (ä, ö, ü) for verbs with a, o, u in stem\n\n**Example: machen (Präteritum stem: machte)**\n- ich machte → ich **machte**\n- du machtest → du **machtest**\n- er/sie/es machte → er/sie/es **machte**\n- wir machten → wir **machten**\n- ihr machtet → ihr **machtet**\n- sie/Sie machten → sie/Sie **machten**\n\n**With umlaut: fahren (Präteritum stem: fuhr)**\n- ich **führ**e\n- du **führest**\n- er/sie/es **führe**\n- wir **führen**\n- ihr **führt**\n- sie/Sie **führen**\n\n#### Irregular Verbs\n- Use special subjunctive forms\n- No umlaut needed (already irregular)\n\n**Common irregular verbs:**\n\n| Infinitive | ich | du | er/sie/es | wir | ihr | sie/Sie |\n|------------|-----|----|-----------|-----|----|--------|\n| **sein** | wäre | wärst | wäre | wären | wärt | wären |\n| **haben** | hätte | hättest | hätte | hätten | hättet | hätten |\n| **werden** | würde | würdest | würde | würden | würdet | würden |\n| **gehen** | ginge | gingest | ginge | gingen | ginget | gingen |\n| **kommen** | käme | kämest | käme | kämen | kämet | kämen |\n| **sehen** | sähe | sähest | sähe | sähen | sähet | sähen |\n| **geben** | gäbe | gäbest | gäbe | gäben | gäbet | gäben |\n\n#### Modal Verbs in Konjunktiv II\n\n| Infinitive | ich | du | er/sie/es | wir | ihr | sie/Sie |\n|------------|-----|----|-----------|-----|----|--------|\n| **können** | könnte | könntest | könnte | könnten | könntet | könnten |\n| **müssen** | müsste | müsstest | müsste | müssten | müsstet | müssten |\n| **sollen** | sollte | solltest | sollte | sollten | solltet | sollten |\n| **dürfen** | dürfte | dürftest | dürfte | dürften | dürftet | dürften |\n| **wollen** | wollte | wolltest | wollte | wollten | wolltet | wollten |\n| **mögen** | möchte | möchtest | möchte | möchten | möchtet | möchten |\n\n### Uses of Konjunktiv II\n\n#### 1. Wishes and Desires\nExpresses wishes that are unlikely or impossible to fulfill.\n\n**Examples:**\n- Ich **wünschte**, ich **hätte** mehr Zeit. (I wish I had more time.)\n- Wenn ich doch reich **wäre**! (If only I were rich!)\n- Sie **wollte**, sie **könnte** fliegen. (She wished she could fly.)\n\n#### 2. Hypothetical Situations (Irrealis)\nDescribes unreal or hypothetical situations.\n\n**Examples:**\n- **Wäre** ich Präsident, **änderte** ich die Gesetze. (If I were president, I would change the laws.)\n- Wenn du mehr **trainiertest**, **wärst** du besser. (If you trained more, you would be better.)\n- **Hätte** ich Geld, **reiste** ich um die Welt. (If I had money, I would travel around the world.)\n\n#### 3. Polite Requests\nUsed for very polite requests (less common in modern German).\n\n**Examples:**\n- **Könnten** Sie mir helfen? (Could you help me?)\n- **Hätten** Sie einen Moment Zeit? (Would you have a moment?)\n\n#### 4. Reported Speech (Indirect Speech)\nSometimes used instead of Konjunktiv I for indirect speech.\n\n**Examples:**\n- Er sagte, er **käme** morgen. (He said he would come tomorrow.)\n- Sie behauptete, sie **hätte** es gesehen. (She claimed she had seen it.)\n\n### Conditional Sentences with Konjunktiv II\n\n#### Type 2 Conditional (Unreal Present/Future)\nIf-clause in Konjunktiv II, main clause with würde + infinitive.\n\n**Structure:**\n- Wenn + subject + verb in Konjunktiv II, subject + würde + infinitive\n\n**Examples:**\n- Wenn ich Zeit **hätte**, **würde** ich lesen. (If I had time, I would read.)\n- Wenn du **kämest**, **würde** ich mich freuen. (If you came, I would be happy.)\n- Wenn wir Geld **hätten**, **würden** wir verreisen. (If we had money, we would travel.)\n\n#### Type 3 Conditional (Unreal Past)\nBoth clauses in Konjunktiv II.\n\n**Structure:**\n- Wenn + subject + past subjunctive, subject + past subjunctive\n\n**Examples:**\n- Wenn ich Zeit **gehabt hätte**, **hätte** ich gelesen. (If I had had time, I would have read.)\n- Wenn du **gekommen wärst**, **hätte** ich mich gefreut. (If you had come, I would have been happy.)\n\n---\n\n## würde + Infinitive Construction\n\n### Introduction\nThe \"würde + infinitive\" construction is a simplified form of Konjunktiv II. It's more common in spoken German and is easier to form than the full Konjunktiv II.\n\n### Formation\n- **würde** (Konjunktiv II of \"werden\") + infinitive of main verb\n- \"würde\" is conjugated for person, infinitive stays the same\n\n**Conjugation of \"würde\":**\n- ich würde\n- du würdest\n- er/sie/es würde\n- wir würden\n- ihr würdet\n- sie/Sie würden\n\n**Examples:**\n- ich würde **gehen** (I would go)\n- du würdest **kommen** (you would come)\n- er würde **arbeiten** (he would work)\n- wir würden **reisen** (we would travel)\n\n### Uses of würde + Infinitive\n\n#### 1. Polite Requests\n- **Würden** Sie mir helfen? (Would you help me?)\n- **Würdest** du das Fenster öffnen? (Would you open the window?)\n- **Würdet** ihr mitkommen? (Would you come along?)\n\n#### 2. Hypothetical Situations\n- Ich **würde** nach Deutschland ziehen, wenn ich die Sprache beherrschte. (I would move to Germany if I mastered the language.)\n- Was **würdest** du tun, wenn du Millionär wärst? (What would you do if you were a millionaire?)\n\n#### 3. Wishes and Preferences\n- Ich **würde** lieber Tee trinken. (I would prefer to drink tea.)\n- Sie **würde** das nicht machen. (She wouldn't do that.)\n- Wir **würden** gerne verreisen. (We would like to travel.)\n\n#### 4. Conditional Sentences\n- Wenn ich Zeit hätte, **würde** ich lesen. (If I had time, I would read.)\n- Wenn du kämest, **würde** ich mich freuen. (If you came, I would be happy.)\n\n### Comparison: Konjunktiv II vs würde + Infinitive\n\n| Konjunktiv II | würde + Infinitive | Meaning |\n|---------------|-------------------|---------|\n| Ich **ginge** | Ich **würde gehen** | I would go |\n| Du **kämest** | Du **würdest kommen** | You would come |\n| Er **hätte** | Er **würde haben** | He would have |\n| Sie **sähe** | Sie **würde sehen** | She would see |\n\n**Note:** würde + infinitive is preferred in modern spoken German because it's easier to form.\n\n### Negation\n- Place \"nicht\" before the infinitive\n- Ich würde das **nicht** tun. (I wouldn't do that.)\n- Würdest du **nicht** kommen? (Wouldn't you come?)\n\n### Word Order\n\n#### Main Clauses\n- Subject + würde + infinitive + other elements\n- Ich würde morgen kommen. (I would come tomorrow.)\n- Würdest du mir helfen? (Would you help me?)\n\n#### Subordinate Clauses\n- Subject + other elements + würde + infinitive\n- Ich weiß, dass du kommen würdest. (I know that you would come.)\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Konjunktiv II Formation\nForm the Konjunktiv II for the following verbs:\n\n1. sein (ich) → __________\n2. haben (du) → __________\n3. gehen (er) → __________\n4. kommen (wir) → __________\n5. machen (sie) → __________\n\n### Exercise 2: Wishes with Konjunktiv II\nExpress wishes using Konjunktiv II:\n\n1. I wish I had a car. ____________________________________\n2. She wishes she could fly. ____________________________________\n3. We wish we were rich. ____________________________________\n4. He wishes he had more time. ____________________________________\n5. They wish they could speak German perfectly. ____________________________________\n\n### Exercise 3: würde + Infinitive\nRewrite using würde + infinitive:\n\n1. Wenn ich Zeit hätte, ginge ich ins Kino. ____________________________________\n2. Was tätest du, wenn du Präsident wärst? ____________________________________\n3. Ohne Geld könnte ich nicht reisen. ____________________________________\n4. Könntest du mir helfen? ____________________________________\n5. Ich nähme den Zug, wenn ich Zeit hätte. ____________________________________\n\n### Exercise 4: Conditional Sentences\nComplete the conditional sentences:\n\n1. Wenn ich Geld hätte, ___ ich ___ (reisen)\n2. Wenn du ___ (kommen), ___ ich ___ (sich freuen)\n3. Wenn wir Zeit hätten, ___ wir ___ (lesen)\n4. Wenn sie ___ (können), ___ sie ___ (helfen)\n5. Wenn ich du wäre, ___ ich ___ (studieren)\n\n### Exercise 5: Choose the Correct Form\nChoose between Konjunktiv II and würde + infinitive:\n\n1. Ich ___ (sein) glücklich, wenn ich reich ___ (sein). (wäre/würde sein)\n2. Wenn du Zeit ___ (haben), ___ du mir ___ (helfen)? (hättest/würdest haben, würdest/würden, helfen/helfen)\n3. Sie ___ (wollen), dass ich ___ (kommen). (wollte/würde wollen, käme/würde kommen)\n4. Was ___ du ___ (tun), wenn du Millionär ___ (sein)? (tätest/würdest tun, wärest/würdest sein)\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Wrong umlaut**\n   - ❌ Wenn ich reich wäre (fahren needs ä)\n   - ✅ Wenn ich reich wäre (correct - sein doesn't change)\n\n2. **Mixing tenses in conditionals**\n   - ❌ Wenn ich Zeit habe, würde ich lesen.\n   - ✅ Wenn ich Zeit hätte, würde ich lesen.\n\n3. **Using würde with sein/haben in wishes**\n   - ❌ Ich wünschte, ich würde mehr Zeit haben.\n   - ✅ Ich wünschte, ich hätte mehr Zeit.\n\n4. **Wrong word order**\n   - ❌ Ich würde morgen kommen nicht.\n   - ✅ Ich würde morgen nicht kommen.\n\n5. **Overusing Konjunktiv II**\n   - In spoken German, prefer würde + infinitive for hypothetical situations\n\n6. **Forgetting the infinitive with würde**\n   - ❌ Ich würde das.\n   - ✅ Ich würde das machen.\n\n---\n\n## Summary\n\n- **Konjunktiv II**: expresses wishes, hypothetical situations, unreal conditions\n- **Formation**: Präteritum stem + subjunctive endings + umlaut (a→ä, o→ö, u→ü)\n- **Irregular verbs**: special forms (wäre, hätte, könnte, etc.)\n- **würde + infinitive**: simplified form, more common in spoken German\n- **Uses**: wishes, polite requests, hypothetical situations, conditional sentences\n- **Conditional sentences**:\n  - Type 2: Wenn + Konjunktiv II, würde + infinitive\n  - Type 3: Wenn + past subjunctive, past subjunctive\n\n---\n\n## Vocabulary List\n\n- **der Konjunktiv** - subjunctive\n- **der Wunsch** / **die Wünsche** - wish\n- **hypothetisch** - hypothetical\n- **unwirklich** - unreal\n- **die Höflichkeit** - politeness\n- **die Bedingung** - condition\n- **der Konditionalsatz** - conditional sentence\n- **würde** - would\n- **wenn** - if\n- **als ob** - as if\n- **ich wünschte** - I wish\n- **angenommen** - supposing\n- **die Annahme** - assumption\n- **die Vorstellung** - imagination\n- **möglich** - possible\n- **unmöglich** - impossible",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Konjunktiv II for Wishes and Hypothetical Situations",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Konjunktiv II (subjunctive II) is used to express wishes, hypothetical situations, unreal conditions, and polite requests. It describes situations that are contrary to reality or uncertain."
+    },
+    {
+      "order": 3,
+      "level": 3,
+      "title": "Formation",
+      "content": ""
+    },
+    {
+      "order": 4,
+      "level": 4,
+      "title": "Regular Verbs",
+      "content": "- Take the Präteritum stem\n- Add subjunctive endings: -e, -est, -e, -en, -et, -en\n- Umlaut (ä, ö, ü) for verbs with a, o, u in stem\n\n**Example: machen (Präteritum stem: machte)**\n- ich machte → ich **machte**\n- du machtest → du **machtest**\n- er/sie/es machte → er/sie/es **machte**\n- wir machten → wir **machten**\n- ihr machtet → ihr **machtet**\n- sie/Sie machten → sie/Sie **machten**\n\n**With umlaut: fahren (Präteritum stem: fuhr)**\n- ich **führ**e\n- du **führest**\n- er/sie/es **führe**\n- wir **führen**\n- ihr **führt**\n- sie/Sie **führen**"
+    },
+    {
+      "order": 5,
+      "level": 4,
+      "title": "Irregular Verbs",
+      "content": "- Use special subjunctive forms\n- No umlaut needed (already irregular)\n\n**Common irregular verbs:**\n\n| Infinitive | ich | du | er/sie/es | wir | ihr | sie/Sie |\n|------------|-----|----|-----------|-----|----|--------|\n| **sein** | wäre | wärst | wäre | wären | wärt | wären |\n| **haben** | hätte | hättest | hätte | hätten | hättet | hätten |\n| **werden** | würde | würdest | würde | würden | würdet | würden |\n| **gehen** | ginge | gingest | ginge | gingen | ginget | gingen |\n| **kommen** | käme | kämest | käme | kämen | kämet | kämen |\n| **sehen** | sähe | sähest | sähe | sähen | sähet | sähen |\n| **geben** | gäbe | gäbest | gäbe | gäben | gäbet | gäben |"
+    },
+    {
+      "order": 6,
+      "level": 4,
+      "title": "Modal Verbs in Konjunktiv II",
+      "content": "| Infinitive | ich | du | er/sie/es | wir | ihr | sie/Sie |\n|------------|-----|----|-----------|-----|----|--------|\n| **können** | könnte | könntest | könnte | könnten | könntet | könnten |\n| **müssen** | müsste | müsstest | müsste | müssten | müsstet | müssten |\n| **sollen** | sollte | solltest | sollte | sollten | solltet | sollten |\n| **dürfen** | dürfte | dürftest | dürfte | dürften | dürftet | dürften |\n| **wollen** | wollte | wolltest | wollte | wollten | wolltet | wollten |\n| **mögen** | möchte | möchtest | möchte | möchten | möchtet | möchten |"
+    },
+    {
+      "order": 7,
+      "level": 3,
+      "title": "Uses of Konjunktiv II",
+      "content": ""
+    },
+    {
+      "order": 8,
+      "level": 4,
+      "title": "1. Wishes and Desires",
+      "content": "Expresses wishes that are unlikely or impossible to fulfill.\n\n**Examples:**\n- Ich **wünschte**, ich **hätte** mehr Zeit. (I wish I had more time.)\n- Wenn ich doch reich **wäre**! (If only I were rich!)\n- Sie **wollte**, sie **könnte** fliegen. (She wished she could fly.)"
+    },
+    {
+      "order": 9,
+      "level": 4,
+      "title": "2. Hypothetical Situations (Irrealis)",
+      "content": "Describes unreal or hypothetical situations.\n\n**Examples:**\n- **Wäre** ich Präsident, **änderte** ich die Gesetze. (If I were president, I would change the laws.)\n- Wenn du mehr **trainiertest**, **wärst** du besser. (If you trained more, you would be better.)\n- **Hätte** ich Geld, **reiste** ich um die Welt. (If I had money, I would travel around the world.)"
+    },
+    {
+      "order": 10,
+      "level": 4,
+      "title": "3. Polite Requests",
+      "content": "Used for very polite requests (less common in modern German).\n\n**Examples:**\n- **Könnten** Sie mir helfen? (Could you help me?)\n- **Hätten** Sie einen Moment Zeit? (Would you have a moment?)"
+    },
+    {
+      "order": 11,
+      "level": 4,
+      "title": "4. Reported Speech (Indirect Speech)",
+      "content": "Sometimes used instead of Konjunktiv I for indirect speech.\n\n**Examples:**\n- Er sagte, er **käme** morgen. (He said he would come tomorrow.)\n- Sie behauptete, sie **hätte** es gesehen. (She claimed she had seen it.)"
+    },
+    {
+      "order": 12,
+      "level": 3,
+      "title": "Conditional Sentences with Konjunktiv II",
+      "content": ""
+    },
+    {
+      "order": 13,
+      "level": 4,
+      "title": "Type 2 Conditional (Unreal Present/Future)",
+      "content": "If-clause in Konjunktiv II, main clause with würde + infinitive.\n\n**Structure:**\n- Wenn + subject + verb in Konjunktiv II, subject + würde + infinitive\n\n**Examples:**\n- Wenn ich Zeit **hätte**, **würde** ich lesen. (If I had time, I would read.)\n- Wenn du **kämest**, **würde** ich mich freuen. (If you came, I would be happy.)\n- Wenn wir Geld **hätten**, **würden** wir verreisen. (If we had money, we would travel.)"
+    },
+    {
+      "order": 14,
+      "level": 4,
+      "title": "Type 3 Conditional (Unreal Past)",
+      "content": "Both clauses in Konjunktiv II.\n\n**Structure:**\n- Wenn + subject + past subjunctive, subject + past subjunctive\n\n**Examples:**\n- Wenn ich Zeit **gehabt hätte**, **hätte** ich gelesen. (If I had had time, I would have read.)\n- Wenn du **gekommen wärst**, **hätte** ich mich gefreut. (If you had come, I would have been happy.)\n\n---"
+    },
+    {
+      "order": 15,
+      "level": 2,
+      "title": "würde + Infinitive Construction",
+      "content": ""
+    },
+    {
+      "order": 16,
+      "level": 3,
+      "title": "Introduction",
+      "content": "The \"würde + infinitive\" construction is a simplified form of Konjunktiv II. It's more common in spoken German and is easier to form than the full Konjunktiv II."
+    },
+    {
+      "order": 17,
+      "level": 3,
+      "title": "Formation",
+      "content": "- **würde** (Konjunktiv II of \"werden\") + infinitive of main verb\n- \"würde\" is conjugated for person, infinitive stays the same\n\n**Conjugation of \"würde\":**\n- ich würde\n- du würdest\n- er/sie/es würde\n- wir würden\n- ihr würdet\n- sie/Sie würden\n\n**Examples:**\n- ich würde **gehen** (I would go)\n- du würdest **kommen** (you would come)\n- er würde **arbeiten** (he would work)\n- wir würden **reisen** (we would travel)"
+    },
+    {
+      "order": 18,
+      "level": 3,
+      "title": "Uses of würde + Infinitive",
+      "content": ""
+    },
+    {
+      "order": 19,
+      "level": 4,
+      "title": "1. Polite Requests",
+      "content": "- **Würden** Sie mir helfen? (Would you help me?)\n- **Würdest** du das Fenster öffnen? (Would you open the window?)\n- **Würdet** ihr mitkommen? (Would you come along?)"
+    },
+    {
+      "order": 20,
+      "level": 4,
+      "title": "2. Hypothetical Situations",
+      "content": "- Ich **würde** nach Deutschland ziehen, wenn ich die Sprache beherrschte. (I would move to Germany if I mastered the language.)\n- Was **würdest** du tun, wenn du Millionär wärst? (What would you do if you were a millionaire?)"
+    },
+    {
+      "order": 21,
+      "level": 4,
+      "title": "3. Wishes and Preferences",
+      "content": "- Ich **würde** lieber Tee trinken. (I would prefer to drink tea.)\n- Sie **würde** das nicht machen. (She wouldn't do that.)\n- Wir **würden** gerne verreisen. (We would like to travel.)"
+    },
+    {
+      "order": 22,
+      "level": 4,
+      "title": "4. Conditional Sentences",
+      "content": "- Wenn ich Zeit hätte, **würde** ich lesen. (If I had time, I would read.)\n- Wenn du kämest, **würde** ich mich freuen. (If you came, I would be happy.)"
+    },
+    {
+      "order": 23,
+      "level": 3,
+      "title": "Comparison: Konjunktiv II vs würde + Infinitive",
+      "content": "| Konjunktiv II | würde + Infinitive | Meaning |\n|---------------|-------------------|---------|\n| Ich **ginge** | Ich **würde gehen** | I would go |\n| Du **kämest** | Du **würdest kommen** | You would come |\n| Er **hätte** | Er **würde haben** | He would have |\n| Sie **sähe** | Sie **würde sehen** | She would see |\n\n**Note:** würde + infinitive is preferred in modern spoken German because it's easier to form."
+    },
+    {
+      "order": 24,
+      "level": 3,
+      "title": "Negation",
+      "content": "- Place \"nicht\" before the infinitive\n- Ich würde das **nicht** tun. (I wouldn't do that.)\n- Würdest du **nicht** kommen? (Wouldn't you come?)"
+    },
+    {
+      "order": 25,
+      "level": 3,
+      "title": "Word Order",
+      "content": ""
+    },
+    {
+      "order": 26,
+      "level": 4,
+      "title": "Main Clauses",
+      "content": "- Subject + würde + infinitive + other elements\n- Ich würde morgen kommen. (I would come tomorrow.)\n- Würdest du mir helfen? (Would you help me?)"
+    },
+    {
+      "order": 27,
+      "level": 4,
+      "title": "Subordinate Clauses",
+      "content": "- Subject + other elements + würde + infinitive\n- Ich weiß, dass du kommen würdest. (I know that you would come.)\n\n---"
+    },
+    {
+      "order": 28,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 29,
+      "level": 3,
+      "title": "Exercise 1: Konjunktiv II Formation",
+      "content": "Form the Konjunktiv II for the following verbs:\n\n1. sein (ich) → __________\n2. haben (du) → __________\n3. gehen (er) → __________\n4. kommen (wir) → __________\n5. machen (sie) → __________"
+    },
+    {
+      "order": 30,
+      "level": 3,
+      "title": "Exercise 2: Wishes with Konjunktiv II",
+      "content": "Express wishes using Konjunktiv II:\n\n1. I wish I had a car. ____________________________________\n2. She wishes she could fly. ____________________________________\n3. We wish we were rich. ____________________________________\n4. He wishes he had more time. ____________________________________\n5. They wish they could speak German perfectly. ____________________________________"
+    },
+    {
+      "order": 31,
+      "level": 3,
+      "title": "Exercise 3: würde + Infinitive",
+      "content": "Rewrite using würde + infinitive:\n\n1. Wenn ich Zeit hätte, ginge ich ins Kino. ____________________________________\n2. Was tätest du, wenn du Präsident wärst? ____________________________________\n3. Ohne Geld könnte ich nicht reisen. ____________________________________\n4. Könntest du mir helfen? ____________________________________\n5. Ich nähme den Zug, wenn ich Zeit hätte. ____________________________________"
+    },
+    {
+      "order": 32,
+      "level": 3,
+      "title": "Exercise 4: Conditional Sentences",
+      "content": "Complete the conditional sentences:\n\n1. Wenn ich Geld hätte, ___ ich ___ (reisen)\n2. Wenn du ___ (kommen), ___ ich ___ (sich freuen)\n3. Wenn wir Zeit hätten, ___ wir ___ (lesen)\n4. Wenn sie ___ (können), ___ sie ___ (helfen)\n5. Wenn ich du wäre, ___ ich ___ (studieren)"
+    },
+    {
+      "order": 33,
+      "level": 3,
+      "title": "Exercise 5: Choose the Correct Form",
+      "content": "Choose between Konjunktiv II and würde + infinitive:\n\n1. Ich ___ (sein) glücklich, wenn ich reich ___ (sein). (wäre/würde sein)\n2. Wenn du Zeit ___ (haben), ___ du mir ___ (helfen)? (hättest/würdest haben, würdest/würden, helfen/helfen)\n3. Sie ___ (wollen), dass ich ___ (kommen). (wollte/würde wollen, käme/würde kommen)\n4. Was ___ du ___ (tun), wenn du Millionär ___ (sein)? (tätest/würdest tun, wärest/würdest sein)\n\n---"
+    },
+    {
+      "order": 34,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Wrong umlaut**\n   - ❌ Wenn ich reich wäre (fahren needs ä)\n   - ✅ Wenn ich reich wäre (correct - sein doesn't change)\n\n2. **Mixing tenses in conditionals**\n   - ❌ Wenn ich Zeit habe, würde ich lesen.\n   - ✅ Wenn ich Zeit hätte, würde ich lesen.\n\n3. **Using würde with sein/haben in wishes**\n   - ❌ Ich wünschte, ich würde mehr Zeit haben.\n   - ✅ Ich wünschte, ich hätte mehr Zeit.\n\n4. **Wrong word order**\n   - ❌ Ich würde morgen kommen nicht.\n   - ✅ Ich würde morgen nicht kommen.\n\n5. **Overusing Konjunktiv II**\n   - In spoken German, prefer würde + infinitive for hypothetical situations\n\n6. **Forgetting the infinitive with würde**\n   - ❌ Ich würde das.\n   - ✅ Ich würde das machen.\n\n---"
+    },
+    {
+      "order": 35,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Konjunktiv II**: expresses wishes, hypothetical situations, unreal conditions\n- **Formation**: Präteritum stem + subjunctive endings + umlaut (a→ä, o→ö, u→ü)\n- **Irregular verbs**: special forms (wäre, hätte, könnte, etc.)\n- **würde + infinitive**: simplified form, more common in spoken German\n- **Uses**: wishes, polite requests, hypothetical situations, conditional sentences\n- **Conditional sentences**:\n  - Type 2: Wenn + Konjunktiv II, würde + infinitive\n  - Type 3: Wenn + past subjunctive, past subjunctive\n\n---"
+    },
+    {
+      "order": 36,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **der Konjunktiv** - subjunctive\n- **der Wunsch** / **die Wünsche** - wish\n- **hypothetisch** - hypothetical\n- **unwirklich** - unreal\n- **die Höflichkeit** - politeness\n- **die Bedingung** - condition\n- **der Konditionalsatz** - conditional sentence\n- **würde** - would\n- **wenn** - if\n- **als ob** - as if\n- **ich wünschte** - I wish\n- **angenommen** - supposing\n- **die Annahme** - assumption\n- **die Vorstellung** - imagination\n- **möglich** - possible\n- **unmöglich** - impossible"
+    }
+  ],
+  "tags": [
+    "modal verbs",
+    "infinitive",
+    "subjunctive",
+    "past tense",
+    "future tense",
+    "vocabulary"
+  ],
+  "contentHash": "c3ac4bdb0d9ce12570c219807b42fbe28a1adcf24339be2b26c868a65d98da6b"
+}

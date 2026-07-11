@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "slug": "14-word-formation",
+  "order": 14,
+  "title": "Chapter 14: Word Formation",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/14-word-formation.md",
+  "sourceMarkdownFile": "14-word-formation.md",
+  "jsonPath": "data/lessons/14-word-formation.json",
+  "markdown": "# Chapter 14: Word Formation\n\n## Compound Nouns\n\n### Introduction\nGerman frequently forms new words by combining existing words. Compound nouns are very common and can be very long.\n\n### Formation Rules\n\n#### Basic Structure\n- **Noun + Noun** = New compound noun\n- The main noun comes last and determines gender\n- The first noun modifies the second\n\n**Examples:**\n- das **Haus** + die **Tür** = die **Haustür** (front door)\n- der **Schnee** + der **Mann** = der **Schneemann** (snowman)\n- die **Hand** + die **Tasche** = die **Handtasche** (handbag)\n\n#### Gender Determination\n- The last noun determines the gender of the compound\n- **das Haus** (neuter) + **die Tür** (feminine) = **die Haustür** (feminine)\n\n**Examples:**\n- der Apfel (masc.) + der Baum (masc.) = der Apfelbaum (masc.)\n- die Schule (fem.) + das Buch (neut.) = das Schulbuch (neut.)\n- der Zug (masc.) + die Fahrt (fem.) = die Zugfahrt (fem.)\n\n### Common Compound Types\n\n#### Noun + Noun\n- **das Auto** + **die Bahn** = die **Autobahn** (highway)\n- **die Stadt** + **der Plan** = der **Stadtplan** (city map)\n- **der Kaffee** + **die Tasse** = die **Kaffeetasse** (coffee cup)\n\n#### Adjective + Noun\n- **alt** + **die Stadt** = die **Altstadt** (old town)\n- **groß** + **die Stadt** = die **Großstadt** (big city)\n- **neu** + **die Mode** = die **Neu**mode (new fashion)\n\n#### Verb + Noun\n- **essen** + **das Zimmer** = das **Esszimmer** (dining room)\n- **warten** + **der Raum** = der **Warteraum** (waiting room)\n- **schlafen** + **der Wagen** = der **Schlafwagen** (sleeping car)\n\n#### Linking Elements\nSome compounds use linking elements (-s-, -e-, -en-, -er-):\n- **der Name** + **die Liste** = die **Namensliste** (name list)\n- **arbeiten** + **die Zeit** = die **Arbeitszeit** (working time)\n- **leben** + **die Art** = die **Lebensart** (way of life)\n\n### Long Compounds\n\nGerman can create very long compound words:\n- **die Haustürschlüssel** (house door key) = front door key\n- **der Handtascheninhalt** (hand bag content) = handbag contents\n- **die Wohnungstürschlossöffnung** (apartment door lock opening) = opening of the apartment door lock\n\n### Plural Formation\n\nCompound nouns take the plural of the last element:\n- **das Haustür** → **die Haustüren**\n- **der Schneemann** → **die Schneemänner**\n- **die Handtasche** → **die Handtaschen**\n\n**Exceptions:** Some compounds have irregular plurals\n- **das Elternteil** → **die Elternteile** (parent)\n\n### Common Compound Patterns\n\n#### Transportation\n- **der Zug** + **der Fahrplan** = der **Zugfahrplan** (train schedule)\n- **das Flugzeug** + **der Absturz** = der **Flugzeugabsturz** (plane crash)\n- **das Auto** + **die Reparatur** = die **Autoreparatur** (car repair)\n\n#### Food and Drink\n- **der Kaffee** + **die Maschine** = die **Kaffeemaschine** (coffee machine)\n- **das Brot** + **die Scheibe** = die **Brotscheibe** (slice of bread)\n- **der Tee** + **die Tasse** = die **Teetasse** (teacup)\n\n#### Work and Office\n- **die Büro** + **die Arbeit** = die **Büroarbeit** (office work)\n- **der Arbeits** + **der Platz** = der **Arbeitsplatz** (workplace)\n- **der Schreibtisch** + **die Lampe** = die **Schreibtischlampe** (desk lamp)\n\n---\n\n## Prefixes and Suffixes\n\n### Introduction\nPrefixes and suffixes change the meaning of base words. German uses many affixes to create new words.\n\n### Noun Suffixes\n\n#### -chen / -lein (Diminutives)\n- Make nouns smaller/cuter\n- Always neuter gender\n- Umlaut if possible\n\n**Examples:**\n- das Buch → das **Büchlein** (little book)\n- der Hund → das **Hündchen** (little dog)\n- die Frau → das **Fräulein** (young lady)\n\n#### -ung (Action/Result)\n- Forms nouns from verbs\n- Always feminine\n\n**Examples:**\n- bilden → die **Bildung** (education)\n- wiederholen → die **Wiederholung** (repetition)\n- bedeuten → die **Bedeutung** (meaning)\n\n#### -heit / -keit (Abstract Qualities)\n- Form nouns from adjectives\n- Always feminine\n\n**Examples:**\n- frei → die **Freiheit** (freedom)\n- möglich → die **Möglichkeit** (possibility)\n- sicher → die **Sicherheit** (safety)\n\n#### -schaft (State/Condition)\n- Forms nouns from adjectives or nouns\n- Always feminine\n\n**Examples:**\n- wissen → die **Wissenschaft** (science)\n- Freund → die **Freundschaft** (friendship)\n- Krank → die **Krankenschaft** (sickness)\n\n#### -in (Feminine Forms)\n- Makes feminine forms of professions\n- Added to masculine nouns\n\n**Examples:**\n- der Lehrer → die **Lehrerin** (female teacher)\n- der Arzt → die **Ärztin** (female doctor)\n- der Student → die **Studentin** (female student)\n\n### Adjective Suffixes\n\n#### -ig / -lich / -isch\n- Form adjectives from nouns\n- **-ig**: basic quality\n- **-lich**: related to\n- **-isch**: characteristic of\n\n**Examples:**\n- der Sommer → **sommerlich** (summery)\n- die Maschine → **maschinell** (mechanical)\n- der Sport → **sportlich** (sporty)\n\n#### -bar (Possible)\n- Means \"able to be\" or \"worth\"\n\n**Examples:**\n- trinken → **trinkbar** (drinkable)\n- essen → **essbar** (edible)\n- glauben → **glaubbar** (believable)\n\n#### -los (Without)\n- Means \"without\" or \"free of\"\n\n**Examples:**\n- der Schmerz → **schmerzfrei** (pain-free)\n- die Arbeit → **arbeitslos** (unemployed)\n- der Sinn → **sinnlos** (senseless)\n\n### Verb Prefixes\n\n#### Un- (Not)\n- Negates the meaning\n\n**Examples:**\n- möglich → **unmöglich** (impossible)\n- wichtig → **unwichtig** (unimportant)\n- glücklich → **unglücklich** (unhappy)\n\n#### Ur- (Original/Proto-)\n- Means \"original\" or \"proto-\"\n\n**Examples:**\n- der Wald → **urwald** (primeval forest)\n- die Sprache → **ursprache** (original language)\n- der Text → **urtext** (original text)\n\n### Noun Prefixes\n\n#### Ge- (Collective/Action)\n- Often indicates collective or completed action\n\n**Examples:**\n- der Berg → **Gebirge** (mountains)\n- das Gewicht → **Gewicht** (weight)\n- der Gedanke → **Gedanke** (thought)\n\n#### Miss- (Wrong/Bad)\n- Indicates something wrong or bad\n\n**Examples:**\n- verstehen → **missverstehen** (misunderstand)\n- erfolg → **Misserfolg** (failure)\n- trauen → **misstrauen** (distrust)\n\n#### Erz- (Arch-/Chief)\n- Means \"arch-\" or \"chief\"\n\n**Examples:**\n- der Feind → **Erzfeind** (archenemy)\n- der Bischof → **Erzbischof** (archbishop)\n- der Herzog → **Erzherzog** (archduke)\n\n---\n\n## Verb Prefixes (separable/inseparable)\n\n### Introduction\nVerb prefixes change the meaning of verbs. They can be separable (stressed, separate in some tenses) or inseparable (unstressed, never separate).\n\n### Inseparable Prefixes\n\n#### be-, ge-, er-, ver-, zer-, ent-, emp-, miss-\n- Never separate from the verb\n- No \"ge-\" in past participle\n- Unstressed in pronunciation\n\n#### be- (Makes transitive or changes meaning)\n- **beginnen** → **beenden** (to end)\n- **kommen** → **bekommen** (to receive)\n- **suchen** → **besuchen** (to visit)\n\n#### ver- (Wrong, away, change)\n- **stehen** → **verstehen** (to understand)\n- **lieren** → **verlieren** (to lose)\n- **ändern** → **verändern** (to change)\n\n#### ent- (Away, remove)\n- **kommen** → **entkommen** (to escape)\n- **fernen** → **entfernen** (to remove)\n- **wickeln** → **entwickeln** (to develop)\n\n#### er- (Makes transitive, achievement)\n- **fahren** → **erfahren** (to experience)\n- **klären** → **erklären** (to explain)\n- **reichen** → **erreichen** (to reach)\n\n#### zer- (Apart, into pieces)\n- **brechen** → **zerbrechen** (to break into pieces)\n- **stören** → **zerstören** (to destroy)\n- **reißen** → **zerreißen** (to tear apart)\n\n### Separable Prefixes\n\n#### ab-, an-, auf-, aus-, bei-, ein-, her-, hin-, los-, mit-, nach-, vor-, weg-, zu-, zurück-\n- Separate in present/future tenses\n- Stressed in pronunciation\n- Rejoin in past participles\n\n#### ab- (Away, off)\n- **fahren** → **abfahren** (to depart)\n- **holen** → **abholen** (to pick up)\n- **schalten** → **abschalten** (to turn off)\n\n#### an- (On, at, to)\n- **kommen** → **ankommen** (to arrive)\n- **fangen** → **anfangen** (to begin)\n- **ziehen** → **anziehen** (to put on clothes)\n\n#### auf- (Up, open)\n- **stehen** → **aufstehen** (to stand up)\n- **machen** → **aufmachen** (to open)\n- **wachen** → **aufwachen** (to wake up)\n\n#### aus- (Out, finished)\n- **gehen** → **ausgehen** (to go out)\n- **ziehen** → **ausziehen** (to move out)\n- **schlafen** → **ausschlafen** (to sleep in)\n\n#### ein- (In, into)\n- **laden** → **einladen** (to invite)\n- **kaufen** → **einkaufen** (to shop)\n- **steigen** → **einsteigen** (to get in)\n\n### Word Order with Separable Prefixes\n\n#### Present Tense\n- Prefix separates and goes to end\n- Ich **stehe** morgens **auf**. (I get up in the morning.)\n\n#### Perfect Tense\n- Prefix rejoins the past participle\n- Ich habe morgens **aufgestanden**. (I got up in the morning.)\n\n#### Infinitive with zu\n- Prefix stays with verb\n- Ich versuche, **aufzustehen**. (I try to get up.)\n\n#### In Subordinate Clauses\n- Separated in present, together in perfect\n- Ich weiß, dass du **aufstehst**. (I know that you get up.)\n- Ich weiß, dass du **aufgestanden** bist. (I know that you got up.)\n\n### Verbs with Variable Prefixes\n\nSome verbs can be separable or inseparable with different meanings:\n\n#### umfahren\n- **umfahren** (inseparable) = to run over\n- **umfahren** (separable) = to drive around\n\n#### überfahren\n- **überfahren** (inseparable) = to run over\n- **überfahren** (separable) = to cross/drive across\n\n#### unterhalten\n- **unterhalten** (inseparable) = to maintain\n- **sich unterhalten** (separable) = to converse\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Compound Nouns\nForm compound nouns and determine their gender:\n\n1. Haus + Tür = __________ (f)\n2. Schnee + Mann = __________ (m)\n3. Hand + Tasche = __________ (f)\n4. Stadt + Plan = __________ (m)\n5. Kaffee + Tasse = __________ (f)\n\n### Exercise 2: Word Formation with Suffixes\nForm new words using suffixes:\n\n1. Buch + -lein = __________\n2. bilden + -ung = __________\n3. frei + -heit = __________\n4. wissen + -schaft = __________\n5. Lehrer + -in = __________\n\n### Exercise 3: Prefixes\nAdd appropriate prefixes to change meaning:\n\n1. möglich + un- = __________\n2. verstehen + miss- = __________\n3. kommen + be- = __________\n4. fahren + ver- = __________\n5. brechen + zer- = __________\n\n### Exercise 4: Separable vs Inseparable\nIdentify separable (S) and inseparable (I) prefixes:\n\n1. be- ___ (bekommen)\n2. auf- ___ (aufstehen)\n3. ver- ___ (verstehen)\n4. ein- ___ (einladen)\n5. ent- ___ (entkommen)\n\n### Exercise 5: Verb Prefixes in Sentences\nComplete with correct verb forms:\n\n1. Ich ___ morgens ___ (aufstehen)\n2. Sie ___ die Arbeit ___ (beenden)\n3. Wir ___ Deutsch ___ (verstehen)\n4. Er ___ das Licht ___ (ausschalten)\n5. Du ___ den Zug ___ (verpassen)\n\n### Exercise 6: Word Formation Patterns\nCreate words using the patterns shown:\n\n1. Noun + Noun: Auto + Bahn = __________\n2. Adjective + Noun: alt + Stadt = __________\n3. Verb + Noun: warten + Raum = __________\n4. Suffix: glücklich + -keit = __________\n5. Prefix: möglich + un- = __________\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Compound gender**\n   - ❌ das Haustür (wrong gender)\n   - ✅ die Haustür (last noun determines gender)\n\n2. **Separable prefix confusion**\n   - ❌ Ich habe auf gestanden.\n   - ✅ Ich habe aufgestanden.\n\n3. **Inseparable past participle**\n   - ❌ Ich habe ver-gestanden.\n   - ✅ Ich habe verstanden.\n\n4. **Umlaut in diminutives**\n   - ❌ das Buchchen\n   - ✅ das Büchlein\n\n5. **Suffix gender**\n   - ❌ der Bildung (wrong gender)\n   - ✅ die Bildung\n\n6. **Variable prefix meanings**\n   - ❌ Ich umfahre den Baum. (wrong meaning)\n   - ✅ Ich fahre um den Baum. (correct separable)\n\n---\n\n## Summary\n\n- **Compound nouns**: Noun1 + Noun2, gender of last noun\n- **Suffixes**: -chen/-lein (diminutives), -ung (action), -heit/-keit (quality), -in (feminine)\n- **Prefixes**: un- (not), miss- (wrong), be-/ver-/ent- (inseparable verbs)\n- **Separable prefixes**: ab-/an-/auf-/aus-/ein- (separate in present, rejoin in perfect)\n- **Inseparable prefixes**: be-/ge-/er-/ver-/zer-/ent-/emp-/miss- (never separate)\n- **Word formation** creates new words from existing ones\n- **Meaning changes** through affixes and compounding\n\n---\n\n## Vocabulary List\n\n- **die Wortbildung** - word formation\n- **das Kompositum** / **die Komposita** - compound\n- **das Präfix** / **die Präfixe** - prefix\n- **das Suffix** / **die Suffixe** - suffix\n- **trennbar** - separable\n- **untrennbar** - inseparable\n- **die Bedeutung** - meaning\n- **die Endung** / **die Endungen** - ending\n- **das Geschlecht** - gender\n- **der Umlaut** - umlaut\n- **die Verkleinerungsform** - diminutive\n- **die Ableitung** - derivation\n- **zusammengesetzt** - compound\n- **die Silbe** / **die Silben** - syllable\n- **der Stamm** - stem\n- **die Wurzel** - root",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Compound Nouns",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Introduction",
+      "content": "German frequently forms new words by combining existing words. Compound nouns are very common and can be very long."
+    },
+    {
+      "order": 3,
+      "level": 3,
+      "title": "Formation Rules",
+      "content": ""
+    },
+    {
+      "order": 4,
+      "level": 4,
+      "title": "Basic Structure",
+      "content": "- **Noun + Noun** = New compound noun\n- The main noun comes last and determines gender\n- The first noun modifies the second\n\n**Examples:**\n- das **Haus** + die **Tür** = die **Haustür** (front door)\n- der **Schnee** + der **Mann** = der **Schneemann** (snowman)\n- die **Hand** + die **Tasche** = die **Handtasche** (handbag)"
+    },
+    {
+      "order": 5,
+      "level": 4,
+      "title": "Gender Determination",
+      "content": "- The last noun determines the gender of the compound\n- **das Haus** (neuter) + **die Tür** (feminine) = **die Haustür** (feminine)\n\n**Examples:**\n- der Apfel (masc.) + der Baum (masc.) = der Apfelbaum (masc.)\n- die Schule (fem.) + das Buch (neut.) = das Schulbuch (neut.)\n- der Zug (masc.) + die Fahrt (fem.) = die Zugfahrt (fem.)"
+    },
+    {
+      "order": 6,
+      "level": 3,
+      "title": "Common Compound Types",
+      "content": ""
+    },
+    {
+      "order": 7,
+      "level": 4,
+      "title": "Noun + Noun",
+      "content": "- **das Auto** + **die Bahn** = die **Autobahn** (highway)\n- **die Stadt** + **der Plan** = der **Stadtplan** (city map)\n- **der Kaffee** + **die Tasse** = die **Kaffeetasse** (coffee cup)"
+    },
+    {
+      "order": 8,
+      "level": 4,
+      "title": "Adjective + Noun",
+      "content": "- **alt** + **die Stadt** = die **Altstadt** (old town)\n- **groß** + **die Stadt** = die **Großstadt** (big city)\n- **neu** + **die Mode** = die **Neu**mode (new fashion)"
+    },
+    {
+      "order": 9,
+      "level": 4,
+      "title": "Verb + Noun",
+      "content": "- **essen** + **das Zimmer** = das **Esszimmer** (dining room)\n- **warten** + **der Raum** = der **Warteraum** (waiting room)\n- **schlafen** + **der Wagen** = der **Schlafwagen** (sleeping car)"
+    },
+    {
+      "order": 10,
+      "level": 4,
+      "title": "Linking Elements",
+      "content": "Some compounds use linking elements (-s-, -e-, -en-, -er-):\n- **der Name** + **die Liste** = die **Namensliste** (name list)\n- **arbeiten** + **die Zeit** = die **Arbeitszeit** (working time)\n- **leben** + **die Art** = die **Lebensart** (way of life)"
+    },
+    {
+      "order": 11,
+      "level": 3,
+      "title": "Long Compounds",
+      "content": "German can create very long compound words:\n- **die Haustürschlüssel** (house door key) = front door key\n- **der Handtascheninhalt** (hand bag content) = handbag contents\n- **die Wohnungstürschlossöffnung** (apartment door lock opening) = opening of the apartment door lock"
+    },
+    {
+      "order": 12,
+      "level": 3,
+      "title": "Plural Formation",
+      "content": "Compound nouns take the plural of the last element:\n- **das Haustür** → **die Haustüren**\n- **der Schneemann** → **die Schneemänner**\n- **die Handtasche** → **die Handtaschen**\n\n**Exceptions:** Some compounds have irregular plurals\n- **das Elternteil** → **die Elternteile** (parent)"
+    },
+    {
+      "order": 13,
+      "level": 3,
+      "title": "Common Compound Patterns",
+      "content": ""
+    },
+    {
+      "order": 14,
+      "level": 4,
+      "title": "Transportation",
+      "content": "- **der Zug** + **der Fahrplan** = der **Zugfahrplan** (train schedule)\n- **das Flugzeug** + **der Absturz** = der **Flugzeugabsturz** (plane crash)\n- **das Auto** + **die Reparatur** = die **Autoreparatur** (car repair)"
+    },
+    {
+      "order": 15,
+      "level": 4,
+      "title": "Food and Drink",
+      "content": "- **der Kaffee** + **die Maschine** = die **Kaffeemaschine** (coffee machine)\n- **das Brot** + **die Scheibe** = die **Brotscheibe** (slice of bread)\n- **der Tee** + **die Tasse** = die **Teetasse** (teacup)"
+    },
+    {
+      "order": 16,
+      "level": 4,
+      "title": "Work and Office",
+      "content": "- **die Büro** + **die Arbeit** = die **Büroarbeit** (office work)\n- **der Arbeits** + **der Platz** = der **Arbeitsplatz** (workplace)\n- **der Schreibtisch** + **die Lampe** = die **Schreibtischlampe** (desk lamp)\n\n---"
+    },
+    {
+      "order": 17,
+      "level": 2,
+      "title": "Prefixes and Suffixes",
+      "content": ""
+    },
+    {
+      "order": 18,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Prefixes and suffixes change the meaning of base words. German uses many affixes to create new words."
+    },
+    {
+      "order": 19,
+      "level": 3,
+      "title": "Noun Suffixes",
+      "content": ""
+    },
+    {
+      "order": 20,
+      "level": 4,
+      "title": "-chen / -lein (Diminutives)",
+      "content": "- Make nouns smaller/cuter\n- Always neuter gender\n- Umlaut if possible\n\n**Examples:**\n- das Buch → das **Büchlein** (little book)\n- der Hund → das **Hündchen** (little dog)\n- die Frau → das **Fräulein** (young lady)"
+    },
+    {
+      "order": 21,
+      "level": 4,
+      "title": "-ung (Action/Result)",
+      "content": "- Forms nouns from verbs\n- Always feminine\n\n**Examples:**\n- bilden → die **Bildung** (education)\n- wiederholen → die **Wiederholung** (repetition)\n- bedeuten → die **Bedeutung** (meaning)"
+    },
+    {
+      "order": 22,
+      "level": 4,
+      "title": "-heit / -keit (Abstract Qualities)",
+      "content": "- Form nouns from adjectives\n- Always feminine\n\n**Examples:**\n- frei → die **Freiheit** (freedom)\n- möglich → die **Möglichkeit** (possibility)\n- sicher → die **Sicherheit** (safety)"
+    },
+    {
+      "order": 23,
+      "level": 4,
+      "title": "-schaft (State/Condition)",
+      "content": "- Forms nouns from adjectives or nouns\n- Always feminine\n\n**Examples:**\n- wissen → die **Wissenschaft** (science)\n- Freund → die **Freundschaft** (friendship)\n- Krank → die **Krankenschaft** (sickness)"
+    },
+    {
+      "order": 24,
+      "level": 4,
+      "title": "-in (Feminine Forms)",
+      "content": "- Makes feminine forms of professions\n- Added to masculine nouns\n\n**Examples:**\n- der Lehrer → die **Lehrerin** (female teacher)\n- der Arzt → die **Ärztin** (female doctor)\n- der Student → die **Studentin** (female student)"
+    },
+    {
+      "order": 25,
+      "level": 3,
+      "title": "Adjective Suffixes",
+      "content": ""
+    },
+    {
+      "order": 26,
+      "level": 4,
+      "title": "-ig / -lich / -isch",
+      "content": "- Form adjectives from nouns\n- **-ig**: basic quality\n- **-lich**: related to\n- **-isch**: characteristic of\n\n**Examples:**\n- der Sommer → **sommerlich** (summery)\n- die Maschine → **maschinell** (mechanical)\n- der Sport → **sportlich** (sporty)"
+    },
+    {
+      "order": 27,
+      "level": 4,
+      "title": "-bar (Possible)",
+      "content": "- Means \"able to be\" or \"worth\"\n\n**Examples:**\n- trinken → **trinkbar** (drinkable)\n- essen → **essbar** (edible)\n- glauben → **glaubbar** (believable)"
+    },
+    {
+      "order": 28,
+      "level": 4,
+      "title": "-los (Without)",
+      "content": "- Means \"without\" or \"free of\"\n\n**Examples:**\n- der Schmerz → **schmerzfrei** (pain-free)\n- die Arbeit → **arbeitslos** (unemployed)\n- der Sinn → **sinnlos** (senseless)"
+    },
+    {
+      "order": 29,
+      "level": 3,
+      "title": "Verb Prefixes",
+      "content": ""
+    },
+    {
+      "order": 30,
+      "level": 4,
+      "title": "Un- (Not)",
+      "content": "- Negates the meaning\n\n**Examples:**\n- möglich → **unmöglich** (impossible)\n- wichtig → **unwichtig** (unimportant)\n- glücklich → **unglücklich** (unhappy)"
+    },
+    {
+      "order": 31,
+      "level": 4,
+      "title": "Ur- (Original/Proto-)",
+      "content": "- Means \"original\" or \"proto-\"\n\n**Examples:**\n- der Wald → **urwald** (primeval forest)\n- die Sprache → **ursprache** (original language)\n- der Text → **urtext** (original text)"
+    },
+    {
+      "order": 32,
+      "level": 3,
+      "title": "Noun Prefixes",
+      "content": ""
+    },
+    {
+      "order": 33,
+      "level": 4,
+      "title": "Ge- (Collective/Action)",
+      "content": "- Often indicates collective or completed action\n\n**Examples:**\n- der Berg → **Gebirge** (mountains)\n- das Gewicht → **Gewicht** (weight)\n- der Gedanke → **Gedanke** (thought)"
+    },
+    {
+      "order": 34,
+      "level": 4,
+      "title": "Miss- (Wrong/Bad)",
+      "content": "- Indicates something wrong or bad\n\n**Examples:**\n- verstehen → **missverstehen** (misunderstand)\n- erfolg → **Misserfolg** (failure)\n- trauen → **misstrauen** (distrust)"
+    },
+    {
+      "order": 35,
+      "level": 4,
+      "title": "Erz- (Arch-/Chief)",
+      "content": "- Means \"arch-\" or \"chief\"\n\n**Examples:**\n- der Feind → **Erzfeind** (archenemy)\n- der Bischof → **Erzbischof** (archbishop)\n- der Herzog → **Erzherzog** (archduke)\n\n---"
+    },
+    {
+      "order": 36,
+      "level": 2,
+      "title": "Verb Prefixes (separable/inseparable)",
+      "content": ""
+    },
+    {
+      "order": 37,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Verb prefixes change the meaning of verbs. They can be separable (stressed, separate in some tenses) or inseparable (unstressed, never separate)."
+    },
+    {
+      "order": 38,
+      "level": 3,
+      "title": "Inseparable Prefixes",
+      "content": ""
+    },
+    {
+      "order": 39,
+      "level": 4,
+      "title": "be-, ge-, er-, ver-, zer-, ent-, emp-, miss-",
+      "content": "- Never separate from the verb\n- No \"ge-\" in past participle\n- Unstressed in pronunciation"
+    },
+    {
+      "order": 40,
+      "level": 4,
+      "title": "be- (Makes transitive or changes meaning)",
+      "content": "- **beginnen** → **beenden** (to end)\n- **kommen** → **bekommen** (to receive)\n- **suchen** → **besuchen** (to visit)"
+    },
+    {
+      "order": 41,
+      "level": 4,
+      "title": "ver- (Wrong, away, change)",
+      "content": "- **stehen** → **verstehen** (to understand)\n- **lieren** → **verlieren** (to lose)\n- **ändern** → **verändern** (to change)"
+    },
+    {
+      "order": 42,
+      "level": 4,
+      "title": "ent- (Away, remove)",
+      "content": "- **kommen** → **entkommen** (to escape)\n- **fernen** → **entfernen** (to remove)\n- **wickeln** → **entwickeln** (to develop)"
+    },
+    {
+      "order": 43,
+      "level": 4,
+      "title": "er- (Makes transitive, achievement)",
+      "content": "- **fahren** → **erfahren** (to experience)\n- **klären** → **erklären** (to explain)\n- **reichen** → **erreichen** (to reach)"
+    },
+    {
+      "order": 44,
+      "level": 4,
+      "title": "zer- (Apart, into pieces)",
+      "content": "- **brechen** → **zerbrechen** (to break into pieces)\n- **stören** → **zerstören** (to destroy)\n- **reißen** → **zerreißen** (to tear apart)"
+    },
+    {
+      "order": 45,
+      "level": 3,
+      "title": "Separable Prefixes",
+      "content": ""
+    },
+    {
+      "order": 46,
+      "level": 4,
+      "title": "ab-, an-, auf-, aus-, bei-, ein-, her-, hin-, los-, mit-, nach-, vor-, weg-, zu-, zurück-",
+      "content": "- Separate in present/future tenses\n- Stressed in pronunciation\n- Rejoin in past participles"
+    },
+    {
+      "order": 47,
+      "level": 4,
+      "title": "ab- (Away, off)",
+      "content": "- **fahren** → **abfahren** (to depart)\n- **holen** → **abholen** (to pick up)\n- **schalten** → **abschalten** (to turn off)"
+    },
+    {
+      "order": 48,
+      "level": 4,
+      "title": "an- (On, at, to)",
+      "content": "- **kommen** → **ankommen** (to arrive)\n- **fangen** → **anfangen** (to begin)\n- **ziehen** → **anziehen** (to put on clothes)"
+    },
+    {
+      "order": 49,
+      "level": 4,
+      "title": "auf- (Up, open)",
+      "content": "- **stehen** → **aufstehen** (to stand up)\n- **machen** → **aufmachen** (to open)\n- **wachen** → **aufwachen** (to wake up)"
+    },
+    {
+      "order": 50,
+      "level": 4,
+      "title": "aus- (Out, finished)",
+      "content": "- **gehen** → **ausgehen** (to go out)\n- **ziehen** → **ausziehen** (to move out)\n- **schlafen** → **ausschlafen** (to sleep in)"
+    },
+    {
+      "order": 51,
+      "level": 4,
+      "title": "ein- (In, into)",
+      "content": "- **laden** → **einladen** (to invite)\n- **kaufen** → **einkaufen** (to shop)\n- **steigen** → **einsteigen** (to get in)"
+    },
+    {
+      "order": 52,
+      "level": 3,
+      "title": "Word Order with Separable Prefixes",
+      "content": ""
+    },
+    {
+      "order": 53,
+      "level": 4,
+      "title": "Present Tense",
+      "content": "- Prefix separates and goes to end\n- Ich **stehe** morgens **auf**. (I get up in the morning.)"
+    },
+    {
+      "order": 54,
+      "level": 4,
+      "title": "Perfect Tense",
+      "content": "- Prefix rejoins the past participle\n- Ich habe morgens **aufgestanden**. (I got up in the morning.)"
+    },
+    {
+      "order": 55,
+      "level": 4,
+      "title": "Infinitive with zu",
+      "content": "- Prefix stays with verb\n- Ich versuche, **aufzustehen**. (I try to get up.)"
+    },
+    {
+      "order": 56,
+      "level": 4,
+      "title": "In Subordinate Clauses",
+      "content": "- Separated in present, together in perfect\n- Ich weiß, dass du **aufstehst**. (I know that you get up.)\n- Ich weiß, dass du **aufgestanden** bist. (I know that you got up.)"
+    },
+    {
+      "order": 57,
+      "level": 3,
+      "title": "Verbs with Variable Prefixes",
+      "content": "Some verbs can be separable or inseparable with different meanings:"
+    },
+    {
+      "order": 58,
+      "level": 4,
+      "title": "umfahren",
+      "content": "- **umfahren** (inseparable) = to run over\n- **umfahren** (separable) = to drive around"
+    },
+    {
+      "order": 59,
+      "level": 4,
+      "title": "überfahren",
+      "content": "- **überfahren** (inseparable) = to run over\n- **überfahren** (separable) = to cross/drive across"
+    },
+    {
+      "order": 60,
+      "level": 4,
+      "title": "unterhalten",
+      "content": "- **unterhalten** (inseparable) = to maintain\n- **sich unterhalten** (separable) = to converse\n\n---"
+    },
+    {
+      "order": 61,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 62,
+      "level": 3,
+      "title": "Exercise 1: Compound Nouns",
+      "content": "Form compound nouns and determine their gender:\n\n1. Haus + Tür = __________ (f)\n2. Schnee + Mann = __________ (m)\n3. Hand + Tasche = __________ (f)\n4. Stadt + Plan = __________ (m)\n5. Kaffee + Tasse = __________ (f)"
+    },
+    {
+      "order": 63,
+      "level": 3,
+      "title": "Exercise 2: Word Formation with Suffixes",
+      "content": "Form new words using suffixes:\n\n1. Buch + -lein = __________\n2. bilden + -ung = __________\n3. frei + -heit = __________\n4. wissen + -schaft = __________\n5. Lehrer + -in = __________"
+    },
+    {
+      "order": 64,
+      "level": 3,
+      "title": "Exercise 3: Prefixes",
+      "content": "Add appropriate prefixes to change meaning:\n\n1. möglich + un- = __________\n2. verstehen + miss- = __________\n3. kommen + be- = __________\n4. fahren + ver- = __________\n5. brechen + zer- = __________"
+    },
+    {
+      "order": 65,
+      "level": 3,
+      "title": "Exercise 4: Separable vs Inseparable",
+      "content": "Identify separable (S) and inseparable (I) prefixes:\n\n1. be- ___ (bekommen)\n2. auf- ___ (aufstehen)\n3. ver- ___ (verstehen)\n4. ein- ___ (einladen)\n5. ent- ___ (entkommen)"
+    },
+    {
+      "order": 66,
+      "level": 3,
+      "title": "Exercise 5: Verb Prefixes in Sentences",
+      "content": "Complete with correct verb forms:\n\n1. Ich ___ morgens ___ (aufstehen)\n2. Sie ___ die Arbeit ___ (beenden)\n3. Wir ___ Deutsch ___ (verstehen)\n4. Er ___ das Licht ___ (ausschalten)\n5. Du ___ den Zug ___ (verpassen)"
+    },
+    {
+      "order": 67,
+      "level": 3,
+      "title": "Exercise 6: Word Formation Patterns",
+      "content": "Create words using the patterns shown:\n\n1. Noun + Noun: Auto + Bahn = __________\n2. Adjective + Noun: alt + Stadt = __________\n3. Verb + Noun: warten + Raum = __________\n4. Suffix: glücklich + -keit = __________\n5. Prefix: möglich + un- = __________\n\n---"
+    },
+    {
+      "order": 68,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Compound gender**\n   - ❌ das Haustür (wrong gender)\n   - ✅ die Haustür (last noun determines gender)\n\n2. **Separable prefix confusion**\n   - ❌ Ich habe auf gestanden.\n   - ✅ Ich habe aufgestanden.\n\n3. **Inseparable past participle**\n   - ❌ Ich habe ver-gestanden.\n   - ✅ Ich habe verstanden.\n\n4. **Umlaut in diminutives**\n   - ❌ das Buchchen\n   - ✅ das Büchlein\n\n5. **Suffix gender**\n   - ❌ der Bildung (wrong gender)\n   - ✅ die Bildung\n\n6. **Variable prefix meanings**\n   - ❌ Ich umfahre den Baum. (wrong meaning)\n   - ✅ Ich fahre um den Baum. (correct separable)\n\n---"
+    },
+    {
+      "order": 69,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Compound nouns**: Noun1 + Noun2, gender of last noun\n- **Suffixes**: -chen/-lein (diminutives), -ung (action), -heit/-keit (quality), -in (feminine)\n- **Prefixes**: un- (not), miss- (wrong), be-/ver-/ent- (inseparable verbs)\n- **Separable prefixes**: ab-/an-/auf-/aus-/ein- (separate in present, rejoin in perfect)\n- **Inseparable prefixes**: be-/ge-/er-/ver-/zer-/ent-/emp-/miss- (never separate)\n- **Word formation** creates new words from existing ones\n- **Meaning changes** through affixes and compounding\n\n---"
+    },
+    {
+      "order": 70,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **die Wortbildung** - word formation\n- **das Kompositum** / **die Komposita** - compound\n- **das Präfix** / **die Präfixe** - prefix\n- **das Suffix** / **die Suffixe** - suffix\n- **trennbar** - separable\n- **untrennbar** - inseparable\n- **die Bedeutung** - meaning\n- **die Endung** / **die Endungen** - ending\n- **das Geschlecht** - gender\n- **der Umlaut** - umlaut\n- **die Verkleinerungsform** - diminutive\n- **die Ableitung** - derivation\n- **zusammengesetzt** - compound\n- **die Silbe** / **die Silben** - syllable\n- **der Stamm** - stem\n- **die Wurzel** - root"
+    }
+  ],
+  "tags": [
+    "adjectives",
+    "infinitive",
+    "past tense",
+    "future tense",
+    "vocabulary",
+    "word formation"
+  ],
+  "contentHash": "df5a9d095de3b2902c06aba1afaa9e98104c71922a22784a57a5f39dd338d37b"
+}

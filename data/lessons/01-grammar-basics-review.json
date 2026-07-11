@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "slug": "01-grammar-basics-review",
+  "order": 1,
+  "title": "Chapter 1: Grammar Basics Review",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/01-grammar-basics-review.md",
+  "sourceMarkdownFile": "01-grammar-basics-review.md",
+  "jsonPath": "data/lessons/01-grammar-basics-review.json",
+  "markdown": "# Chapter 1: Grammar Basics Review\n\n## Articles (der, die, das)\n\n### Definite Articles (The)\n\n| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nominative** | der | die | das | die |\n| **Accusative** | den | die | das | die |\n| **Dative** | dem | der | dem | den |\n| **Genitive** | des | der | des | der |\n\n### Indefinite Articles (A/An)\n\n| Case | Masculine | Feminine | Neuter |\n|------|-----------|----------|--------|\n| **Nominative** | ein | eine | ein |\n| **Accusative** | einen | eine | ein |\n| **Dative** | einem | einer | einem |\n| **Genitive** | eines | einer | eines |\n\n### Negative Article (Kein - Not A/No)\n\n| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nominative** | kein | keine | kein | keine |\n| **Accusative** | keinen | keine | kein | keine |\n| **Dative** | keinem | keiner | keinem | keinen |\n| **Genitive** | keines | keiner | keines | keiner |\n\n### Usage Examples\n\n**Definite Articles:**\n- **Der** Mann ist groß. (The man is tall.)\n- Ich sehe **den** Mann. (I see the man.)\n- Ich gebe **dem** Mann das Buch. (I give the book to the man.)\n- Das ist das Auto **des** Mannes. (That's the man's car.)\n\n**Indefinite Articles:**\n- **Ein** Mann kommt. (A man is coming.)\n- Ich sehe **einen** Mann. (I see a man.)\n- Ich gebe **einem** Mann das Buch. (I give the book to a man.)\n- Das ist das Auto **eines** Mannes. (That's a man's car.)\n\n---\n\n## Cases (Nominative, Accusative, Dative, Genitive)\n\n### Nominative Case (Subject Case)\n\n**Usage:**\n- **Subject** of the sentence\n- After \"sein\" (to be)\n- Predicate nominative\n\n**Examples:**\n- **Der Mann** arbeitet. (The man works.)\n- Das ist **ein Mann**. (That is a man.)\n- Sie ist **Lehrerin**. (She is a teacher.)\n- **Wir** gehen ins Kino. (We are going to the cinema.)\n\n### Accusative Case (Direct Object Case)\n\n**Usage:**\n- **Direct object** of the verb\n- After certain prepositions (durch, für, gegen, ohne, um)\n- Time expressions\n\n**Examples:**\n- Ich sehe **den Mann**. (I see the man.)\n- Sie liest **das Buch**. (She reads the book.)\n- Wir fahren durch **den Tunnel**. (We drive through the tunnel.)\n- Das dauert **eine Stunde**. (That takes an hour.)\n\n### Dative Case (Indirect Object Case)\n\n**Usage:**\n- **Indirect object** of the verb\n- After certain prepositions (aus, bei, mit, nach, seit, von, zu)\n- Some verbs require dative\n- Possession\n\n**Examples:**\n- Ich gebe **dem Mann** das Buch. (I give the book to the man.)\n- Das Buch gehört **dem Lehrer**. (The book belongs to the teacher.)\n- Sie wohnt bei **ihren Eltern**. (She lives with her parents.)\n- Hilf **mir**! (Help me!)\n\n### Genitive Case (Possessive Case)\n\n**Usage:**\n- **Possession/ownership**\n- After certain prepositions (außerhalb, innerhalb, statt, trotz, während)\n- Some fixed expressions\n\n**Examples:**\n- Das ist das Auto **des Mannes**. (That is the man's car.)\n- Die Farbe **des Hauses** ist blau. (The color of the house is blue.)\n- Trotz **des Regens** gehen wir spazieren. (Despite the rain, we go for a walk.)\n- Er starb **des Hungers**. (He died of hunger.)\n\n### Case Determination Rules\n\n#### 1. Ask \"Who?\" or \"What?\" (Subject = Nominative)\n- **Wer** oder **was** ist das Subjekt?\n- **Der Mann** (wer?) arbeitet. → Nominative\n\n#### 2. Ask \"Whom?\" or \"What?\" (Direct Object = Accusative)\n- **Wen** oder **was** hat das Verb?\n- Ich sehe **den Mann** (wen?). → Accusative\n\n#### 3. Ask \"To whom?\" or \"For whom?\" (Indirect Object = Dative)\n- **Wem** gehört etwas? **Wem** gebe ich etwas?\n- Ich gebe **dem Mann** (wem?) das Buch. → Dative\n\n#### 4. Ask \"Whose?\" (Possession = Genitive)\n- **Wessen** ist das?\n- Das ist das Auto **des Mannes** (wessen?). → Genitive\n\n---\n\n## Adjective Declensions\n\n### Weak Declension (After Definite Articles)\n\n| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nom.** | -e | -e | -e | -en |\n| **Acc.** | -en | -e | -e | -en |\n| **Dat.** | -en | -en | -en | -en |\n| **Gen.** | -en | -en | -en | -en |\n\n**Examples:**\n- der groß**e** Mann (the big man)\n- den groß**en** Mann (the big man - acc.)\n- dem groß**en** Mann (the big man - dat.)\n- die groß**e** Frau (the big woman)\n- das groß**e** Haus (the big house)\n- die groß**en** Häuser (the big houses)\n\n### Strong Declension (After Indefinite Articles or No Article)\n\n| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nom.** | -er | -e | -es | -e |\n| **Acc.** | -en | -e | -es | -e |\n| **Dat.** | -em | -er | -em | -en |\n| **Gen.** | -es/-en | -er | -es/-en | -er |\n\n**Examples:**\n- ein groß**er** Mann (a big man)\n- einen groß**en** Mann (a big man - acc.)\n- einem groß**em** Mann (a big man - dat.)\n- große Frau (big woman)\n- großes Haus (big house)\n- große Häuser (big houses)\n\n### Mixed Declension (After Ein-Words: kein, mein, dein, etc.)\n\n| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nom.** | -er | -e | -es | -en |\n| **Acc.** | -en | -e | -es | -en |\n| **Dat.** | -en | -en | -en | -en |\n| **Gen.** | -en | -en | -en | -en |\n\n**Examples:**\n- mein groß**er** Bruder (my big brother)\n- keinen groß**en** Bruder (no big brother)\n- unserem groß**en** Bruder (our big brother)\n\n### Irregular Adjectives\n\nSome adjectives change their stem in certain forms:\n- **hoch** → höher (dat. masc./neut. sg.)\n- **gut** → besser (dat. masc./neut. sg.)\n- **viel** → mehr (dat. masc./neut. sg.)\n\n**Examples:**\n- bei **höher**em Preis (at a higher price)\n- mit **besser**em Wetter (with better weather)\n\n### Adjective Endings After Prepositions\n\n| Preposition + Case | Ending |\n|-------------------|---------|\n| nach + Dat. | -em/-er/-en |\n| in + Dat. | -em/-er/-en |\n| bei + Dat. | -em/-er/-en |\n| aus + Dat. | -em/-er/-en |\n\n**Examples:**\n- nach **langem** Warten (after long waiting)\n- in **großer** Eile (in great hurry)\n- bei **schlechtem** Wetter (in bad weather)\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Choose the correct article\nFill in the blanks with der, die, das, den, dem, des:\n\n1. ___ Mann arbeitet. (The man works.)\n2. Ich sehe ___ Mann. (I see the man.)\n3. Ich gebe ___ Mann das Buch. (I give the book to the man.)\n4. Das ist das Auto ___ Mannes. (That's the man's car.)\n5. ___ Frau ist schön. (The woman is beautiful.)\n6. Ich helfe ___ Frau. (I help the woman.)\n\n### Exercise 2: Cases - Identify the case\nIdentify the case of the underlined nouns:\n\n1. **Der Lehrer** erklärt die Grammatik. ___\n2. Ich lese **das Buch**. ___\n3. Das Buch gehört **dem Studenten**. ___\n4. Das ist der Schreibtisch **des Lehrers**. ___\n\n### Exercise 3: Adjective declensions\nDecline the adjectives in brackets:\n\n1. ___ (alt) Mann kommt. (An old man is coming.)\n2. Ich sehe ___ (neu) Auto. (I see the new car.)\n3. Das ist ___ (groß) Haus. (That is the big house.)\n4. Wir wohnen in ___ (schön) Wohnung. (We live in a beautiful apartment.)\n\n### Exercise 4: Complete sentences\nFill in the correct forms:\n\n1. ___ (dies) Buch ist sehr interessant. (This book is very interesting.)\n2. Er gibt ___ (sein) Schwester ___ (neu) Handy. (He gives his sister the new cell phone.)\n3. Trotz ___ (schlecht) Wetter gehen wir spazieren. (Despite the bad weather, we go for a walk.)\n4. Bei ___ (gut) Essen schmeckt alles besser. (With good food, everything tastes better.)\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Wrong case after prepositions**: Remember which prepositions take which case\n   - ❌ Ich gehe in den Park. (wrong case)\n   - ✅ Ich gehe in den Park. (correct - in + acc.)\n\n2. **Missing adjective endings**: Always add endings for declined adjectives\n   - ❌ ein groß Haus\n   - ✅ ein großes Haus\n\n3. **ein-words vs. definite articles**: Mixed declension, not weak\n   - ❌ meinem großem Bruder\n   - ✅ meinem großen Bruder\n\n4. **Plural forms**: Plural articles are always \"die\"\n   - ❌ die großes Häuser\n   - ✅ die großen Häuser\n\n5. **Genitive with 's**: Don't use English-style possession\n   - ❌ der Manns Auto\n   - ✅ das Auto des Mannes\n\n---\n\n## Summary\n\n- **Nominative**: Subject, after \"sein\"\n- **Accusative**: Direct object, some prepositions\n- **Dative**: Indirect object, some prepositions\n- **Genitive**: Possession, some prepositions\n- **Weak declension**: After definite articles (der, die, das, die)\n- **Strong declension**: After indefinite articles or no article\n- **Mixed declension**: After ein-words (kein, mein, dein, etc.)\n- **Word order**: Adjective comes before noun with correct ending\n\n---\n\n## Vocabulary List\n\n- **der Artikel** - article\n- **der Fall** / **die Fälle** - case\n- **die Endung** / **die Endungen** - ending\n- **dekliniert** - declined\n- **bestimmt** - definite\n- **unbestimmt** - indefinite\n- **der Nominativ** - nominative\n- **der Akkusativ** - accusative\n- **der Dativ** - dative\n- **der Genitiv** - genitive\n- **die Adjektivdeklination** - adjective declension\n- **die Wortstellung** - word order",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Articles (der, die, das)",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Definite Articles (The)",
+      "content": "| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nominative** | der | die | das | die |\n| **Accusative** | den | die | das | die |\n| **Dative** | dem | der | dem | den |\n| **Genitive** | des | der | des | der |"
+    },
+    {
+      "order": 3,
+      "level": 3,
+      "title": "Indefinite Articles (A/An)",
+      "content": "| Case | Masculine | Feminine | Neuter |\n|------|-----------|----------|--------|\n| **Nominative** | ein | eine | ein |\n| **Accusative** | einen | eine | ein |\n| **Dative** | einem | einer | einem |\n| **Genitive** | eines | einer | eines |"
+    },
+    {
+      "order": 4,
+      "level": 3,
+      "title": "Negative Article (Kein - Not A/No)",
+      "content": "| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nominative** | kein | keine | kein | keine |\n| **Accusative** | keinen | keine | kein | keine |\n| **Dative** | keinem | keiner | keinem | keinen |\n| **Genitive** | keines | keiner | keines | keiner |"
+    },
+    {
+      "order": 5,
+      "level": 3,
+      "title": "Usage Examples",
+      "content": "**Definite Articles:**\n- **Der** Mann ist groß. (The man is tall.)\n- Ich sehe **den** Mann. (I see the man.)\n- Ich gebe **dem** Mann das Buch. (I give the book to the man.)\n- Das ist das Auto **des** Mannes. (That's the man's car.)\n\n**Indefinite Articles:**\n- **Ein** Mann kommt. (A man is coming.)\n- Ich sehe **einen** Mann. (I see a man.)\n- Ich gebe **einem** Mann das Buch. (I give the book to a man.)\n- Das ist das Auto **eines** Mannes. (That's a man's car.)\n\n---"
+    },
+    {
+      "order": 6,
+      "level": 2,
+      "title": "Cases (Nominative, Accusative, Dative, Genitive)",
+      "content": ""
+    },
+    {
+      "order": 7,
+      "level": 3,
+      "title": "Nominative Case (Subject Case)",
+      "content": "**Usage:**\n- **Subject** of the sentence\n- After \"sein\" (to be)\n- Predicate nominative\n\n**Examples:**\n- **Der Mann** arbeitet. (The man works.)\n- Das ist **ein Mann**. (That is a man.)\n- Sie ist **Lehrerin**. (She is a teacher.)\n- **Wir** gehen ins Kino. (We are going to the cinema.)"
+    },
+    {
+      "order": 8,
+      "level": 3,
+      "title": "Accusative Case (Direct Object Case)",
+      "content": "**Usage:**\n- **Direct object** of the verb\n- After certain prepositions (durch, für, gegen, ohne, um)\n- Time expressions\n\n**Examples:**\n- Ich sehe **den Mann**. (I see the man.)\n- Sie liest **das Buch**. (She reads the book.)\n- Wir fahren durch **den Tunnel**. (We drive through the tunnel.)\n- Das dauert **eine Stunde**. (That takes an hour.)"
+    },
+    {
+      "order": 9,
+      "level": 3,
+      "title": "Dative Case (Indirect Object Case)",
+      "content": "**Usage:**\n- **Indirect object** of the verb\n- After certain prepositions (aus, bei, mit, nach, seit, von, zu)\n- Some verbs require dative\n- Possession\n\n**Examples:**\n- Ich gebe **dem Mann** das Buch. (I give the book to the man.)\n- Das Buch gehört **dem Lehrer**. (The book belongs to the teacher.)\n- Sie wohnt bei **ihren Eltern**. (She lives with her parents.)\n- Hilf **mir**! (Help me!)"
+    },
+    {
+      "order": 10,
+      "level": 3,
+      "title": "Genitive Case (Possessive Case)",
+      "content": "**Usage:**\n- **Possession/ownership**\n- After certain prepositions (außerhalb, innerhalb, statt, trotz, während)\n- Some fixed expressions\n\n**Examples:**\n- Das ist das Auto **des Mannes**. (That is the man's car.)\n- Die Farbe **des Hauses** ist blau. (The color of the house is blue.)\n- Trotz **des Regens** gehen wir spazieren. (Despite the rain, we go for a walk.)\n- Er starb **des Hungers**. (He died of hunger.)"
+    },
+    {
+      "order": 11,
+      "level": 3,
+      "title": "Case Determination Rules",
+      "content": ""
+    },
+    {
+      "order": 12,
+      "level": 4,
+      "title": "1. Ask \"Who?\" or \"What?\" (Subject = Nominative)",
+      "content": "- **Wer** oder **was** ist das Subjekt?\n- **Der Mann** (wer?) arbeitet. → Nominative"
+    },
+    {
+      "order": 13,
+      "level": 4,
+      "title": "2. Ask \"Whom?\" or \"What?\" (Direct Object = Accusative)",
+      "content": "- **Wen** oder **was** hat das Verb?\n- Ich sehe **den Mann** (wen?). → Accusative"
+    },
+    {
+      "order": 14,
+      "level": 4,
+      "title": "3. Ask \"To whom?\" or \"For whom?\" (Indirect Object = Dative)",
+      "content": "- **Wem** gehört etwas? **Wem** gebe ich etwas?\n- Ich gebe **dem Mann** (wem?) das Buch. → Dative"
+    },
+    {
+      "order": 15,
+      "level": 4,
+      "title": "4. Ask \"Whose?\" (Possession = Genitive)",
+      "content": "- **Wessen** ist das?\n- Das ist das Auto **des Mannes** (wessen?). → Genitive\n\n---"
+    },
+    {
+      "order": 16,
+      "level": 2,
+      "title": "Adjective Declensions",
+      "content": ""
+    },
+    {
+      "order": 17,
+      "level": 3,
+      "title": "Weak Declension (After Definite Articles)",
+      "content": "| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nom.** | -e | -e | -e | -en |\n| **Acc.** | -en | -e | -e | -en |\n| **Dat.** | -en | -en | -en | -en |\n| **Gen.** | -en | -en | -en | -en |\n\n**Examples:**\n- der groß**e** Mann (the big man)\n- den groß**en** Mann (the big man - acc.)\n- dem groß**en** Mann (the big man - dat.)\n- die groß**e** Frau (the big woman)\n- das groß**e** Haus (the big house)\n- die groß**en** Häuser (the big houses)"
+    },
+    {
+      "order": 18,
+      "level": 3,
+      "title": "Strong Declension (After Indefinite Articles or No Article)",
+      "content": "| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nom.** | -er | -e | -es | -e |\n| **Acc.** | -en | -e | -es | -e |\n| **Dat.** | -em | -er | -em | -en |\n| **Gen.** | -es/-en | -er | -es/-en | -er |\n\n**Examples:**\n- ein groß**er** Mann (a big man)\n- einen groß**en** Mann (a big man - acc.)\n- einem groß**em** Mann (a big man - dat.)\n- große Frau (big woman)\n- großes Haus (big house)\n- große Häuser (big houses)"
+    },
+    {
+      "order": 19,
+      "level": 3,
+      "title": "Mixed Declension (After Ein-Words: kein, mein, dein, etc.)",
+      "content": "| Case | Masculine | Feminine | Neuter | Plural |\n|------|-----------|----------|--------|--------|\n| **Nom.** | -er | -e | -es | -en |\n| **Acc.** | -en | -e | -es | -en |\n| **Dat.** | -en | -en | -en | -en |\n| **Gen.** | -en | -en | -en | -en |\n\n**Examples:**\n- mein groß**er** Bruder (my big brother)\n- keinen groß**en** Bruder (no big brother)\n- unserem groß**en** Bruder (our big brother)"
+    },
+    {
+      "order": 20,
+      "level": 3,
+      "title": "Irregular Adjectives",
+      "content": "Some adjectives change their stem in certain forms:\n- **hoch** → höher (dat. masc./neut. sg.)\n- **gut** → besser (dat. masc./neut. sg.)\n- **viel** → mehr (dat. masc./neut. sg.)\n\n**Examples:**\n- bei **höher**em Preis (at a higher price)\n- mit **besser**em Wetter (with better weather)"
+    },
+    {
+      "order": 21,
+      "level": 3,
+      "title": "Adjective Endings After Prepositions",
+      "content": "| Preposition + Case | Ending |\n|-------------------|---------|\n| nach + Dat. | -em/-er/-en |\n| in + Dat. | -em/-er/-en |\n| bei + Dat. | -em/-er/-en |\n| aus + Dat. | -em/-er/-en |\n\n**Examples:**\n- nach **langem** Warten (after long waiting)\n- in **großer** Eile (in great hurry)\n- bei **schlechtem** Wetter (in bad weather)\n\n---"
+    },
+    {
+      "order": 22,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 23,
+      "level": 3,
+      "title": "Exercise 1: Choose the correct article",
+      "content": "Fill in the blanks with der, die, das, den, dem, des:\n\n1. ___ Mann arbeitet. (The man works.)\n2. Ich sehe ___ Mann. (I see the man.)\n3. Ich gebe ___ Mann das Buch. (I give the book to the man.)\n4. Das ist das Auto ___ Mannes. (That's the man's car.)\n5. ___ Frau ist schön. (The woman is beautiful.)\n6. Ich helfe ___ Frau. (I help the woman.)"
+    },
+    {
+      "order": 24,
+      "level": 3,
+      "title": "Exercise 2: Cases - Identify the case",
+      "content": "Identify the case of the underlined nouns:\n\n1. **Der Lehrer** erklärt die Grammatik. ___\n2. Ich lese **das Buch**. ___\n3. Das Buch gehört **dem Studenten**. ___\n4. Das ist der Schreibtisch **des Lehrers**. ___"
+    },
+    {
+      "order": 25,
+      "level": 3,
+      "title": "Exercise 3: Adjective declensions",
+      "content": "Decline the adjectives in brackets:\n\n1. ___ (alt) Mann kommt. (An old man is coming.)\n2. Ich sehe ___ (neu) Auto. (I see the new car.)\n3. Das ist ___ (groß) Haus. (That is the big house.)\n4. Wir wohnen in ___ (schön) Wohnung. (We live in a beautiful apartment.)"
+    },
+    {
+      "order": 26,
+      "level": 3,
+      "title": "Exercise 4: Complete sentences",
+      "content": "Fill in the correct forms:\n\n1. ___ (dies) Buch ist sehr interessant. (This book is very interesting.)\n2. Er gibt ___ (sein) Schwester ___ (neu) Handy. (He gives his sister the new cell phone.)\n3. Trotz ___ (schlecht) Wetter gehen wir spazieren. (Despite the bad weather, we go for a walk.)\n4. Bei ___ (gut) Essen schmeckt alles besser. (With good food, everything tastes better.)\n\n---"
+    },
+    {
+      "order": 27,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Wrong case after prepositions**: Remember which prepositions take which case\n   - ❌ Ich gehe in den Park. (wrong case)\n   - ✅ Ich gehe in den Park. (correct - in + acc.)\n\n2. **Missing adjective endings**: Always add endings for declined adjectives\n   - ❌ ein groß Haus\n   - ✅ ein großes Haus\n\n3. **ein-words vs. definite articles**: Mixed declension, not weak\n   - ❌ meinem großem Bruder\n   - ✅ meinem großen Bruder\n\n4. **Plural forms**: Plural articles are always \"die\"\n   - ❌ die großes Häuser\n   - ✅ die großen Häuser\n\n5. **Genitive with 's**: Don't use English-style possession\n   - ❌ der Manns Auto\n   - ✅ das Auto des Mannes\n\n---"
+    },
+    {
+      "order": 28,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Nominative**: Subject, after \"sein\"\n- **Accusative**: Direct object, some prepositions\n- **Dative**: Indirect object, some prepositions\n- **Genitive**: Possession, some prepositions\n- **Weak declension**: After definite articles (der, die, das, die)\n- **Strong declension**: After indefinite articles or no article\n- **Mixed declension**: After ein-words (kein, mein, dein, etc.)\n- **Word order**: Adjective comes before noun with correct ending\n\n---"
+    },
+    {
+      "order": 29,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **der Artikel** - article\n- **der Fall** / **die Fälle** - case\n- **die Endung** / **die Endungen** - ending\n- **dekliniert** - declined\n- **bestimmt** - definite\n- **unbestimmt** - indefinite\n- **der Nominativ** - nominative\n- **der Akkusativ** - accusative\n- **der Dativ** - dative\n- **der Genitiv** - genitive\n- **die Adjektivdeklination** - adjective declension\n- **die Wortstellung** - word order"
+    }
+  ],
+  "tags": [
+    "articles",
+    "cases",
+    "dative",
+    "accusative",
+    "genitive",
+    "adjectives",
+    "prepositions",
+    "vocabulary"
+  ],
+  "contentHash": "ed1fa213ac31777081f834ced19ee28a612fb361b69b58661a80e03445f29f22"
+}

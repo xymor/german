@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "slug": "13-adverbs-adjectives",
+  "order": 13,
+  "title": "Chapter 13: Adverbs and Adjectives",
+  "sourceMarkdownPath": "/home/pi/.hermes/tasks/german-study/lessons/13-adverbs-adjectives.md",
+  "sourceMarkdownFile": "13-adverbs-adjectives.md",
+  "jsonPath": "data/lessons/13-adverbs-adjectives.json",
+  "markdown": "# Chapter 13: Adverbs and Adjectives\n\n## Adverb Formation\n\n### Introduction\nAdverbs modify verbs, adjectives, or other adverbs. Many adverbs are formed from adjectives by adding \"-ly\" in English, but German has different patterns.\n\n### Formation from Adjectives\n\n#### Regular Formation: Adjective + \"-e\" / \"-en\"\n- Most adjectives form adverbs by adding \"-e\" or staying the same\n- **Examples:**\n  - schnell → **schnell**e (fast)\n  - schön → **schön**e (beautifully)\n  - laut → **laut**e (loudly)\n  - langsam → **langsam** (slowly)\n\n**Usage:**\n- Sie singt **schön**. (She sings beautifully.)\n- Er fährt **schnell**. (He drives fast.)\n- Sie spricht **laut**. (She speaks loudly.)\n\n#### Adjectives Ending in \"-lich\" or \"-ig\"\n- These adjectives form adverbs by adding \"-e\"\n- **Examples:**\n  - freundlich → **freundlich**e (friendly)\n  - glücklich → **glücklich**e (happily)\n  - vorsichtig → **vorsichtig**e (carefully)\n\n**Usage:**\n- Er grüßt **freundlich**. (He greets friendly.)\n- Sie lebt **glücklich**. (She lives happily.)\n- Fahre **vorsichtig**! (Drive carefully!)\n\n### Irregular Adverb Forms\n\n#### Adjectives with Special Adverb Forms\n- **gut** (good) → **gut** (well)\n- **hoch** (high) → **hoch** (high)\n- **nah** (near) → **nah**e (near)\n- **teuer** (expensive) → **teuer** (expensively)\n\n**Examples:**\n- Sie singt sehr **gut**. (She sings very well.)\n- Der Adler fliegt sehr **hoch**. (The eagle flies very high.)\n- Wir wohnen ganz **nah**. (We live very near.)\n- Sie kauft **teuer** ein. (She shops expensively.)\n\n### Adverbs Not Derived from Adjectives\n\n#### Time Adverbs\n- **jetzt** (now)\n- **heute** (today)\n- **morgen** (tomorrow)\n- **gestern** (yesterday)\n- **bald** (soon)\n- **später** (later)\n\n#### Place Adverbs\n- **hier** (here)\n- **dort** (there)\n- **oben** (above)\n- **unten** (below)\n- **links** (left)\n- **rechts** (right)\n\n#### Manner Adverbs\n- **so** (so)\n- **wie** (how)\n- **gern** (gladly)\n- **lieber** (rather)\n- **am liebsten** (best of all)\n\n### Word Order with Adverbs\n\n#### Position in Sentences\n- Adverbs usually come after the verb\n- **Time** → **Manner** → **Place**\n- Example: Ich gehe **morgen** **schnell** **nach Hause**.\n\n**Examples:**\n- Sie arbeitet **heute** **hart**. (She works hard today.)\n- Er kommt **später** **mit dem Auto**. (He comes later by car.)\n- Wir essen **gern** **italienisch**. (We like to eat Italian food.)\n\n#### Adverbs with Modal Particles\n- Modal particles (doch, ja, wohl, etc.) come at the end\n- Example: Komm **doch** mit! (Do come along!)\n\n### Adverbial Phrases\n\n#### Prepositional Phrases as Adverbs\n- **mit dem Auto** (by car)\n- **ohne Probleme** (without problems)\n- **auf Deutsch** (in German)\n- **seit drei Jahren** (for three years)\n\n**Examples:**\n- Sie fährt **mit dem Auto**. (She drives by car.)\n- Er spricht **auf Deutsch**. (He speaks in German.)\n- Wir warten **seit drei Jahren**. (We have been waiting for three years.)\n\n---\n\n## Comparative and Superlative\n\n### Introduction\nComparative and superlative forms compare qualities. German has regular and irregular forms.\n\n### Comparative Formation\n\n#### Regular Comparative: Adjective/Adverb + \"-er\"\n- Add \"-er\" to the base form\n- Use \"als\" to compare: A ist größer **als** B\n\n**Examples:**\n- groß → **größer** (bigger)\n- klein → **kleiner** (smaller)\n- schnell → **schneller** (faster)\n- schön → **schöner** (more beautiful)\n\n**Usage:**\n- Berlin ist **größer als** München. (Berlin is bigger than Munich.)\n- Sie läuft **schneller als** ich. (She runs faster than me.)\n- Das Haus ist **schöner als** erwartet. (The house is more beautiful than expected.)\n\n#### Irregular Comparatives\n- **gut** → **besser** (better)\n- **hoch** → **höher** (higher)\n- **nah** → **näher** (nearer)\n- **viel** → **mehr** (more)\n- **gern** → **lieber** (rather)\n\n**Examples:**\n- Sie singt **besser als** ich. (She sings better than me.)\n- Der Berg ist **höher als** erwartet. (The mountain is higher than expected.)\n- Ich esse **lieber** Pizza. (I prefer to eat pizza.)\n\n### Superlative Formation\n\n#### Regular Superlative: Adjective/Adverb + \"-sten\"\n- Add \"-sten\" to the base form\n- Use definite article: der/die/das + superlative\n- **am + adverb + -sten** for adverbs\n\n**Examples:**\n- groß → **größt**e (biggest)\n- klein → **kleinst**e (smallest)\n- schnell → **schnellst**e (fastest)\n- schön → **schönst**e (most beautiful)\n\n**Usage:**\n- Berlin ist **die größte** Stadt Deutschlands. (Berlin is the biggest city in Germany.)\n- Sie läuft **am schnellsten**. (She runs the fastest.)\n- Das ist **das schönste** Haus. (That is the most beautiful house.)\n\n#### Irregular Superlatives\n- **gut** → **best**e / **am besten** (best)\n- **hoch** → **höchst**e / **am höchsten** (highest)\n- **nah** → **nächst**e / **am nächsten** (nearest)\n- **viel** → **meist**e / **am meisten** (most)\n- **gern** → **liebsten** (favorite)\n\n**Examples:**\n- Das ist **der beste** Wein. (That is the best wine.)\n- Sie singt **am besten**. (She sings the best.)\n- Das mag ich **am liebsten**. (I like that the best.)\n\n### Comparative Constructions\n\n#### \"immer + comparative\" (ever more)\n- Shows increasing intensity\n- **Examples:**\n  - Es wird **immer wärmer**. (It gets ever warmer.)\n  - Sie arbeitet **immer schneller**. (She works ever faster.)\n  - Das Auto fährt **immer teurer**. (The car gets ever more expensive.)\n\n#### \"je ... desto/umso\" (the more ... the more)\n- Connects two comparatives\n- **Examples:**\n  - **Je schneller** du fährst, **desto gefährlicher** ist es. (The faster you drive, the more dangerous it is.)\n  - **Je mehr** du isst, **umso dicker** wirst du. (The more you eat, the fatter you get.)\n\n#### \"so ... wie möglich\" (as ... as possible)\n- Expresses maximum degree\n- **Examples:**\n  - Komm **so schnell wie möglich**! (Come as fast as possible!)\n  - Iss **so viel wie möglich**! (Eat as much as possible!)\n\n### Declension in Comparative and Superlative\n\n#### After Definite Articles (Weak Declension)\n- der **größer**e Mann (the bigger man)\n- die **schön**ere Frau (the more beautiful woman)\n- das **kleiner**e Haus (the smaller house)\n\n#### Without Articles (Strong Declension)\n- **größer**er Mann (bigger man)\n- **schön**ere Frau (more beautiful woman)\n- **kleiner**es Haus (smaller house)\n\n---\n\n## Adverbs of Time, Place, and Manner\n\n### Adverbs of Time\n\n#### Position\n- Usually at the beginning or end of sentences\n- Time expressions often frame the sentence\n\n#### Common Time Adverbs\n- **jetzt** (now)\n- **heute** (today)\n- **morgen** (tomorrow)\n- **gestern** (yesterday)\n- **bald** (soon)\n- **später** (later)\n- **früher** (earlier)\n- **dann** (then)\n- **damals** (at that time)\n\n#### Time Phrases\n- **am Morgen** (in the morning)\n- **am Abend** (in the evening)\n- **am Wochenende** (on the weekend)\n- **nächste Woche** (next week)\n- **letzte Woche** (last week)\n- **seit drei Jahren** (for three years)\n- **vor zwei Tagen** (two days ago)\n\n**Examples:**\n- **Heute** gehe ich einkaufen. (Today I go shopping.)\n- Ich arbeite **am Wochenende**. (I work on the weekend.)\n- **Seit drei Jahren** wohne ich hier. (I have lived here for three years.)\n\n### Adverbs of Place\n\n#### Position\n- Usually after the verb\n- Question: **Wo?** (Where?)\n\n#### Common Place Adverbs\n- **hier** (here)\n- **dort/da** (there)\n- **oben** (above/up)\n- **unten** (below/down)\n- **links** (left)\n- **rechts** (right)\n- **vorn** (in front)\n- **hinten** (behind)\n- **innen** (inside)\n- **außen** (outside)\n\n#### Place Phrases\n- **zu Hause** (at home)\n- **in der Stadt** (in the city)\n- **auf dem Land** (in the country)\n- **im Büro** (in the office)\n- **bei der Arbeit** (at work)\n\n**Examples:**\n- Ich wohne **hier**. (I live here.)\n- Das Buch liegt **dort**. (The book lies there.)\n- Er sitzt **oben**. (He sits upstairs.)\n- Sie arbeitet **zu Hause**. (She works at home.)\n\n### Adverbs of Manner\n\n#### Formation\n- Many end in \"-weise\" or \"-mäßig\"\n- Describe how something is done\n\n#### Common Manner Adverbs\n- **gut** (well)\n- **schlecht** (badly)\n- **schnell** (fast)\n- **langsam** (slowly)\n- **richtig** (correctly)\n- **falsch** (wrongly)\n- **gern** (gladly)\n- **zusammen** (together)\n- **allein** (alone)\n\n#### Manner Phrases\n- **auf Deutsch** (in German)\n- **mit dem Auto** (by car)\n- **zu Fuß** (on foot)\n- **per E-Mail** (by email)\n- **telefonisch** (by phone)\n\n**Examples:**\n- Sie spricht **gut** Deutsch. (She speaks German well.)\n- Er fährt **schnell**. (He drives fast.)\n- Wir reisen **zusammen**. (We travel together.)\n- Sie antwortet **auf Deutsch**. (She answers in German.)\n\n### Word Order: Time, Manner, Place\n\n#### Standard Order\n- **Time** → **Manner** → **Place**\n- This order applies in main clauses\n\n**Examples:**\n- Ich gehe **morgen** **schnell** **nach Hause**. (I go home quickly tomorrow.)\n- Sie arbeitet **heute** **hart** **im Büro**. (She works hard in the office today.)\n- Wir essen **abends** **gern** **italienisch**. (We like to eat Italian food in the evenings.)\n\n#### Exceptions\n- Time expressions can come first for emphasis\n- Place can come before manner in some contexts\n\n---\n\n## Practice Exercises\n\n### Exercise 1: Adverb Formation\nForm adverbs from the following adjectives:\n\n1. schnell → __________\n2. schön → __________\n3. laut → __________\n4. vorsichtig → __________\n5. glücklich → __________\n\n### Exercise 2: Comparative Forms\nForm the comparative and superlative:\n\n1. groß: comp. __________, superl. __________\n2. gut: comp. __________, superl. __________\n3. nah: comp. __________, superl. __________\n4. viel: comp. __________, superl. __________\n\n### Exercise 3: Comparative Sentences\nComplete with comparative forms:\n\n1. Berlin ist ___ (groß) als München. (bigger)\n2. Sie singt ___ (gut) als ich. (better)\n3. Das Haus ist ___ (schön) als erwartet. (more beautiful)\n4. Er läuft ___ (schnell) als sein Bruder. (faster)\n\n### Exercise 4: Superlative Sentences\nComplete with superlative forms:\n\n1. Das ist ___ (groß) Stadt Deutschlands. (the biggest)\n2. Sie läuft ___ (schnell). (the fastest)\n3. Das ist ___ (gut) Film, den ich gesehen habe. (the best)\n4. Er wohnt ___ (nah) bei der Arbeit. (closest)\n\n### Exercise 5: Adverbs of Time, Place, Manner\nClassify the adverbs:\n\n1. heute ___ (time)\n2. hier ___ (place)\n3. schnell ___ (manner)\n4. morgen ___ (time)\n5. dort ___ (place)\n6. gern ___ (manner)\n\n### Exercise 6: Word Order\nArrange the adverbs in correct order (time-manner-place):\n\n1. ich / ins Kino / gehe / schnell / morgen\n   → ____________________________________\n2. sie / arbeitet / hart / im Büro / heute\n   → ____________________________________\n3. wir / essen / italienisch / abends / gern\n   → ____________________________________\n\n---\n\n## Common Mistakes to Avoid\n\n1. **Adverb formation**\n   - ❌ schönlich (wrong ending)\n   - ✅ schön (no ending needed)\n\n2. **Comparative without als**\n   - ❌ Sie ist größer ich. (missing als)\n   - ✅ Sie ist größer als ich.\n\n3. **Superlative article**\n   - ❌ Das ist schönste Haus.\n   - ✅ Das ist das schönste Haus.\n\n4. **Irregular forms**\n   - ❌ Sie singt gut als ich.\n   - ✅ Sie singt besser als ich.\n\n5. **Word order**\n   - ❌ Ich schnell fahre nach Hause morgen.\n   - ✅ Ich fahre morgen schnell nach Hause.\n\n6. **Declension in comparative**\n   - ❌ ein größer Haus (wrong declension)\n   - ✅ ein größeres Haus (correct mixed declension)\n\n---\n\n## Summary\n\n- **Adverb formation**: Most adjectives + \"-e\", some irregular (gut → gut)\n- **Comparative**: adjective + \"-er\" + als (besser, größer)\n- **Superlative**: adjective + \"-sten\" / am + adverb + \"-sten\" (beste, am besten)\n- **Irregular forms**: gut-besser-beste, viel-mehr-meiste\n- **Word order**: Time → Manner → Place\n- **Time adverbs**: heute, morgen, bald\n- **Place adverbs**: hier, dort, oben\n- **Manner adverbs**: schnell, gut, gern\n\n---\n\n## Vocabulary List\n\n- **das Adverb** / **die Adverbien** - adverb\n- **das Adjektiv** / **die Adjektive** - adjective\n- **der Komparativ** - comparative\n- **der Superlativ** - superlative\n- **vergleichen** - to compare\n- **der Grad** - degree\n- **die Steigerung** - comparison/increase\n- **als** - than/as\n- **am ...sten** - the most\n- **so ... wie möglich** - as ... as possible\n- **je ... desto** - the more ... the more\n- **immer + comparative** - ever more\n- **die Zeit** - time\n- **der Ort** - place\n- **die Art und Weise** - manner",
+  "sections": [
+    {
+      "order": 1,
+      "level": 2,
+      "title": "Adverb Formation",
+      "content": ""
+    },
+    {
+      "order": 2,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Adverbs modify verbs, adjectives, or other adverbs. Many adverbs are formed from adjectives by adding \"-ly\" in English, but German has different patterns."
+    },
+    {
+      "order": 3,
+      "level": 3,
+      "title": "Formation from Adjectives",
+      "content": ""
+    },
+    {
+      "order": 4,
+      "level": 4,
+      "title": "Regular Formation: Adjective + \"-e\" / \"-en\"",
+      "content": "- Most adjectives form adverbs by adding \"-e\" or staying the same\n- **Examples:**\n  - schnell → **schnell**e (fast)\n  - schön → **schön**e (beautifully)\n  - laut → **laut**e (loudly)\n  - langsam → **langsam** (slowly)\n\n**Usage:**\n- Sie singt **schön**. (She sings beautifully.)\n- Er fährt **schnell**. (He drives fast.)\n- Sie spricht **laut**. (She speaks loudly.)"
+    },
+    {
+      "order": 5,
+      "level": 4,
+      "title": "Adjectives Ending in \"-lich\" or \"-ig\"",
+      "content": "- These adjectives form adverbs by adding \"-e\"\n- **Examples:**\n  - freundlich → **freundlich**e (friendly)\n  - glücklich → **glücklich**e (happily)\n  - vorsichtig → **vorsichtig**e (carefully)\n\n**Usage:**\n- Er grüßt **freundlich**. (He greets friendly.)\n- Sie lebt **glücklich**. (She lives happily.)\n- Fahre **vorsichtig**! (Drive carefully!)"
+    },
+    {
+      "order": 6,
+      "level": 3,
+      "title": "Irregular Adverb Forms",
+      "content": ""
+    },
+    {
+      "order": 7,
+      "level": 4,
+      "title": "Adjectives with Special Adverb Forms",
+      "content": "- **gut** (good) → **gut** (well)\n- **hoch** (high) → **hoch** (high)\n- **nah** (near) → **nah**e (near)\n- **teuer** (expensive) → **teuer** (expensively)\n\n**Examples:**\n- Sie singt sehr **gut**. (She sings very well.)\n- Der Adler fliegt sehr **hoch**. (The eagle flies very high.)\n- Wir wohnen ganz **nah**. (We live very near.)\n- Sie kauft **teuer** ein. (She shops expensively.)"
+    },
+    {
+      "order": 8,
+      "level": 3,
+      "title": "Adverbs Not Derived from Adjectives",
+      "content": ""
+    },
+    {
+      "order": 9,
+      "level": 4,
+      "title": "Time Adverbs",
+      "content": "- **jetzt** (now)\n- **heute** (today)\n- **morgen** (tomorrow)\n- **gestern** (yesterday)\n- **bald** (soon)\n- **später** (later)"
+    },
+    {
+      "order": 10,
+      "level": 4,
+      "title": "Place Adverbs",
+      "content": "- **hier** (here)\n- **dort** (there)\n- **oben** (above)\n- **unten** (below)\n- **links** (left)\n- **rechts** (right)"
+    },
+    {
+      "order": 11,
+      "level": 4,
+      "title": "Manner Adverbs",
+      "content": "- **so** (so)\n- **wie** (how)\n- **gern** (gladly)\n- **lieber** (rather)\n- **am liebsten** (best of all)"
+    },
+    {
+      "order": 12,
+      "level": 3,
+      "title": "Word Order with Adverbs",
+      "content": ""
+    },
+    {
+      "order": 13,
+      "level": 4,
+      "title": "Position in Sentences",
+      "content": "- Adverbs usually come after the verb\n- **Time** → **Manner** → **Place**\n- Example: Ich gehe **morgen** **schnell** **nach Hause**.\n\n**Examples:**\n- Sie arbeitet **heute** **hart**. (She works hard today.)\n- Er kommt **später** **mit dem Auto**. (He comes later by car.)\n- Wir essen **gern** **italienisch**. (We like to eat Italian food.)"
+    },
+    {
+      "order": 14,
+      "level": 4,
+      "title": "Adverbs with Modal Particles",
+      "content": "- Modal particles (doch, ja, wohl, etc.) come at the end\n- Example: Komm **doch** mit! (Do come along!)"
+    },
+    {
+      "order": 15,
+      "level": 3,
+      "title": "Adverbial Phrases",
+      "content": ""
+    },
+    {
+      "order": 16,
+      "level": 4,
+      "title": "Prepositional Phrases as Adverbs",
+      "content": "- **mit dem Auto** (by car)\n- **ohne Probleme** (without problems)\n- **auf Deutsch** (in German)\n- **seit drei Jahren** (for three years)\n\n**Examples:**\n- Sie fährt **mit dem Auto**. (She drives by car.)\n- Er spricht **auf Deutsch**. (He speaks in German.)\n- Wir warten **seit drei Jahren**. (We have been waiting for three years.)\n\n---"
+    },
+    {
+      "order": 17,
+      "level": 2,
+      "title": "Comparative and Superlative",
+      "content": ""
+    },
+    {
+      "order": 18,
+      "level": 3,
+      "title": "Introduction",
+      "content": "Comparative and superlative forms compare qualities. German has regular and irregular forms."
+    },
+    {
+      "order": 19,
+      "level": 3,
+      "title": "Comparative Formation",
+      "content": ""
+    },
+    {
+      "order": 20,
+      "level": 4,
+      "title": "Regular Comparative: Adjective/Adverb + \"-er\"",
+      "content": "- Add \"-er\" to the base form\n- Use \"als\" to compare: A ist größer **als** B\n\n**Examples:**\n- groß → **größer** (bigger)\n- klein → **kleiner** (smaller)\n- schnell → **schneller** (faster)\n- schön → **schöner** (more beautiful)\n\n**Usage:**\n- Berlin ist **größer als** München. (Berlin is bigger than Munich.)\n- Sie läuft **schneller als** ich. (She runs faster than me.)\n- Das Haus ist **schöner als** erwartet. (The house is more beautiful than expected.)"
+    },
+    {
+      "order": 21,
+      "level": 4,
+      "title": "Irregular Comparatives",
+      "content": "- **gut** → **besser** (better)\n- **hoch** → **höher** (higher)\n- **nah** → **näher** (nearer)\n- **viel** → **mehr** (more)\n- **gern** → **lieber** (rather)\n\n**Examples:**\n- Sie singt **besser als** ich. (She sings better than me.)\n- Der Berg ist **höher als** erwartet. (The mountain is higher than expected.)\n- Ich esse **lieber** Pizza. (I prefer to eat pizza.)"
+    },
+    {
+      "order": 22,
+      "level": 3,
+      "title": "Superlative Formation",
+      "content": ""
+    },
+    {
+      "order": 23,
+      "level": 4,
+      "title": "Regular Superlative: Adjective/Adverb + \"-sten\"",
+      "content": "- Add \"-sten\" to the base form\n- Use definite article: der/die/das + superlative\n- **am + adverb + -sten** for adverbs\n\n**Examples:**\n- groß → **größt**e (biggest)\n- klein → **kleinst**e (smallest)\n- schnell → **schnellst**e (fastest)\n- schön → **schönst**e (most beautiful)\n\n**Usage:**\n- Berlin ist **die größte** Stadt Deutschlands. (Berlin is the biggest city in Germany.)\n- Sie läuft **am schnellsten**. (She runs the fastest.)\n- Das ist **das schönste** Haus. (That is the most beautiful house.)"
+    },
+    {
+      "order": 24,
+      "level": 4,
+      "title": "Irregular Superlatives",
+      "content": "- **gut** → **best**e / **am besten** (best)\n- **hoch** → **höchst**e / **am höchsten** (highest)\n- **nah** → **nächst**e / **am nächsten** (nearest)\n- **viel** → **meist**e / **am meisten** (most)\n- **gern** → **liebsten** (favorite)\n\n**Examples:**\n- Das ist **der beste** Wein. (That is the best wine.)\n- Sie singt **am besten**. (She sings the best.)\n- Das mag ich **am liebsten**. (I like that the best.)"
+    },
+    {
+      "order": 25,
+      "level": 3,
+      "title": "Comparative Constructions",
+      "content": ""
+    },
+    {
+      "order": 26,
+      "level": 4,
+      "title": "\"immer + comparative\" (ever more)",
+      "content": "- Shows increasing intensity\n- **Examples:**\n  - Es wird **immer wärmer**. (It gets ever warmer.)\n  - Sie arbeitet **immer schneller**. (She works ever faster.)\n  - Das Auto fährt **immer teurer**. (The car gets ever more expensive.)"
+    },
+    {
+      "order": 27,
+      "level": 4,
+      "title": "\"je ... desto/umso\" (the more ... the more)",
+      "content": "- Connects two comparatives\n- **Examples:**\n  - **Je schneller** du fährst, **desto gefährlicher** ist es. (The faster you drive, the more dangerous it is.)\n  - **Je mehr** du isst, **umso dicker** wirst du. (The more you eat, the fatter you get.)"
+    },
+    {
+      "order": 28,
+      "level": 4,
+      "title": "\"so ... wie möglich\" (as ... as possible)",
+      "content": "- Expresses maximum degree\n- **Examples:**\n  - Komm **so schnell wie möglich**! (Come as fast as possible!)\n  - Iss **so viel wie möglich**! (Eat as much as possible!)"
+    },
+    {
+      "order": 29,
+      "level": 3,
+      "title": "Declension in Comparative and Superlative",
+      "content": ""
+    },
+    {
+      "order": 30,
+      "level": 4,
+      "title": "After Definite Articles (Weak Declension)",
+      "content": "- der **größer**e Mann (the bigger man)\n- die **schön**ere Frau (the more beautiful woman)\n- das **kleiner**e Haus (the smaller house)"
+    },
+    {
+      "order": 31,
+      "level": 4,
+      "title": "Without Articles (Strong Declension)",
+      "content": "- **größer**er Mann (bigger man)\n- **schön**ere Frau (more beautiful woman)\n- **kleiner**es Haus (smaller house)\n\n---"
+    },
+    {
+      "order": 32,
+      "level": 2,
+      "title": "Adverbs of Time, Place, and Manner",
+      "content": ""
+    },
+    {
+      "order": 33,
+      "level": 3,
+      "title": "Adverbs of Time",
+      "content": ""
+    },
+    {
+      "order": 34,
+      "level": 4,
+      "title": "Position",
+      "content": "- Usually at the beginning or end of sentences\n- Time expressions often frame the sentence"
+    },
+    {
+      "order": 35,
+      "level": 4,
+      "title": "Common Time Adverbs",
+      "content": "- **jetzt** (now)\n- **heute** (today)\n- **morgen** (tomorrow)\n- **gestern** (yesterday)\n- **bald** (soon)\n- **später** (later)\n- **früher** (earlier)\n- **dann** (then)\n- **damals** (at that time)"
+    },
+    {
+      "order": 36,
+      "level": 4,
+      "title": "Time Phrases",
+      "content": "- **am Morgen** (in the morning)\n- **am Abend** (in the evening)\n- **am Wochenende** (on the weekend)\n- **nächste Woche** (next week)\n- **letzte Woche** (last week)\n- **seit drei Jahren** (for three years)\n- **vor zwei Tagen** (two days ago)\n\n**Examples:**\n- **Heute** gehe ich einkaufen. (Today I go shopping.)\n- Ich arbeite **am Wochenende**. (I work on the weekend.)\n- **Seit drei Jahren** wohne ich hier. (I have lived here for three years.)"
+    },
+    {
+      "order": 37,
+      "level": 3,
+      "title": "Adverbs of Place",
+      "content": ""
+    },
+    {
+      "order": 38,
+      "level": 4,
+      "title": "Position",
+      "content": "- Usually after the verb\n- Question: **Wo?** (Where?)"
+    },
+    {
+      "order": 39,
+      "level": 4,
+      "title": "Common Place Adverbs",
+      "content": "- **hier** (here)\n- **dort/da** (there)\n- **oben** (above/up)\n- **unten** (below/down)\n- **links** (left)\n- **rechts** (right)\n- **vorn** (in front)\n- **hinten** (behind)\n- **innen** (inside)\n- **außen** (outside)"
+    },
+    {
+      "order": 40,
+      "level": 4,
+      "title": "Place Phrases",
+      "content": "- **zu Hause** (at home)\n- **in der Stadt** (in the city)\n- **auf dem Land** (in the country)\n- **im Büro** (in the office)\n- **bei der Arbeit** (at work)\n\n**Examples:**\n- Ich wohne **hier**. (I live here.)\n- Das Buch liegt **dort**. (The book lies there.)\n- Er sitzt **oben**. (He sits upstairs.)\n- Sie arbeitet **zu Hause**. (She works at home.)"
+    },
+    {
+      "order": 41,
+      "level": 3,
+      "title": "Adverbs of Manner",
+      "content": ""
+    },
+    {
+      "order": 42,
+      "level": 4,
+      "title": "Formation",
+      "content": "- Many end in \"-weise\" or \"-mäßig\"\n- Describe how something is done"
+    },
+    {
+      "order": 43,
+      "level": 4,
+      "title": "Common Manner Adverbs",
+      "content": "- **gut** (well)\n- **schlecht** (badly)\n- **schnell** (fast)\n- **langsam** (slowly)\n- **richtig** (correctly)\n- **falsch** (wrongly)\n- **gern** (gladly)\n- **zusammen** (together)\n- **allein** (alone)"
+    },
+    {
+      "order": 44,
+      "level": 4,
+      "title": "Manner Phrases",
+      "content": "- **auf Deutsch** (in German)\n- **mit dem Auto** (by car)\n- **zu Fuß** (on foot)\n- **per E-Mail** (by email)\n- **telefonisch** (by phone)\n\n**Examples:**\n- Sie spricht **gut** Deutsch. (She speaks German well.)\n- Er fährt **schnell**. (He drives fast.)\n- Wir reisen **zusammen**. (We travel together.)\n- Sie antwortet **auf Deutsch**. (She answers in German.)"
+    },
+    {
+      "order": 45,
+      "level": 3,
+      "title": "Word Order: Time, Manner, Place",
+      "content": ""
+    },
+    {
+      "order": 46,
+      "level": 4,
+      "title": "Standard Order",
+      "content": "- **Time** → **Manner** → **Place**\n- This order applies in main clauses\n\n**Examples:**\n- Ich gehe **morgen** **schnell** **nach Hause**. (I go home quickly tomorrow.)\n- Sie arbeitet **heute** **hart** **im Büro**. (She works hard in the office today.)\n- Wir essen **abends** **gern** **italienisch**. (We like to eat Italian food in the evenings.)"
+    },
+    {
+      "order": 47,
+      "level": 4,
+      "title": "Exceptions",
+      "content": "- Time expressions can come first for emphasis\n- Place can come before manner in some contexts\n\n---"
+    },
+    {
+      "order": 48,
+      "level": 2,
+      "title": "Practice Exercises",
+      "content": ""
+    },
+    {
+      "order": 49,
+      "level": 3,
+      "title": "Exercise 1: Adverb Formation",
+      "content": "Form adverbs from the following adjectives:\n\n1. schnell → __________\n2. schön → __________\n3. laut → __________\n4. vorsichtig → __________\n5. glücklich → __________"
+    },
+    {
+      "order": 50,
+      "level": 3,
+      "title": "Exercise 2: Comparative Forms",
+      "content": "Form the comparative and superlative:\n\n1. groß: comp. __________, superl. __________\n2. gut: comp. __________, superl. __________\n3. nah: comp. __________, superl. __________\n4. viel: comp. __________, superl. __________"
+    },
+    {
+      "order": 51,
+      "level": 3,
+      "title": "Exercise 3: Comparative Sentences",
+      "content": "Complete with comparative forms:\n\n1. Berlin ist ___ (groß) als München. (bigger)\n2. Sie singt ___ (gut) als ich. (better)\n3. Das Haus ist ___ (schön) als erwartet. (more beautiful)\n4. Er läuft ___ (schnell) als sein Bruder. (faster)"
+    },
+    {
+      "order": 52,
+      "level": 3,
+      "title": "Exercise 4: Superlative Sentences",
+      "content": "Complete with superlative forms:\n\n1. Das ist ___ (groß) Stadt Deutschlands. (the biggest)\n2. Sie läuft ___ (schnell). (the fastest)\n3. Das ist ___ (gut) Film, den ich gesehen habe. (the best)\n4. Er wohnt ___ (nah) bei der Arbeit. (closest)"
+    },
+    {
+      "order": 53,
+      "level": 3,
+      "title": "Exercise 5: Adverbs of Time, Place, Manner",
+      "content": "Classify the adverbs:\n\n1. heute ___ (time)\n2. hier ___ (place)\n3. schnell ___ (manner)\n4. morgen ___ (time)\n5. dort ___ (place)\n6. gern ___ (manner)"
+    },
+    {
+      "order": 54,
+      "level": 3,
+      "title": "Exercise 6: Word Order",
+      "content": "Arrange the adverbs in correct order (time-manner-place):\n\n1. ich / ins Kino / gehe / schnell / morgen\n   → ____________________________________\n2. sie / arbeitet / hart / im Büro / heute\n   → ____________________________________\n3. wir / essen / italienisch / abends / gern\n   → ____________________________________\n\n---"
+    },
+    {
+      "order": 55,
+      "level": 2,
+      "title": "Common Mistakes to Avoid",
+      "content": "1. **Adverb formation**\n   - ❌ schönlich (wrong ending)\n   - ✅ schön (no ending needed)\n\n2. **Comparative without als**\n   - ❌ Sie ist größer ich. (missing als)\n   - ✅ Sie ist größer als ich.\n\n3. **Superlative article**\n   - ❌ Das ist schönste Haus.\n   - ✅ Das ist das schönste Haus.\n\n4. **Irregular forms**\n   - ❌ Sie singt gut als ich.\n   - ✅ Sie singt besser als ich.\n\n5. **Word order**\n   - ❌ Ich schnell fahre nach Hause morgen.\n   - ✅ Ich fahre morgen schnell nach Hause.\n\n6. **Declension in comparative**\n   - ❌ ein größer Haus (wrong declension)\n   - ✅ ein größeres Haus (correct mixed declension)\n\n---"
+    },
+    {
+      "order": 56,
+      "level": 2,
+      "title": "Summary",
+      "content": "- **Adverb formation**: Most adjectives + \"-e\", some irregular (gut → gut)\n- **Comparative**: adjective + \"-er\" + als (besser, größer)\n- **Superlative**: adjective + \"-sten\" / am + adverb + \"-sten\" (beste, am besten)\n- **Irregular forms**: gut-besser-beste, viel-mehr-meiste\n- **Word order**: Time → Manner → Place\n- **Time adverbs**: heute, morgen, bald\n- **Place adverbs**: hier, dort, oben\n- **Manner adverbs**: schnell, gut, gern\n\n---"
+    },
+    {
+      "order": 57,
+      "level": 2,
+      "title": "Vocabulary List",
+      "content": "- **das Adverb** / **die Adverbien** - adverb\n- **das Adjektiv** / **die Adjektive** - adjective\n- **der Komparativ** - comparative\n- **der Superlativ** - superlative\n- **vergleichen** - to compare\n- **der Grad** - degree\n- **die Steigerung** - comparison/increase\n- **als** - than/as\n- **am ...sten** - the most\n- **so ... wie möglich** - as ... as possible\n- **je ... desto** - the more ... the more\n- **immer + comparative** - ever more\n- **die Zeit** - time\n- **der Ort** - place\n- **die Art und Weise** - manner"
+    }
+  ],
+  "tags": [
+    "articles",
+    "adjectives",
+    "modal verbs",
+    "prepositions",
+    "vocabulary",
+    "adverbs"
+  ],
+  "contentHash": "04c99f8c6f7ad1cfd5ad116c264e7b371513185afb55c9c3abffe8c5bdec4d08"
+}

@@ -4,12 +4,23 @@ import { v } from "convex/values";
 export default defineSchema({
   lessons: defineTable({
     date: v.string(),
+    slug: v.optional(v.string()),
+    order: v.optional(v.number()),
     title: v.string(),
     source: v.optional(v.string()),
+    sourceMarkdownFile: v.optional(v.string()),
+    jsonPath: v.optional(v.string()),
+    jsonUrl: v.optional(v.string()),
+    contentHash: v.optional(v.string()),
     notes: v.optional(v.string()),
+    priority: v.optional(v.number()),
+    lastReviewedAt: v.optional(v.number()),
+    reviewScore: v.optional(v.number()),
+    refreshCount: v.optional(v.number()),
+    tags: v.optional(v.array(v.string())),
     createdAt: v.number(),
     updatedAt: v.number(),
-  }).index("by_date", ["date"]),
+  }).index("by_date", ["date"]).index("by_slug", ["slug"]),
 
   sentences: defineTable({
     lessonId: v.id("lessons"),
@@ -27,6 +38,7 @@ export default defineSchema({
   reviewCards: defineTable({
     sourceSentenceId: v.optional(v.id("sentences")),
     lessonId: v.optional(v.id("lessons")),
+    lessonSlug: v.optional(v.string()),
     prompt: v.string(),
     answer: v.string(),
     cardType: v.union(v.literal("fix_sentence"), v.literal("choose"), v.literal("fill_blank"), v.literal("translate"), v.literal("note")),
@@ -39,5 +51,5 @@ export default defineSchema({
     tags: v.array(v.string()),
     createdAt: v.number(),
     updatedAt: v.number(),
-  }).index("by_due_date", ["dueDate"]),
+  }).index("by_due_date", ["dueDate"]).index("by_lesson_slug", ["lessonSlug"]),
 });

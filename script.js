@@ -88,12 +88,12 @@ function renderLessonOptions() {
   lessons.forEach((lesson, index) => {
     const option = document.createElement('option');
     option.value = String(index);
-    option.textContent = lesson.date;
+    option.textContent = lesson.order ? `${lesson.order}. ${lesson.title}` : (lesson.date || lesson.title);
     lessonSelect.appendChild(option);
   });
 }
 
-function renderLesson(index = 0) {
+async function renderLesson(index = 0) {
   const lesson = lessons[index];
   if (!lesson) {
     lessonMeta.textContent = 'No lessons yet.';
@@ -101,16 +101,38 @@ function renderLesson(index = 0) {
     return;
   }
   const sortedSentences = [...(lesson.sentences || [])].sort((a, b) => (a.order || 0) - (b.order || 0));
-  lessonMeta.textContent = `${lesson.date} · ${lesson.title} · ${sortedSentences.length} cards · ${lesson.source || 'Convex'}`;
-  sentenceCards.innerHTML = sortedSentences.map((item, i) => `
-    <article class="sentence-card">
-      <div class="top"><strong>#${item.order || i + 1}</strong><span class="status ${statusClass(item.status)}">${statusLabel(item.status)}</span></div>
-      <p class="original">${escapeHtml(item.original)}</p>
-      <p class="corrected"><strong>Correction:</strong><br>${escapeHtml(item.corrected || 'Awaiting correction')}</p>
-      <p class="explanation">${escapeHtml(item.explanation || 'No explanation yet.')}</p>
-      <div class="tag-cloud">${(item.tags || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>
-    </article>
-  `).join('');
+  const priority = Number(lesson.priority ?? 1).toFixed(2);
+  lessonMeta.textContent = `${lesson.order ? `#${lesson.order} · ` : ''}${lesson.title} · priority ${priority} · ${lesson.source || 'Convex'}`;
+  if (sortedSentences.length) {
+    sentenceCards.innerHTML = sortedSentences.map((item, i) => `
+      <article class="sentence-card">
+        <div class="top"><strong>#${item.order || i + 1}</strong><span class="status ${statusClass(item.status)}">${statusLabel(item.status)}</span></div>
+        <p class="original">${escapeHtml(item.original)}</p>
+        <p class="corrected"><strong>Correction:</strong><br>${escapeHtml(item.corrected || 'Awaiting correction')}</p>
+        <p class="explanation">${escapeHtml(item.explanation || 'No explanation yet.')}</p>
+        <div class="tag-cloud">${(item.tags || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>
+      </article>
+    `).join('');
+    return;
+  }
+  if (lesson.jsonPath) {
+    sentenceCards.innerHTML = '<article class="sentence-card"><p class="muted">Loading lesson JSON from GitHub Pages…</p></article>';
+    try {
+      const response = await fetch(lesson.jsonPath);
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const data = await response.json();
+      sentenceCards.innerHTML = `
+        <article class="sentence-card wide">
+          <div class="top"><strong>${escapeHtml(data.title || lesson.title)}</strong><span class="status correct">JSON lesson</span></div>
+          <p class="muted">${escapeHtml(lesson.jsonPath)} · ${escapeHtml((data.tags || []).join(', '))}</p>
+          <pre class="lesson-markdown">${escapeHtml(data.markdown || '')}</pre>
+        </article>`;
+    } catch (error) {
+      sentenceCards.innerHTML = `<article class="sentence-card"><p class="explanation">Could not load ${escapeHtml(lesson.jsonPath)}: ${escapeHtml(error.message)}</p></article>`;
+    }
+    return;
+  }
+  sentenceCards.innerHTML = '<article class="sentence-card"><p class="muted">No lesson body or sentence cards available.</p></article>';
 }
 
 function renderVocab() {

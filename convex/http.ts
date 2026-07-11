@@ -16,28 +16,24 @@ function jsonResponse(data: unknown, status = 200) {
   });
 }
 
-http.route({
-  path: "/lessons",
-  method: "OPTIONS",
-  handler: httpAction(async () => new Response(null, { status: 204, headers: corsHeaders })),
-});
-
-http.route({
-  path: "/cards",
-  method: "OPTIONS",
-  handler: httpAction(async () => new Response(null, { status: 204, headers: corsHeaders })),
-});
-
-http.route({
-  path: "/cards/rate",
-  method: "OPTIONS",
-  handler: httpAction(async () => new Response(null, { status: 204, headers: corsHeaders })),
-});
+for (const path of ["/lessons", "/lessons/import", "/lessons/review-queue", "/lessons/review", "/cards", "/cards/rate"]) {
+  http.route({
+    path,
+    method: "OPTIONS",
+    handler: httpAction(async () => new Response(null, { status: 204, headers: corsHeaders })),
+  });
+}
 
 http.route({
   path: "/lessons",
   method: "GET",
   handler: httpAction(async (ctx) => jsonResponse(await ctx.runQuery(api.lessons.list, {}))),
+});
+
+http.route({
+  path: "/lessons/review-queue",
+  method: "GET",
+  handler: httpAction(async (ctx) => jsonResponse(await ctx.runQuery(api.lessons.reviewQueue, {}))),
 });
 
 http.route({
@@ -48,6 +44,34 @@ http.route({
       const body = await request.json();
       const result = await ctx.runMutation(api.lessons.upsert, body);
       return jsonResponse(result, 201);
+    } catch (error) {
+      return jsonResponse({ error: error instanceof Error ? error.message : String(error) }, 400);
+    }
+  }),
+});
+
+http.route({
+  path: "/lessons/import",
+  method: "POST",
+  handler: httpAction(async (ctx, request) => {
+    try {
+      const body = await request.json();
+      const result = await ctx.runMutation(api.lessons.importJsonLessons, body);
+      return jsonResponse(result, 201);
+    } catch (error) {
+      return jsonResponse({ error: error instanceof Error ? error.message : String(error) }, 400);
+    }
+  }),
+});
+
+http.route({
+  path: "/lessons/review",
+  method: "POST",
+  handler: httpAction(async (ctx, request) => {
+    try {
+      const body = await request.json();
+      const result = await ctx.runMutation(api.lessons.markReviewed, body);
+      return jsonResponse(result, 200);
     } catch (error) {
       return jsonResponse({ error: error instanceof Error ? error.message : String(error) }, 400);
     }
