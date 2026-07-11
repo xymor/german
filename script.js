@@ -122,10 +122,17 @@ async function renderLesson(index = 0) {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
       sentenceCards.innerHTML = `
-        <article class="sentence-card wide">
-          <div class="top"><strong>${escapeHtml(data.title || lesson.title)}</strong><span class="status correct">JSON lesson</span></div>
-          <p class="muted">${escapeHtml(lesson.jsonPath)} · ${escapeHtml((data.tags || []).join(', '))}</p>
-          <pre class="lesson-markdown">${escapeHtml(data.markdown || '')}</pre>
+        <article class="lesson-article sentence-card wide">
+          <header class="lesson-article__header">
+            <div>
+              <span class="eyebrow">Structured lesson</span>
+              <h3>${escapeHtml(data.title || lesson.title)}</h3>
+              <p class="lesson-source">${escapeHtml(lesson.jsonPath)}</p>
+            </div>
+            <span class="status correct">JSON lesson</span>
+          </header>
+          <div class="lesson-tags">${(data.tags || []).map(t => `<span>${escapeHtml(t)}</span>`).join('')}</div>
+          <div class="lesson-content">${markdownToLessonHtml(data.markdown || '')}</div>
         </article>`;
     } catch (error) {
       sentenceCards.innerHTML = `<article class="sentence-card"><p class="explanation">Could not load ${escapeHtml(lesson.jsonPath)}: ${escapeHtml(error.message)}</p></article>`;
@@ -206,6 +213,117 @@ async function handleAddLesson(event) {
   } catch (error) {
     dataStatus.textContent = `Could not save lesson: ${error.message}`;
   }
+}
+
+function markdownToLessonHtml(markdown) {
+  const lines = String(markdown || '').replace(/\r\n/g, '\n').split('\n');
+  const html = [];
+  let index = 0;
+
+  while (index < lines.length) {
+    const line = lines[index];
+    const trimmed = line.trim();
+
+    if (!trimmed) {
+      index += 1;
+      continue;
+    }
+
+    const heading = /^(#{1,4})\s+(.+)$/.exec(trimmed);
+    if (heading) {
+      const level = Math.min(heading[1].length + 1, 5);
+      html.push(`<h${level}>${formatInline(heading[2])}</h${level}>`);
+      index += 1;
+      continue;
+    }
+
+    if (isMarkdownTableStart(lines, index)) {
+      const { tableHtml, nextIndex } = renderMarkdownTable(lines, index);
+      html.push(tableHtml);
+      index = nextIndex;
+      continue;
+    }
+
+    if (/^[-*]\s+/.test(trimmed)) {
+      const items = [];
+      while (index < lines.length && /^[-*]\s+/.test(lines[index].trim())) {
+        items.push(`<li>${formatInline(lines[index].trim().replace(/^[-*]\s+/, ''))}</li>`);
+        index += 1;
+      }
+      html.push(`<ul>${items.join('')}</ul>`);
+      continue;
+    }
+
+    if (/^\d+[.)]\s+/.test(trimmed)) {
+      const items = [];
+      while (index < lines.length && /^\d+[.)]\s+/.test(lines[index].trim())) {
+        items.push(`<li>${formatInline(lines[index].trim().replace(/^\d+[.)]\s+/, ''))}</li>`);
+        index += 1;
+      }
+      html.push(`<ol>${items.join('')}</ol>`);
+      continue;
+    }
+
+    if (/^>\s?/.test(trimmed)) {
+      const quotes = [];
+      while (index < lines.length && /^>\s?/.test(lines[index].trim())) {
+        quotes.push(formatInline(lines[index].trim().replace(/^>\s?/, '')));
+        index += 1;
+      }
+      html.push(`<blockquote>${quotes.join('<br>')}</blockquote>`);
+      continue;
+    }
+
+    const paragraph = [trimmed];
+    index += 1;
+    while (
+      index < lines.length &&
+      lines[index].trim() &&
+      !/^(#{1,4})\s+/.test(lines[index].trim()) &&
+      !/^[-*]\s+/.test(lines[index].trim()) &&
+      !/^\d+[.)]\s+/.test(lines[index].trim()) &&
+      !/^>\s?/.test(lines[index].trim()) &&
+      !isMarkdownTableStart(lines, index)
+    ) {
+      paragraph.push(lines[index].trim());
+      index += 1;
+    }
+    html.push(`<p>${formatInline(paragraph.join(' '))}</p>`);
+  }
+
+  return html.join('');
+}
+
+function isMarkdownTableStart(lines, index) {
+  return Boolean(
+    lines[index]?.includes('|') &&
+    lines[index + 1] &&
+    /^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?\s*$/.test(lines[index + 1])
+  );
+}
+
+function renderMarkdownTable(lines, startIndex) {
+  const headerCells = splitTableRow(lines[startIndex]);
+  let index = startIndex + 2;
+  const rows = [];
+  while (index < lines.length && lines[index].includes('|') && lines[index].trim()) {
+    rows.push(splitTableRow(lines[index]));
+    index += 1;
+  }
+  const thead = `<thead><tr>${headerCells.map(cell => `<th>${formatInline(cell)}</th>`).join('')}</tr></thead>`;
+  const tbody = `<tbody>${rows.map(row => `<tr>${headerCells.map((_, cellIndex) => `<td>${formatInline(row[cellIndex] || '')}</td>`).join('')}</tr>`).join('')}</tbody>`;
+  return { tableHtml: `<div class="lesson-table-wrap"><table>${thead}${tbody}</table></div>`, nextIndex: index };
+}
+
+function splitTableRow(row) {
+  return row.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map(cell => cell.trim());
+}
+
+function formatInline(value) {
+  return escapeHtml(value)
+    .replace(/`([^`]+)`/g, '<code>$1</code>')
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*([^*]+)\*/g, '<em>$1</em>');
 }
 
 function escapeHtml(value) {
